@@ -1,0 +1,151 @@
+/* Compact preview: same content, smaller type above body size, tighter spacing, smaller tiles. Loaded after style.css. */
+.section { padding: 60px 0; }
+.section-head { gap: 24px; margin-bottom: 26px; }
+.eyebrow { margin-bottom: 10px; font-size: 12px; }
+.h2 { max-width: 18ch; font-size: clamp(28px, 3.2vw, 40px); }
+.h3 { font-size: 18px; }
+.lede { font-size: 15px; }
+
+.hero { padding: 60px 0 44px; }
+.hero h1 { margin-bottom: 16px; font-size: clamp(34px, 4.6vw, 58px); }
+.hero .sub { font-size: 16px; }
+.stats { margin-top: 36px; }
+.stats b { font-size: 32px; }
+
+/* generator */
+.idea { padding: 28px; }
+.idea-title { margin: 14px 0 12px; font-size: clamp(24px, 2.6vw, 32px); }
+.idea-pitch { margin-bottom: 20px; font-size: 16px; }
+.idea h4 { margin: 20px 0 8px; }
+.idea-cols { gap: 22px; padding-top: 18px; }
+.idea-cols p, .questions li, .related li { font-size: 14px; }
+.idea-actions { margin-top: 22px; padding-top: 18px; }
+.lineup { gap: 10px; }
+.lineup li { padding: 10px; }
+.av { width: 38px; height: 38px; }
+.shortlist { padding: 20px; }
+
+/* gap analysis */
+.gap { grid-template-columns: 44px 1fr; padding: 14px 0; }
+.gap-rank { font-size: 22px; }
+.gap-head h3, .gap-score { font-size: 18px; }
+.gap-why { font-size: 14px; }
+.gap-block { margin-top: 44px; }
+
+/* tiles: archive cards, news cards (both versions) */
+.cards { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+.card { gap: 10px; padding: 18px; }
+.card h3 { font-size: 16px; }
+.card-top .yr { font-size: 14px; }
+.card .desc { font-size: 13px; }
+.news-card { gap: 12px; padding: 18px; }
+.news-card h3 { font-size: 17px; }
+.news-heads a { font-size: 14px; }
+.news-past { font-size: 13px; }
+.story { gap: 28px; padding: 24px; }
+.story-title { font-size: clamp(22px, 2.2vw, 26px); }
+.headlines li, .matches li { padding: 8px 0; font-size: 14px; }
+
+.footer { padding: 36px 0; }
+
+/* dense lists: heatmap rows, sport bars, news topic table, story lists, speaker chips */
+.heat-label, .cell { height: 22px; }
+.heat-label { font-size: 12px; }
+.cell { font-size: 11px; border-radius: 4px; }
+.sport-bars li { padding: 3px 0; font-size: 13px; }
+.news-topics li { padding: 5px 0; font-size: 13px; }
+.story-panels h4, .story-kicker { margin-bottom: 6px; }
+.headlines li, .matches li { padding: 6px 0; font-size: 13.5px; line-height: 1.3; }
+.new-ground { margin: 10px 0; padding: 8px 12px; font-size: 13px; }
+.people { gap: 6px 12px; padding-top: 10px; }
+.people li { font-size: 13px; }
+.year-chart { height: 160px; }
+
+/* tighter news headline links */
+.news-heads { gap: 8px; }
+.news-heads a { line-height: 1.28; }
+.news-heads small { margin-top: 1px; }
+.headlines li a, .matches li a { line-height: 1.28; }
+
+/* less white space between sections */
+.section + .section { padding-top: 40px; }
+.method { margin-bottom: 0; }
+.year-chart { height: 135px; }
+#archive .section-head { margin-bottom: 18px; }
+
+/* the list item sets the line height, so tighten it there */
+.news-heads li, .headlines li, .matches li { line-height: 1.3; }
+.news-heads a { display: block; }
+/* sections: less padding at both ends */
+.section { padding: 44px 0; }
+.section + .section { padding-top: 36px; }
+
+/* archive: heading level with the top of the year chart, not its bottom */
+#archive .section-head { align-items: flex-start; }
+
+/* one "Generate a panel" button everywhere: the red pill with the black arrow circle */
+.btn-sm { gap: 10px; padding: 5px 5px 5px 14px; font-size: 13px; }
+.btn-sm .arrow { width: 24px; height: 24px; }
+.btn-ring { box-shadow: 0 0 0 2px #fff; }   /* the hero is red too, so the pill gets a white ring there */
+.gap .btn-sm { margin-top: 4px; }
+/* secondary links in ink, so the red stays with the main action */
+.link-ink { color: var(--ink); }
+/* news card record: counts, then the latest session on its own line */
+.news-latest { display: block; margin-top: 6px; }
+.news-latest b { color: var(--ink-2); font-weight: 600; }
+
+/* smaller pill, same style, for tight spots: gap rows (beside the score) and news cards (beside the link) */
+.btn-xs { gap: 8px; padding: 4px 4px 4px 11px; font-size: 12px; }
+.btn-xs .arrow { width: 20px; height: 20px; }
+.btn-xs .arrow svg { width: 11px; height: 11px; }
+.gap-head { align-items: center; }
+.gap-head-r { display: inline-flex; flex: none; align-items: center; gap: 12px; }
+.news-actions { flex-wrap: nowrap; gap: 12px; }
+.news-actions .link-btn { font-size: 13px; white-space: nowrap; }
+
+/* news card actions: button flush left, link flush right, both inside the card padding */
+.news-actions { justify-content: space-between; gap: 8px; width: 100%; }
+.news-actions .btn-xs { padding-left: 10px; }
+.news-actions .link-btn { font-size: 12.5px; }
+
+/* idea card bottom: tighter related-session rows and a closer, smaller button row */
+.related li { gap: 10px; padding: 6px 0; line-height: 1.35; }
+.idea-actions { gap: 8px; margin-top: 14px; padding-top: 14px; }
+.idea-actions .btn-ghost { padding: 8px 14px; font-size: 13px; }
+.idea { padding-bottom: 22px; }
+
+/* lineup: long job titles stop at three lines (full text on hover), so one bio can't stretch the whole row */
+.lineup .lu-title { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* "Past sessions" centered in the space between the red button and the card's right border */
+.news-actions { justify-content: flex-start; }
+.news-actions .link-btn { flex: 1 1 auto; margin-right: -18px; text-align: center; }
+.news-actions { gap: 0; }   /* the centering already spaces the link; an extra gap would push it right */
+
+/* idea card: Why now / archive columns sit right under the divider */
+.idea-cols { padding-top: 14px; }
+.idea-cols h4 { margin-top: 0; }
+.idea-pitch { margin-bottom: 16px; }
+/* related sessions: the last row gets the same divider as the others, then a fixed gap to the buttons */
+.related li:last-child { border-bottom: 1px solid var(--line); }
+.idea-actions { margin-top: 0; padding-top: 16px; border-top: 0; }
+/* one size for descriptive text beside section titles, notes and method lines */
+.lede, .note, .method, #news-lede, #sport-note { font-size: 14px; line-height: 1.5; }
+
+/* gap analysis: every rank the same red, a labeled score, and a one-line key */
+.gap-rank, .gap:first-child .gap-rank { color: var(--red); }
+.gap-score { display: inline-flex; flex-direction: column; align-items: flex-end; line-height: 1; }
+.gap-score small { margin-bottom: 3px; color: var(--muted); font: 700 9.5px var(--body); letter-spacing: .07em; text-transform: uppercase; }
+.gap-key { margin: 0 0 14px; color: var(--muted); font-size: 14px; line-height: 1.5; }
+.gap-key b { color: var(--ink-2); font-weight: 600; }
+
+/* archive cards: the year (and Watch) never break; a long session type wraps instead */
+.card-top .yr, .card-top .watch { flex: none; white-space: nowrap; overflow-wrap: normal; }
+.card-top .fmt { min-width: 0; }
+
+/* gap rows on narrow screens: the button and score move under the title instead of pushing past the edge */
+.gap-head h3 { min-width: 0; }
+@media (max-width: 640px) {
+  .gap-head { flex-wrap: wrap; gap: 6px 12px; }
+  .gap-head-r { margin-left: auto; }
+}

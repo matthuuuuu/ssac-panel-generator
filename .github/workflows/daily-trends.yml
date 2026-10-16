@@ -1,0 +1,38 @@
+# Every morning: pull the week's sports headlines (ESPN + Google News RSS), match them to SSAC topics, and save
+# data/trends.js, then have Claude (via MIT Parley) draft news-based panel ideas into data/ideas.js.
+# Saving pushes a commit, and Vercel republishes the SSAC site. The Parley key comes from the PARLEY_API_KEY repo secret.
+name: Daily sports trends
+
+on:
+  schedule:
+    - cron: "0 10 * * *"   # 10:00 UTC = 6 a.m. Eastern (5 a.m. in winter)
+  workflow_dispatch:       # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  trends:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch headlines and score topics
+        run: node scripts/fetch-trends.mjs
+      - name: Write news-based panel ideas (Claude via MIT Parley)
+        run: node scripts/write-ideas.mjs
+        env:
+          PARLEY_API_KEY: ${{ secrets.PARLEY_API_KEY }}
+          PARLEY_MODEL: claude-sonnet-4-6
+      - name: Save the new trends
+        run: |
+          if git diff --quiet -- data/trends.js data/ideas.js; then echo "No change"; exit 0; fi
+          # Commit as Matthew's GitHub account (noreply address), so Vercel deploys it like his own pushes.
+          git config user.name "Matthew Uchno"
+          git config user.email "291976953+matthuuuuu@users.noreply.github.com"
+          git add data/trends.js data/ideas.js
+          git commit -m "Daily sports trends $(date -u +%Y-%m-%d)"
+          git push

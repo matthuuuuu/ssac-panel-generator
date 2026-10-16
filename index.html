@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SSAC Panel Generator</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23b2172d'/%3E%3Crect x='7' y='15' width='4.6' height='10' rx='1' fill='%23fff'/%3E%3Crect x='13.7' y='8' width='4.6' height='17' rx='1' fill='%23fff'/%3E%3Crect x='20.4' y='11.5' width='4.6' height='13.5' rx='1' fill='%23fff'/%3E%3C/svg%3E">
+  <meta name="description" content="Search past SSAC sessions, see which stood out, find the topics the conference keeps missing, and generate new panel ideas.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&family=Inter+Tight:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/compact.css">
+</head>
+<body>
+  <a class="skip" href="#generate">Skip to the panel generator</a>
+
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a class="brand" href="#top">
+        <span class="brand-line"><b>SSAC</b> Panel Generator <b>2027</b></span>
+      </a>
+      <nav class="nav-links" aria-label="Sections">
+        <a href="#generate">Generator</a>
+        <a href="#news" id="nav-news" hidden>In the News</a>
+        <a href="#gaps">Gap Analysis</a>
+        <a href="#archive">Archive</a>
+        <a href="#shortlist">Shortlist <span class="badge" id="nav-sl">0</span></a>
+      </nav>
+      <a class="btn btn-sm nav-cta" href="https://www.sloansportsconference.com/" target="_blank" rel="noopener">SSAC site <span class="arrow" aria-hidden="true"><svg viewBox="0 0 16 16" width="12" height="12"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></a>
+    </div>
+  </header>
+
+  <section class="hero" id="top">
+    <svg class="deco deco-ball" viewBox="0 0 400 400" aria-hidden="true">
+      <defs><radialGradient id="ballShade" cx="72%" cy="28%" r="80%"><stop offset="0" stop-color="#c3233a"/><stop offset="1" stop-color="#6e0c1a"/></radialGradient></defs>
+      <circle cx="200" cy="200" r="188" fill="url(#ballShade)" stroke="#5c0915" stroke-width="7"/>
+      <g fill="none" stroke="#5c0915" stroke-width="7"><path d="M12 200h376M200 12v376"/><path d="M78 56c76 80 76 208 0 288M322 56c-76 80-76 208 0 288"/></g>
+    </svg>
+    <svg class="deco deco-vball" viewBox="0 0 400 400" aria-hidden="true">
+      <g fill="none" stroke="#7a0e1e" stroke-width="7"><circle cx="200" cy="200" r="188"/><path d="M200 12c-70 96-74 252 0 376"/><path d="M24 132c120 8 236 74 300 214"/><path d="M380 150c-116 4-226 80-280 220"/></g>
+    </svg>
+    <svg class="deco deco-lanes" viewBox="0 0 900 420" aria-hidden="true">
+      <g fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="22"><ellipse cx="900" cy="470" rx="820" ry="380"/><ellipse cx="900" cy="470" rx="760" ry="330"/><ellipse cx="900" cy="470" rx="700" ry="280"/><ellipse cx="900" cy="470" rx="640" ry="230"/><ellipse cx="900" cy="470" rx="580" ry="180"/></g>
+    </svg>
+
+    <div class="wrap">
+      <h1>Plan <span class="next-name">SSAC27</span> with every past panel behind you.</h1>
+      <p class="sub">Search every past SSAC session, spot the topics the conference keeps missing, and generate a fresh panel idea in one click.</p>
+      <hr class="rule">
+      <button class="btn btn-lg btn-red btn-ring" data-action="hero-generate">Generate a panel <span class="arrow" aria-hidden="true"><svg viewBox="0 0 16 16" width="16" height="16"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></button>
+      <div class="stats">
+        <div><b id="stat-sessions">–</b><span>past sessions</span></div>
+        <div><b id="stat-speakers">–</b><span>speakers</span></div>
+        <div><b id="stat-years">–</b><span>conferences</span></div>
+        <div><b id="stat-videos">–</b><span>session videos</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section mist" id="generate">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Panel generator</p>
+          <h2 class="h2">One click, one new panel idea.</h2>
+        </div>
+        <p class="lede">Ideas lean toward topics with strong momentum that recent conferences under-covered (see the gap analysis below), and toward what is in the news this week. Lineups come from past SSAC speakers who've covered similar ground.</p>
+      </div>
+      <div class="gen-controls">
+        <label class="field"><span>Topic</span><select id="gen-topic"><option value="">Surprise me</option></select></label>
+        <label class="field"><span>Sport</span><select id="gen-sport"><option value="">Surprise me</option><option value="cross">Cross-sport</option></select></label>
+        <button class="btn btn-red" data-action="generate">Generate a panel <span class="arrow" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M4 12 12 4M6 4h6v6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></button>
+      </div>
+      <div class="gen-layout">
+        <article class="idea" id="idea" aria-live="polite"></article>
+        <aside class="shortlist" id="shortlist">
+          <h3 class="h3">Shortlist <span class="badge" id="sl-count">0</span></h3>
+          <ol id="sl-list"></ol>
+          <button class="btn-ghost" id="sl-copy" data-action="copy-shortlist">Copy all ideas</button>
+          <p class="sl-note">Saved in this browser only.</p>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="news" hidden>
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">What's happening</p>
+          <h2 class="h2">This week in sports.</h2>
+        </div>
+        <p class="lede" id="news-lede"></p>
+      </div>
+      <div class="news-grid" id="news-grid"></div>
+    </div>
+  </section>
+
+  <section class="section" id="gaps">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Gap analysis</p>
+          <h2 class="h2">What SSAC hasn't been talking about.</h2>
+        </div>
+        <p class="lede">Every topic gets a gap score: how much momentum it has heading into SSAC27, against how many sessions covered it at the last three conferences. High momentum and little recent coverage means opportunity.</p>
+      </div>
+      <ol class="gap-list" id="gap-list"></ol>
+      <div class="gap-block">
+        <h3 class="h3">Topic coverage by year</h3>
+        <p class="note">Sessions per topic at each conference, biggest gaps first. Click a topic to browse its sessions.</p>
+        <div class="heat-wrap"><div class="heat" id="heat"></div></div>
+      </div>
+      <div class="gap-block">
+        <h3 class="h3">Sport coverage</h3>
+        <p class="note" id="sport-note"></p>
+        <ul class="sport-bars" id="sport-bars"></ul>
+      </div>
+      <p class="method" id="method"></p>
+    </div>
+  </section>
+
+  <section class="section" id="archive">
+    <div class="wrap">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Past panels</p>
+          <h2 class="h2">Look up any SSAC session.</h2>
+        </div>
+        <div class="year-chart" id="year-chart" aria-label="Sessions per year"></div>
+      </div>
+      <div class="filters">
+        <label class="field grow"><span>Search</span><input id="q" type="search" placeholder="Title, speaker, team or company" autocomplete="off"></label>
+        <label class="field"><span>Year</span><select id="f-year"><option value="">All years</option></select></label>
+        <label class="field"><span>Topic</span><select id="f-topic"><option value="">All topics</option></select></label>
+        <label class="field"><span>Sport</span><select id="f-sport"><option value="">All sports</option><option value="cross">Cross-sport</option></select></label>
+        <label class="field"><span>Format</span><select id="f-format"><option value="">All formats</option></select></label>
+        <label class="field"><span>Sort</span><select id="f-sort"><option value="new">Newest</option><option value="old">Oldest</option><option value="az">A–Z</option></select></label>
+      </div>
+      <div class="results-bar"><p id="arch-count"></p><button class="link-btn" data-action="reset">Clear filters</button></div>
+      <div class="cards" id="arch-results"></div>
+      <div class="more-wrap"><button class="btn" id="arch-more" data-action="more">Show more <span class="arrow" aria-hidden="true"><svg viewBox="0 0 16 16" width="14" height="14"><path d="M8 3v10M3 8l5 5 5-5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span></button></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div>
+        <p class="brand-line"><b>SSAC</b> Panel Generator</p>
+        <p>Built by Matthew Uchno and Drew Kushnir (MIT Sloan) for the AI Builder Space proseminar. Session and speaker data come from public speaker pages on sloansportsconference.com; topic tags and gap scores are approximate.</p>
+      </div>
+      <p class="small" id="data-stamp"></p>
+    </div>
+  </footer>
+
+  <noscript><p class="wrap">This page needs JavaScript to load the session data.</p></noscript>
+  <script src="data/panels.js"></script>
+  <script src="data/taxonomy.js"></script>
+  <script src="data/trends.js"></script>
+  <script src="data/ideas.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
