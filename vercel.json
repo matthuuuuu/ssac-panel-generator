@@ -1,9 +1,24 @@
 {
   "routes": [
-    { "src": "^/scripts(/.*)?$", "status": 404 },
-    { "src": "^/\.github(/.*)?$", "status": 404 },
-    { "src": "^/README(\..*)?$", "status": 404 },
-    { "src": "^/vercel\.json$", "status": 404 },
-    { "src": "^/\.gitignore$", "status": 404 }
+    {
+      "src": "^/scripts(/.*)?$",
+      "status": 404
+    },
+    {
+      "src": "^/.github(/.*)?$",
+      "status": 404
+    },
+    {
+      "src": "^/README(..*)?$",
+      "status": 404
+    },
+    {
+      "src": "^/vercel.json$",
+      "status": 404
+    },
+    {
+      "src": "^/.gitignore$",
+      "status": 404
+    }
   ]
 }
