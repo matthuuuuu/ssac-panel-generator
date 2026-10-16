@@ -5,19 +5,19 @@
       "status": 404
     },
     {
-      "src": "^/.github(/.*)?$",
+      "src": "^/\\.github(/.*)?$",
       "status": 404
     },
     {
-      "src": "^/README(..*)?$",
+      "src": "^/README(\\..*)?$",
       "status": 404
     },
     {
-      "src": "^/vercel.json$",
+      "src": "^/vercel\\.json$",
       "status": 404
     },
     {
-      "src": "^/.gitignore$",
+      "src": "^/\\.gitignore$",
       "status": 404
     }
   ]
