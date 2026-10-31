@@ -1,495 +1,500 @@
 // Written by scripts/write-ideas.mjs (daily). Panel ideas drafted by Claude from the week's headlines.
 window.SSAC_IDEAS = {
- "updated": "2026-10-30T16:36:29.016Z",
+ "updated": "2026-10-31T15:39:40.067Z",
  "model": "claude-sonnet-4-6",
  "source": "Claude via MIT Parley",
- "newsAsOf": "2026-10-30T16:35:10.665Z",
+ "newsAsOf": "2026-10-31T15:38:21.655Z",
  "ideas": [
   {
-   "id": "n-2026-10-30-fans-1",
+   "id": "n-2026-10-31-fans-1",
    "topic": "fans",
    "sport": "soccer",
    "format": "panel",
-   "title": "Blueprint for Belonging: Analytics Behind Next-Generation Stadium Design",
-   "pitch": "New venues like Everton's are engineered from the ground up with fan flow, wayfinding, and dwell time in mind. This session examines how data shapes physical stadium decisions to maximize engagement, revenue, and the case for leaving the couch.",
-   "why": "Everton's newly detailed wayfinding design process and AC Milan's stadium reveal put venue analytics at the center of the sports business conversation right now.",
+   "title": "Building the District: Stadiums as Year-Round Urban Anchors",
+   "pitch": "New 70,000-seat projects like Milan's Generali Stadium signal a shift from matchday venues to mixed-use city districts. This panel examines how teams underwrite those investments, model non-gameday revenue, and negotiate with municipalities to justify the cost.",
+   "why": "The Milan dual-club stadium and Luton Town's cost overrun arrive in the same week, putting stadium finance and risk modeling at the center of the industry conversation.",
    "questions": [
-    "How do teams measure whether a wayfinding or spatial design investment actually improves per-cap spend and return visit rates?",
-    "What data sources inform early-stage stadium design decisions before a single fan has walked through the doors?",
-    "How do you balance optimizing traffic flow for efficiency against creating the spontaneous discovery moments that make a venue worth visiting?"
+    "How do teams build a financial model that stress-tests non-gameday revenue assumptions when anchor tenants and retail mix are still uncertain at groundbreaking?",
+    "When a project like Luton's Power Court runs 15 million pounds over budget, what governance structures and contingency analytics should have caught that drift earlier?",
+    "How much does iconic architectural branding, as seen in the Milan project, translate into measurable long-term sponsorship and naming-rights premium?"
    ],
    "headlines": [
     {
-     "title": "Where to watch AC Milan v Inter Milan for free as new stadium plans revealed",
-     "outlet": "talkSPORT",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm5NSTdpVDlkeW1XYmU2ZUxQVVNrWXUyc3VnRDl3eDNOYVBkSGpkdzBLZVBtNngybW1mT0dXX1FvTVFKTzBrM0lUODUxcEd2aTN0ZzJrQ05wSWgxNWFZZkxta01NeVlNWXJVVDliS3ZRd0t6WWdPaUZqdWJtSDZHYU9uNG5RMlFzaDEzRm5n?oc=5"
+     "title": "Generali Stadium: A closer look at AC Milan and Inter’s new 71,500-seat home",
+     "outlet": "SempreMilan",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoR3RxWmc5QjFYZzEwNzZsb21KUlBsU194R1lxUEpTMDR0VlVBS2M4c1JMUTdtdTRQSzNPODdTMjhaTkRndVpHemh5ZFFrc19obmpjS3JteVpZYWlzaWY3T09IS3BEN28ycDdkRFk4ZXRpRXNFSEtFddIBfkFVX3lxTE43eFU1M2hCODBQYjFJNEx4LVNRWXJjZWlpc2R2UTg3cDBPWkdEVERJNDhHeGYtQjlHeV82aFo5TmpMZnFSczM0WGRSTVBhY242WEVTemVRQnBlVU01VHc3VzlCajBZajlYX1FWQU9fRzhfWG1LbGE2SXdfTkRldw?oc=5"
     },
     {
-     "title": "How we designed the wayfinding system for Everton's new stadium - 2026 - Articles",
-     "outlet": "Transform magazine",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME95S05MREtrT3c3amxhV18tc0l5YUFEa0Fab2dVWFg5MXN2bVZ6Vi1wanlxUmJUVzlnWmRyZktVT0tYWF93TUN2RjhYYVNCN0pIMUJwWmx4ZUxmMEJrekRZVGxjY2xROVkzQ1RGRUhSTTFnQzlzaFNCOGdIaV9yMWlKSXkzZ1BOd3QyOVpaTERuM1FBVC1SNW42MFhIdTY4Q0JROUVHeExfaDFHNHJuTQ?oc=5"
+     "title": "Luton Town's new stadium hit by £15m cost increase as Power Court project falls behind schedule",
+     "outlet": "Football Ground Guide",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVFh6czEwdDFLRG9oY2VSS21lc2VmVkRBOUxMYVp1b0JMWlJrVVhrMnY3dnRWZTR3SUptSlNBVGtkQ2hLZGw0SVBWRUwzTGpwN3ZxNEVOZDhPN0oyNWtSLXJBZEh6VEhQSXpTU1FKM014c3VOSF9La2NIRWpiZ0pxMkJUek4yWHlkWGtHRmpKTWRTQXlFWV95X2JyMkE1Zjh1ZVBFV3JscDY4YmNLT2prTU9xOUE0WllXN3ZqaXdFNEphMWMxUzk3WFNQbmJKUFZK?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-fans-2",
+   "id": "n-2026-10-31-fans-2",
    "topic": "fans",
-   "sport": "basketball",
+   "sport": "",
    "format": "fireside",
-   "title": "Naming Rights Beyond the Scoreboard: Sponsorship ROI in Modern Arenas",
-   "pitch": "Court and venue naming deals are no longer vanity plays. This session unpacks how athletic programs and franchises use analytics to price, justify, and measure the commercial impact of sponsorship assets in an era of rising fan acquisition costs.",
-   "why": "Purdue Athletics framing its Mackey Arena court sponsorship as a strategic financial step signals that mid-major programs are now applying rigorous business logic to venue monetization.",
+   "title": "Naming Rights in the Data Age: Pricing Identity for New Venues",
+   "pitch": "When a newly built stadium takes a name, teams have one chance to set sponsorship value correctly. This session explores the analytics behind naming-rights valuation, fan sentiment measurement, and the long-term brand equity trade-offs clubs and sponsors both accept.",
+   "why": "The Huddersfield Giants naming announcement puts a spotlight on how smaller-market clubs quantify naming-rights value without the data infrastructure of elite leagues.",
    "questions": [
-    "What metrics do sponsorship analytics teams use to quantify the value of an in-arena naming asset versus a digital or broadcast placement?",
-    "How do programs with smaller national footprints build a credible data case to attract naming rights partners?",
-    "As venue inventory expands into retail and mixed-use districts, how does the definition of a sponsorable asset change?"
+    "What first-party fan data inputs most reliably predict whether a naming-rights deal will strengthen or erode supporter sentiment over a five-year horizon?",
+    "How should a club in a mid-sized market benchmark naming-rights pricing when comparable venue transactions involve franchises with dramatically different media footprints?",
+    "At what point does a sponsor's brand health data become as important to the deal structure as the club's attendance and broadcast reach metrics?"
    ],
    "headlines": [
     {
-     "title": "Why court sponsor at Mackey Arena is important step for Purdue Athletics",
-     "outlet": "IndyStar",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaDZsTGxjYlZwUkljMWJZV1J6OVNSRndEeFNLSWRmcG81U1JxYlllSUFjZGNiTFpXZW5uaHhiWXVVdDFFZGZtOVJjRHhkXzNDUUtsTW1ZamVKakozZ2hHcnZ5OGlzVnRUX25oclVqakdNMktsUExaSHVCNWRETFgzM05HX0NQcVpoa2dzcTB4M0JjWXBVRWJUTzNHOGROYVpLNGdyaWtva25nQnJRZHZvNm5kQzlWajhIY2padHFQRXlTamgwOFcwTXIxanhJekpzS1hIVmFFcDdJdmM3Yk81VGVVdHJNbjFucnFkOGtoV0twT1dNTnBXS3VR?oc=5"
+     "title": "Huddersfield Giants announce name for new stadium",
+     "outlet": "Yorkshire Live",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTd5NmhyOGtZZmdHczFiWFhmREljTElPQXQtVVEzRWlqZ2RzaFc3THNDeE4tVWFuN3ZjZUhPdFh4Qk1CM3V4Z0RsdTdMVjFka2t1VTFzVDk2dmdGaXRmNUV3bGRMZzE5emNVVEl0UXI1MTNwY0NXR3dXdUZfekxxbzhlRFJFTXRNSFBCZWJrRXRaa0lxRmtOSndGYU7SAaIBQVVfeXFMTVBKN0JDWGhCekY0M04zSkJIcXZIblJvdm5vVTc1anNlUDkyai1rbzBlU1NqaGxRT2swZlpMQ1lCdG1zS0gxNnJyRVUySC1IM24yeWhEd1BwM3BRYndVdG12TWdERTdhM2ZUTDR1WENmQWxCXzNJdXRqZXIxRU1IaTIwVEFsSmlERGd0VXl6dFVvV0JoMzhKWlpLQlVZUEFqeUJR?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-fans-3",
+   "id": "n-2026-10-31-fans-3",
    "topic": "fans",
    "sport": "soccer",
    "format": "research",
-   "title": "Pricing the Gate: Ticket Strategy, Accessibility, and Long-Term Fan Loyalty",
-   "pitch": "When ticket prices outpace fan willingness to pay, teams risk trading short-term revenue for long-term audience erosion. This research session models the tension between dynamic pricing optimization and accessibility, drawing on cases from global competitions to major North American franchises.",
-   "why": "Criticism of SAFF Championship ticket prices highlights a universal challenge: how to set prices that fund operations without alienating the next generation of fans.",
+   "title": "Exporting the Matchday: Analytics Behind Pop-Up Fan Experience Activations",
+   "pitch": "The Premier League's Delhi fan experience shows how leagues monetize global audiences without building permanent infrastructure. This session analyzes attendance modeling, local market segmentation, and sponsorship activation strategies for touring fan engagement properties in non-home markets.",
+   "why": "Premier League Park's Delhi activation demonstrates that leagues are now treating international cities as addressable venue markets, raising new questions about ROI measurement and fan conversion.",
    "questions": [
-    "How do you model the long-term lifetime value cost of pricing out a younger or lower-income fan cohort today?",
-    "What does the data say about the relationship between perceived ticket value, in-venue experience quality, and willingness to return?",
-    "How are teams using first-party fan data to build tiered pricing structures that balance revenue goals with accessibility commitments?"
+    "How do you construct a measurement framework that connects a pop-up fan activation in a foreign market to downstream outcomes like broadcast subscriptions, licensed merchandise sales, and future tourism attendance?",
+    "What segmentation data should leagues collect at touring activations to distinguish casual curious visitors from high-value fans worth retargeting through paid channels?",
+    "How does the capital and operating cost model for a temporary experiential property compare to the return profile of a permanent international office or commercial partnership in the same market?"
    ],
    "headlines": [
     {
-     "title": "SAFF Championship Ticket Prices | SAFF tickets ask too much of fans",
-     "outlet": "The Daily Star",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzd2dTE0c2w1Y2Z4M0pKMEZySW5pNVFmdEh4eE9lRlhsNGhyclp4VFd4eUxDQzhhdlhZYTJmYnIwVEFSM3llM0ZLSUZQMHJwY3U4Y3AwWjNSQjVYamtFWldxS3Q1ZUE3d29NRWJaSi1yOFMwMjlTM0Z3WHBWczgzNmxkNnVZTHV0SUFWdmNDN3JlZw?oc=5"
-    },
-    {
-     "title": "How we designed the wayfinding system for Everton's new stadium - 2026 - Articles",
-     "outlet": "Transform magazine",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME95S05MREtrT3c3amxhV18tc0l5YUFEa0Fab2dVWFg5MXN2bVZ6Vi1wanlxUmJUVzlnWmRyZktVT0tYWF93TUN2RjhYYVNCN0pIMUJwWmx4ZUxmMEJrekRZVGxjY2xROVkzQ1RGRUhSTTFnQzlzaFNCOGdIaV9yMWlKSXkzZ1BOd3QyOVpaTERuM1FBVC1SNW42MFhIdTY4Q0JROUVHeExfaDFHNHJuTQ?oc=5"
+     "title": "Premier League Park Brings The Premier League Fan Experience To Life In Delhi",
+     "outlet": "Free Press Journal",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2NCVlhGWnJrcndkVGRUS1hoWWVzR3pfVHpVZ2dLZnFQRTNURE9qTndxcTdyZUltQmluM3hDaElfU0J1VHE0ejVqc3J0emFtdjhaUHZhYXFQRThLSlFIcExhdGdPbnNualUyV2wwNHhud0Rmc0Z0X253YkxxWEVHaDJnU2JMNHZqTFA5LXBGdGNSS2FacGhwZEtYQnZQMU9DNHcxQms1NUk2eUthclYxU2dTRUNyTkwzNmfSAb8BQVVfeXFMTzdaQ0pzNEdaMGNPNzlVNHpqZzZ4bUk0eURZM18wRWI5T1NJNzR1OXFNcHIyYUhWdElwNW1RRThLeFFWdzlNNWgxdnBwR0VzMVlHaVk2SGxRX0ZDQkNFNE9tWkZ5eFFTZGpJQVlDR3dyeFpFamdZdXdMTllHT1F0QWtJTU1rR1hEUU5JczVXdzY4N1ZuU3dPdHkybVRlUlZYUmpTN1JvSEhxNVAwaE9uNk9RbFFiZllXT2NZalVPSGc?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-global-1",
+   "id": "n-2026-10-31-global-1",
    "topic": "global",
    "sport": "olympic",
    "format": "panel",
-   "title": "Youth Olympic Games as a Global Talent and Audience Pipeline",
-   "pitch": "The Dakar 2026 Youth Olympics showcase emerging athletes and niche sports like Baseball5 and BMX freestyle to new markets. How do federations and brands convert this youthful exposure into lasting fan bases, broadcast revenue, and a pipeline toward LA28?",
-   "why": "The Dakar 2026 Youth Olympic Games opened this week, with live coverage and qualification pathways actively feeding momentum toward LA28.",
+   "title": "Youth Olympics as a Global Scouting and Market Development Lab",
+   "pitch": "The Dakar 2026 Youth Olympic Games are drawing athletes from Kenya to Cuba to Mexico. How do federations use multi-sport mega-events to identify emerging markets, build youth pipelines, and measure fan development ROI before LA28?",
+   "why": "Baseball5 matchups between Kenya, Mexico, and Cuba at Dakar 2026 this week reveal how federations are stress-testing global growth strategies in real time.",
    "questions": [
-    "How do rights holders measure audience conversion from Youth Olympics coverage into sustained engagement with a sport?",
-    "What data do federations use to decide which emerging markets to prioritize when allocating broadcast and sponsorship resources around mega-events?",
-    "How should brands calibrate sponsorship investment in the Youth Olympics relative to the senior Games given the difference in audience scale?"
+    "How do you quantify the long-term commercial return on investing in a youth-tier mega-event versus a senior World Cup?",
+    "What data signals from participation rates and viewership at the Youth Olympics actually predict sustained market growth?",
+    "How do you allocate scouting and development resources across markets as geographically diverse as West Africa and Latin America simultaneously?"
    ],
    "headlines": [
     {
-     "title": "Dakar 2026: Meet Kim Seung-won, the 16-year-old swimming star chasing Youth Olympic Games gold and dreaming of LA28",
-     "outlet": "Olympic Channel",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXMySTctY2t5QXdLcFNHRVRMc0JzLXRNSHZjV1UwaDFKeXBReTBaRjBVa0tVNnBjVUtvVHVnbDkyY0VMMzVxS3FGdDdadGJ4Y3B4RlF0WWI5a3ZlVnlkZEhNUFBpVFI5NHUwcGw3VDM1dUVmcFczMmVlMy1UZkdrVDl4Q1RHRmt3SlY4REhKLWMxMGd0Yk1jN2tNU1V5TWVOSV9ESzBQSVc5dVU?oc=5"
-    },
-    {
-     "title": "How to qualify for BMX freestyle at LA28 Olympics: The qualification system explained",
-     "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTcwTU9rVXNwU0xmSWxmSll3VW14STVsVTlsQTZuemRjaWRyUlpCYXF1SkRjeF80RVlQSnpVSmV6bVN0NXBESzRSSm1Pa1NqV2tVTXl5bUpPZERfYVRmS3FBQWtMbUp6SkdKbVFtY29HQ3JGOGdLNVhKT1hIVGJzWmFZR2d0UE5zZWFfVDA4TzFyNVVxSXc?oc=5"
-    },
-    {
-     "title": "Dakar 2026 Youth Olympic Games: How to watch live action on Opening Ceremony day – full schedule for Saturday 31 October",
-     "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWlpGenZ6OGRnSWp2d0lJdFl1RkZEZm0zeDBucnZ1XzBhdGdsZFF5TmJ4U2x2dUlSNVV5bEhXdDAxREhWNlozWFYtTUpSaXdzQ1ZKT0E1TU5KZFBDYW51MldtTllqRUFjLTdMVlhPbjk2Q3NYTW5KLXNaaGJBNlpMdGlEekF2REhyYW5aYmRnNjZaVWtBTE85OW41aHR2NE1pODEzblVGMjZBVlNYZjhYQ0x3a0JaLVkzNHRyODdkOU1FY3RneUVwMjN2SkFLYU95ZEJWZFpR?oc=5"
-    },
-    {
-     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Live Blog - Day 1",
+     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Day 2",
      "outlet": "World Baseball Softball Confederation (WBSC)",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbV9TQnV0LXh1enFUNW1WblhUbXRiXzNtV3NXR1JvVTh6VnR0aDZIWG1jb3RZNUhUOFRVa0hEbXp4RGRiYXUweGFYMFVnS3Q1R3RFUncwdjI3UUZZbmY5OE5wb20wd1RCWU1iY3MzazZtazdjNkw1bnZBc0U5TThpcEZPS2ZuMEtaOC1iNllTY0tiQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-10-30-global-2",
-   "topic": "global",
-   "sport": "olympic",
-   "format": "research",
-   "title": "Qualification Economics: How Olympic Quota Systems Shape Market Strategy",
-   "pitch": "From BMX freestyle to shooting to swimming, each sport has a distinct LA28 qualification architecture. Those systems determine which nations compete, which broadcasters buy rights, and which sponsors activate. What can analytics reveal about optimizing qualification structures for global growth?",
-   "why": "Multiple sports are actively distributing LA28 quota spots this week, making qualification system design an immediate strategic and commercial question.",
-   "questions": [
-    "How does a federation's choice of qualification pathway affect the geographic diversity of competitors and, in turn, broadcast market value?",
-    "Can predictive models help federations anticipate which qualification events will generate the most commercially valuable national storylines?",
-    "What is the business case for expanding quota allocations to emerging markets even when competitive depth is lower?"
-   ],
-   "headlines": [
-    {
-     "title": "How to qualify for BMX freestyle at LA28 Olympics: The qualification system explained",
-     "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTcwTU9rVXNwU0xmSWxmSll3VW14STVsVTlsQTZuemRjaWRyUlpCYXF1SkRjeF80RVlQSnpVSmV6bVN0NXBESzRSSm1Pa1NqV2tVTXl5bUpPZERfYVRmS3FBQWtMbUp6SkdKbVFtY29HQ3JGOGdLNVhKT1hIVGJzWmFZR2d0UE5zZWFfVDA4TzFyNVVxSXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0NJYkNVWnNsUGdleUdQeU5uTHloaHdGVE0yemU1SHY0NFhkTXNkc0hBcHBzTWU0WUNKMm9XUVNmUnZzSWtIZ0RIeXJMM0dEeFR2Skl2aGZxLU0zdDZYT2xJYjBxUThFZ2xvTkVVcFdVZDNfMk4zVHE3dnNQaHR1VnlJWHQ?oc=5"
     },
     {
-     "title": "Shooting World Championship Doha 2026: Schedule, results, and LA28 Olympic quota spots on offer in rifle / pistol / shotgun",
-     "outlet": "www.olympics.com",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEhXRGVESlFyX0pSMjZFaVRTLWNMZFdZNjNxTUhMUXZMQ2VybVZOWWwyc1VRU2oxdXY2OWxfMkFtcDRKVzRDLXU1YjVfQ3Y3Y1dnOU9TaTV0YUpfYXZpTm96T2RGclBKa1JHU3FGSXVPQWFiZFRnRnI1SG13WHZqX3pmR3JVUXZHNnRwUGUxcWljNXIz?oc=5"
+     "title": "Cuba@Senegal - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkQzMVhjd09wUk1DNkx1VjVTMUtSUnFGSmlrOTJVWE8tVFIwVnVxR1RHSjVYVEx2amx0YmNCMUNmSGlKS08tZGJwUEllb0w5dXNFLTVaZXdFUHVuRFprWEVLVmtfSEpnTUtPeTJUS0tBUGFEZVFSeXBTRzRtZ01lajdyWkhfNTZDd2Q0T0F1TlBpeGp2Z0RsVTFadnpaQ3BUOVE?oc=5"
+    },
+    {
+     "title": "Kenya@Mexico - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk5qdXJzcTJNR3o4RDladWFjWDFUeDJrREQzMVRMWXBXOW9TNGxrb3JXR3dtcU1fUEl4ZlFMcm1RU3AzNGoydzZfYmtYZ0k3X045Wm1KLTUyYzNDc3lxekNXaWdzWGJBNUVoUVk4djZJX3VSWHc2Qm1vN0hfU0RldG1UMXlRcmhlZjZoY1BkUElHUVRNMTVHUEJMSmc0T2h3c3c?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-global-3",
+   "id": "n-2026-10-31-global-2",
    "topic": "global",
    "sport": "",
    "format": "panel",
-   "title": "From Niche to Notable: Analytics Behind Growing Emerging Olympic Sports",
-   "pitch": "Baseball5, BMX freestyle, and lacrosse sixes are all competing or officiating globally this week. Each represents a federation's bet on a simplified or reimagined format to reach new audiences. What analytics frameworks separate the formats that scale from those that stall?",
-   "why": "Live global competition in Baseball5 and lacrosse sixes is happening right now, offering real-time data on how emerging formats perform across markets.",
+   "title": "Emerging Markets Playbook: Analytics Behind Sport Expansion in Africa",
+   "pitch": "Dakar 2026 puts West Africa on the global sports stage. What commercial and analytics frameworks help leagues and federations assess when a new geography is ready for investment, and how do you build infrastructure to support that growth?",
+   "why": "The Dakar 2026 Youth Olympic Games, launching this week, represent the first Summer Youth Olympics on African soil, creating a measurable inflection point for continental market entry.",
    "questions": [
-    "What participation, viewership, and social engagement metrics best predict whether a reformatted sport will sustain growth after an initial mega-event boost?",
-    "How do federations price sponsorship and media rights for emerging formats when historical benchmarks do not exist?",
-    "What role does officiating infrastructure, like the 85 officials deployed for lacrosse sixes, play in signaling commercial readiness to potential broadcast partners?"
+    "What are the leading indicators federations track to decide a market has crossed the threshold for serious commercial investment?",
+    "How does hosting a mega-event change a country's sports media and sponsorship landscape in the five years that follow?",
+    "What role does digital and streaming data play in validating fan demand before a federation commits to physical infrastructure?"
    ],
    "headlines": [
     {
-     "title": "World Lacrosse names 85 on-field officials for continental sixes championships",
-     "outlet": "World Lacrosse",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm9weVFzUkh3QXI4NThaNUIzVW1pUnNEcTQ2UmFUb2V6OWVkMjY3ME9tbXdObTVaTW03UDQ2cjdqUF9WLXg2UVRCdVhxdDRsMDVlQmowcHhsUU5kSFd1aGwtOVJOZFliTVJ1S3BndFh6blI1WWRSY2dGT2J2LU5xNHcyNW1pZUktaFNURGRNNnRxTXZDUE93MlAyTllDV2ZFT2xkTFRQWUkyejQ?oc=5"
-    },
-    {
-     "title": "How to qualify for BMX freestyle at LA28 Olympics: The qualification system explained",
+     "title": "Dakar 2026: Athletes \"can't wait\" for Youth Olympic Games to start - \"I've dreamed of this since I was five years old\"",
      "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTcwTU9rVXNwU0xmSWxmSll3VW14STVsVTlsQTZuemRjaWRyUlpCYXF1SkRjeF80RVlQSnpVSmV6bVN0NXBESzRSSm1Pa1NqV2tVTXl5bUpPZERfYVRmS3FBQWtMbUp6SkdKbVFtY29HQ3JGOGdLNVhKT1hIVGJzWmFZR2d0UE5zZWFfVDA4TzFyNVVxSXc?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnpPNldXeVVvNVNxenEta0xlWDlJdHdLRzdFN0NKMFJOLUhLdUVjTG1BNy1MWklnYjdVamVDZ3RPd3l2SDdXd2x4WG55Ri1KY1BrWjVuTFZNTFNPdWZnM0tSNUlQbGlpcE0tWVhsVERwNVdwRFhUYllwNE5OU3BuZ2pYZDI4dHpYVVNsbU16c0dzTkRuaW40elJnS3hZTzhkQkhGQU4ydVdKY1E?oc=5"
     },
     {
-     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Live Blog - Day 1",
-     "outlet": "World Baseball Softball Confederation (WBSC)",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbV9TQnV0LXh1enFUNW1WblhUbXRiXzNtV3NXR1JvVTh6VnR0aDZIWG1jb3RZNUhUOFRVa0hEbXp4RGRiYXUweGFYMFVnS3Q1R3RFUncwdjI3UUZZbmY5OE5wb20wd1RCWU1iY3MzazZtazdjNkw1bnZBc0U5TThpcEZPS2ZuMEtaOC1iNllTY0tiQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-10-30-women-1",
-   "topic": "women",
-   "sport": "basketball",
-   "format": "panel",
-   "title": "Prediction Markets Meet the WNBA: Valuing a New Revenue Stream",
-   "pitch": "As the WNBA explores prediction market partnerships, this panel examines how leagues price novel betting and financial products, what data infrastructure is required, and how deal structures compare to traditional sponsorship and media rights agreements.",
-   "why": "The WNBA's reported openness to prediction market deals signals a new frontier in league monetization that executives and analysts need to understand now.",
-   "questions": [
-    "How do prediction market deals change the way a league thinks about real-time data licensing and exclusivity?",
-    "What risk controls and integrity frameworks must a women's league build before signing this type of agreement?",
-    "How do the economics of a prediction market partnership compare to a conventional sponsorship deal at this stage of league growth?"
-   ],
-   "headlines": [
+     "title": "Men's and Women's Heats and Women's Fatest Heat - Swimming | Dakar 2026 Summer Youth Olympic Games",
+     "outlet": "www.olympics.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOHpodk5LRWNmLUhTX1RSV3VPUzZWbXVwb1lBNHNiNmVTWGtwVDluZVBFT1pPZ01uNUg4dGE3YklQTGRJektOc2FiRHVmVFY0STlvb3FMMVFVaU9keHZxUEhLakJJRTV2MER5cXhZaDQzTjhzeUcxNHdacWE2WnZHTGIxVGVoTzEyOHNzRzFuOUxkTVFsb1JCSE95SDUxVzVnLUFlTVozZG1lWGlXSDFtYnRNTkZwNWxkSVY3VG5LS1ZhZVNCV2Vnd2lKUEJoREdXNnd0R0hZZw?oc=5"
+    },
     {
-     "title": "WNBA Open to Prediction Market Deals",
-     "outlet": "Front Office Sports",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEVFVXV5dE1XdVExN3l5SDJHX1BYczZnb25Da3Y2SXRzaFEwcnRIUmdlc3liVVNFU0EyYjBaYndxM2Y2dzQweHhJbUo4eGxtTFR6QVFOaV9xSkJFdzFfd1poaEdiczBCT2lVem5UeFlmeHkybWg2U08wWUxYUGI5U3NNNnloZm4zaHc0Z0V1SlpGdXlrS2Jn?oc=5"
+     "title": "Dakar 2026 Youth Olympic Games: How to watch day one live – full schedule and medal events for Sunday 1 November",
+     "outlet": "Olympics",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX2xhZUhDR3FIWmx6UGc1Y2tvZ3hzakYwSEdva1F2MXowSG8yQ1BJNjh2SXk4M3p2WnpFM3lqMExkMmlEaXlGRXp2X3RJNVpVRFhYRFMydjFKYnJRUWtUTTZ1aUFyb3FmalJaWnZRejF2YTdxRTAtd0dTbGxfSFA5a0dCcGYybkw4Z1djT2NiaFVfdE0yOTBERUt0dGxLdEFkbW5JbGt5Y0N2WWJ1dFJ0VFlfR1ZOYlpa?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-women-2",
-   "topic": "women",
-   "sport": "basketball",
+   "id": "n-2026-10-31-global-3",
+   "topic": "global",
+   "sport": "baseball",
    "format": "research",
-   "title": "Game 7 Economics: What a WNBA Finals Run Is Worth",
-   "pitch": "A winner-take-all Game 7 creates rare data on fan demand, media value, and sponsorship activation. This research session quantifies the incremental revenue a deep playoff run generates for a franchise, a host city, and the league as a whole.",
-   "why": "The Dream-Valkyries Game 7 provides a live, high-profile case study in how playoff drama translates into measurable commercial value for an expanding league.",
+   "title": "From Baseball5 to Billions: Scaling Niche Formats at Mega-Events",
+   "pitch": "Baseball5, a street-adapted format, is competing at Dakar 2026 with teams from four continents. How do federations use simplified game formats to unlock new demographics and geographies, and what analytics prove the strategy is working?",
+   "why": "Live Baseball5 competition at Dakar 2026 this week offers a rare real-time case study in whether format innovation can accelerate a sport's global commercial footprint.",
    "questions": [
-    "How do you isolate the revenue lift attributable to a single elimination game from broader seasonal trends?",
-    "What metrics best capture sponsor activation value during a short-window, high-stakes broadcast event?",
-    "How should an expansion franchise like the Valkyries factor playoff revenue upside into its long-term financial model?"
+    "How do you measure whether a simplified format like Baseball5 converts casual viewers into long-term fans of the core product?",
+    "What pricing and sponsorship models make sense for emerging-format competitions that lack historical revenue benchmarks?",
+    "How do broadcasters and federations jointly decide which new formats deserve standalone media rights deals versus bundled coverage?"
    ],
    "headlines": [
     {
-     "title": "Atlanta Dream vs. Golden State Valkyries Game 7: How to watch the 2026 WNBA Finals, channel, where to stream and more",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWFEtNzVjUXVuVzhVd2tnQlZOa3BQMXVvQkZpLWs3YnBRVVNzUTBYeVp3OTA4OW5aTjI4TVA2Q29vSFR1RTlGMEtpN1NGYjVfaVlkVWxCbTdQd2V5akt1cDloN0dkMVg0TmdPUXcxVlJpS2hPSElRRFZDcnBNVHZWYmxoX3Y1ZzhhN3lmcmVTcTV3UXVsWkNoZThCeG13Y09mOW9oWFBGUnRmTXNmU2gxTlloU2YxT0NHdUpoNWgzeGU1c0hVOHdCMjhrSnowM3dEdGItd3JyS21tak9LZjRwV1FZc3JQd1l2emxlR29ORVRkZExrbHdZMnFR?oc=5"
+     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Day 2",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0NJYkNVWnNsUGdleUdQeU5uTHloaHdGVE0yemU1SHY0NFhkTXNkc0hBcHBzTWU0WUNKMm9XUVNmUnZzSWtIZ0RIeXJMM0dEeFR2Skl2aGZxLU0zdDZYT2xJYjBxUThFZ2xvTkVVcFdVZDNfMk4zVHE3dnNQaHR1VnlJWHQ?oc=5"
     },
     {
-     "title": "Valkyries and Dream meet one more time in winner-take-all in the WNBA Finals",
-     "outlet": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ05tMGZYVmxFaUZMOEZLZjhfdjR1OGVhOG9yODRzOHItWll2WXhvN0hGOVJVOXlLc2ltU2ExRS1tdnJuMUVfRldHLUN0cFpEZU9ncGZ6ZkF6UUNRSWkwQ29WM2JScER0cXY5a09ub2twUnVDZndDZkVhYlBnNDdBU081eHZhbGg4T0lISjAyUDNKWVoz?oc=5"
+     "title": "Cuba@Senegal - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkQzMVhjd09wUk1DNkx1VjVTMUtSUnFGSmlrOTJVWE8tVFIwVnVxR1RHSjVYVEx2amx0YmNCMUNmSGlKS08tZGJwUEllb0w5dXNFLTVaZXdFUHVuRFprWEVLVmtfSEpnTUtPeTJUS0tBUGFEZVFSeXBTRzRtZ01lajdyWkhfNTZDd2Q0T0F1TlBpeGp2Z0RsVTFadnpaQ3BUOVE?oc=5"
+    },
+    {
+     "title": "Kenya@Mexico - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk5qdXJzcTJNR3o4RDladWFjWDFUeDJrREQzMVRMWXBXOW9TNGxrb3JXR3dtcU1fUEl4ZlFMcm1RU3AzNGoydzZfYmtYZ0k3X045Wm1KLTUyYzNDc3lxekNXaWdzWGJBNUVoUVk4djZJX3VSWHc2Qm1vN0hfU0RldG1UMXlRcmhlZjZoY1BkUElHUVRNMTVHUEJMSmc0T2h3c3c?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-women-3",
-   "topic": "women",
-   "sport": "volleyball",
+   "id": "n-2026-10-31-youth-1",
+   "topic": "youth",
+   "sport": "basketball",
    "format": "panel",
-   "title": "Global Pipelines: Youth Volleyball and the Business of Women's Talent Development",
-   "pitch": "With dozens of girls' pairs competing for Youth Olympic spots in Dakar, this panel explores how federations, clubs, and sponsors build commercial models around youth development pathways and turn emerging international talent into long-term audience and revenue growth.",
-   "why": "The scale of girls' participation at the Dakar Youth Olympic qualifier signals that women's volleyball has a deep global talent pipeline ready for commercial investment.",
+   "title": "Scholarship Models in Youth Sports: Access, Equity, and ROI",
+   "pitch": "As team-affiliated youth programs launch scholarship initiatives, what business models make them sustainable? This session examines the analytics of access, measuring participation rates, retention, and long-term brand value for franchises investing in community youth pipelines.",
+   "why": "The Jr. Suns and Jr. Mercury scholarship launch signals a growing franchise-level commitment to subsidizing youth participation, raising urgent questions about scalability and impact measurement.",
    "questions": [
-    "How do international federations monetize youth tournaments without overcommerializing an underage athlete's public profile?",
-    "What data do scouts and sponsors use to evaluate a young athlete's long-term marketability alongside athletic potential?",
-    "How can a federation use a youth event to grow domestic league audiences in markets where the professional game is still developing?"
+    "How do franchises measure the return on investment of youth scholarship programs beyond community goodwill?",
+    "What data should organizations collect to evaluate whether scholarship recipients convert into lifelong fans or future athletes?",
+    "Can a regional club model realistically close participation gaps, or does it risk reinforcing geographic inequity?"
    ],
    "headlines": [
     {
-     "title": "Seven African girls’ pairs lead chase for Youth Olympic Games glory in Dakar",
-     "outlet": "Volleyball World",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOVB5MVl5Zm0xaFlHWDhIelZjNkFDaDktWkNKZEZwM2ZfTnNLd2pyVy1ncXRzQ2sybGNhRk1rdEFuS0o2YXFfcUdXSGlNSkViQ1FiYWNLVzYzR0ZyMmN6dDB5am1XRTFLNjVBQXJuMVpCejRHQUtUbERLZHF4Si02MWRHc0I3cWYwbHVxYmtJQzl4RUNvZ0VaWTNzVVhKaU5rM0NMSzdzTFZMNG1TS1FfVi16SUw4U011bmp2WlBfY1Y1TmNNN1pteWV2V2dlY3p1UFZGUmRyTEd6T0VsblZFLTdTZEZJMFBxSXZRYUNOTXZ6OU0zUjVzM3Nn?oc=5"
-    },
-    {
-     "title": "16 Volleyball Empowerment girls’ pairs chase Youth Olympic Games glory in Dakar",
-     "outlet": "FIVB",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWmRwMUZnTFBCSTctQVZ4bE1KNFVZYTZVeXdSZ3ctdGZ5V0NYWkFzNGE1bUsxeGRiXzNleWllMjNURXlOYkNGcTBhUGFzbktwU3pjal9Oek9qU1paLXY1TWJHYjBMWGk5bXF6ZTh1Z0FhdDZZRkVvNVYwZjFFTGJDdkdkRFlTcjdoY1BxUV9zY2ZQNDFDR1loeWFJVURrUXdBU2c?oc=5"
+     "title": "Josh and Sydney Bartelstein Launch Youth Basketball Scholarship Program for Jr. Suns, Jr. Mercury",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcjlEV1pxeXZQQ1pGdV9zb2dpX2NVekZEYlNBZ0ZKSXRxanFkUlVnUWs3aWtsTTUzOGdXeUY5Qlh2c3lnSFB1ME54eEpacHp6bFlkbVE2RVZNOUZUUC1fTDF2ZnlTb0xRYjRTUUR1ZHBMUUR1UElHci14emw0ejhoazdud0xHSnZDdE0zcWNPM2t5X0xJbUtCUnBtVXNSY3JkWmRlM3dKV1RDRnhpRFVha3I0RW9DcW50b2lfN0dxVHd0SXJmOENJa3lFY09mUQ?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-youth-1",
+   "id": "n-2026-10-31-youth-2",
    "topic": "youth",
    "sport": "olympic",
    "format": "panel",
-   "title": "Youth Olympic Games: Building a Global Participation Pipeline",
-   "pitch": "The Dakar 2026 Youth Olympic Games showcase sports from Baseball5 to badminton competing for the next generation of athletes. This session examines how federations use youth mega-events to drive participation growth, sponsorship strategy, and long-term athlete development economics.",
-   "why": "With Dakar 2026 underway and multiple federations actively tracking youth athlete pipelines across swimming, volleyball, and emerging sports, the business case for youth Olympic investment is live news.",
+   "title": "Global Youth Games: Building Participation Analytics Across Borders",
+   "pitch": "The Dakar 2026 Youth Olympic Games features athletes from Kenya, Mexico, Cuba, and Senegal competing in emerging formats like Baseball5. How do governing bodies use participation data across diverse markets to grow sports globally and justify investment in youth pathways?",
+   "why": "Dakar 2026 competition across multiple sports and continents offers a live case study in cross-border youth participation strategy and emerging-format sport development.",
    "questions": [
-    "How do federations measure return on investment from Youth Olympic Games participation relative to senior-level event spending?",
-    "What data models best predict which youth sport exposure converts to sustained recreational participation versus elite pathways?",
-    "How are broadcasters and streaming platforms pricing youth Olympic rights differently than senior Games, and what does that signal for sponsorship?"
+    "How do international federations decide which emerging formats, like Baseball5, deserve a Youth Olympics slot versus a traditional event?",
+    "What participation metrics do NOCs and federations track to justify hosting youth-focused competitions in developing sports markets?",
+    "How does early Olympic exposure translate into measurable long-term participation growth in a sport's home country?"
    ],
    "headlines": [
     {
-     "title": "Dakar 2026: Meet Kim Seung-won, the 16-year-old swimming star chasing Youth Olympic Games gold and dreaming of LA28",
-     "outlet": "Olympic Channel",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXMySTctY2t5QXdLcFNHRVRMc0JzLXRNSHZjV1UwaDFKeXBReTBaRjBVa0tVNnBjVUtvVHVnbDkyY0VMMzVxS3FGdDdadGJ4Y3B4RlF0WWI5a3ZlVnlkZEhNUFBpVFI5NHUwcGw3VDM1dUVmcFczMmVlMy1UZkdrVDl4Q1RHRmt3SlY4REhKLWMxMGd0Yk1jN2tNU1V5TWVOSV9ESzBQSVc5dVU?oc=5"
-    },
-    {
-     "title": "Dakar 2026 Youth Olympic Games: How to watch live action on Opening Ceremony day – full schedule for Saturday 31 October",
-     "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWlpGenZ6OGRnSWp2d0lJdFl1RkZEZm0zeDBucnZ1XzBhdGdsZFF5TmJ4U2x2dUlSNVV5bEhXdDAxREhWNlozWFYtTUpSaXdzQ1ZKT0E1TU5KZFBDYW51MldtTllqRUFjLTdMVlhPbjk2Q3NYTW5KLXNaaGJBNlpMdGlEekF2REhyYW5aYmRnNjZaVWtBTE85OW41aHR2NE1pODEzblVGMjZBVlNYZjhYQ0x3a0JaLVkzNHRyODdkOU1FY3RneUVwMjN2SkFLYU95ZEJWZFpR?oc=5"
-    },
-    {
-     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Live Blog - Day 1",
+     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Day 2",
      "outlet": "World Baseball Softball Confederation (WBSC)",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbV9TQnV0LXh1enFUNW1WblhUbXRiXzNtV3NXR1JvVTh6VnR0aDZIWG1jb3RZNUhUOFRVa0hEbXp4RGRiYXUweGFYMFVnS3Q1R3RFUncwdjI3UUZZbmY5OE5wb20wd1RCWU1iY3MzazZtazdjNkw1bnZBc0U5TThpcEZPS2ZuMEtaOC1iNllTY0tiQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0NJYkNVWnNsUGdleUdQeU5uTHloaHdGVE0yemU1SHY0NFhkTXNkc0hBcHBzTWU0WUNKMm9XUVNmUnZzSWtIZ0RIeXJMM0dEeFR2Skl2aGZxLU0zdDZYT2xJYjBxUThFZ2xvTkVVcFdVZDNfMk4zVHE3dnNQaHR1VnlJWHQ?oc=5"
     },
     {
-     "title": "Seven African girls’ pairs lead chase for Youth Olympic Games glory in Dakar",
-     "outlet": "Volleyball World",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOVB5MVl5Zm0xaFlHWDhIelZjNkFDaDktWkNKZEZwM2ZfTnNLd2pyVy1ncXRzQ2sybGNhRk1rdEFuS0o2YXFfcUdXSGlNSkViQ1FiYWNLVzYzR0ZyMmN6dDB5am1XRTFLNjVBQXJuMVpCejRHQUtUbERLZHF4Si02MWRHc0I3cWYwbHVxYmtJQzl4RUNvZ0VaWTNzVVhKaU5rM0NMSzdzTFZMNG1TS1FfVi16SUw4U011bmp2WlBfY1Y1TmNNN1pteWV2V2dlY3p1UFZGUmRyTEd6T0VsblZFLTdTZEZJMFBxSXZRYUNOTXZ6OU0zUjVzM3Nn?oc=5"
+     "title": "Dakar 2026: Athletes \"can't wait\" for Youth Olympic Games to start - \"I've dreamed of this since I was five years old\"",
+     "outlet": "Olympics",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnpPNldXeVVvNVNxenEta0xlWDlJdHdLRzdFN0NKMFJOLUhLdUVjTG1BNy1MWklnYjdVamVDZ3RPd3l2SDdXd2x4WG55Ri1KY1BrWjVuTFZNTFNPdWZnM0tSNUlQbGlpcE0tWVhsVERwNVdwRFhUYllwNE5OU3BuZ2pYZDI4dHpYVVNsbU16c0dzTkRuaW40elJnS3hZTzhkQkhGQU4ydVdKY1E?oc=5"
     },
     {
-     "title": "Europe's Rising Stars Ready for Youth Olympic Games in Dakar",
-     "outlet": "Badminton Europe",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalZkLUVSTzhXYmNvVFBTdkF1REFTSXR0VFpVOUZackFNM0p5TXhHRXZqN0FhYW4yRGtxbjNoT1UxZ1p1bWlob0pqXzBVbDVLZ0RoR3hvSFVZM09IZ2owWEpCaVlKS0VESUgzNVkwbm81emY2RlY3LXBXS3VVNlU0M3REaVU0WWNwU19vVVJiVlBTalNj?oc=5"
+     "title": "Cuba@Senegal - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkQzMVhjd09wUk1DNkx1VjVTMUtSUnFGSmlrOTJVWE8tVFIwVnVxR1RHSjVYVEx2amx0YmNCMUNmSGlKS08tZGJwUEllb0w5dXNFLTVaZXdFUHVuRFprWEVLVmtfSEpnTUtPeTJUS0tBUGFEZVFSeXBTRzRtZ01lajdyWkhfNTZDd2Q0T0F1TlBpeGp2Z0RsVTFadnpaQ3BUOVE?oc=5"
+    },
+    {
+     "title": "Kenya@Mexico - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk5qdXJzcTJNR3o4RDladWFjWDFUeDJrREQzMVRMWXBXOW9TNGxrb3JXR3dtcU1fUEl4ZlFMcm1RU3AzNGoydzZfYmtYZ0k3X045Wm1KLTUyYzNDc3lxekNXaWdzWGJBNUVoUVk4djZJX3VSWHc2Qm1vN0hfU0RldG1UMXlRcmhlZjZoY1BkUElHUVRNMTVHUEJMSmc0T2h3c3c?oc=5"
+    },
+    {
+     "title": "Men's and Women's Heats and Women's Fatest Heat - Swimming | Dakar 2026 Summer Youth Olympic Games",
+     "outlet": "www.olympics.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOHpodk5LRWNmLUhTX1RSV3VPUzZWbXVwb1lBNHNiNmVTWGtwVDluZVBFT1pPZ01uNUg4dGE3YklQTGRJektOc2FiRHVmVFY0STlvb3FMMVFVaU9keHZxUEhLakJJRTV2MER5cXhZaDQzTjhzeUcxNHdacWE2WnZHTGIxVGVoTzEyOHNzRzFuOUxkTVFsb1JCSE95SDUxVzVnLUFlTVozZG1lWGlXSDFtYnRNTkZwNWxkSVY3VG5LS1ZhZVNCV2Vnd2lKUEJoREdXNnd0R0hZZw?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-youth-2",
+   "id": "n-2026-10-31-youth-3",
    "topic": "youth",
    "sport": "baseball",
    "format": "research",
-   "title": "Emerging Sports at Youth Events: Analytics Behind Federation Bets",
-   "pitch": "Baseball5 and other non-traditional formats debuting at Dakar 2026 represent calculated federation bets on youth engagement. This session analyzes how governing bodies use participation data and event analytics to justify investing in modified sport formats targeting younger demographics.",
-   "why": "Baseball5 live action at the Youth Olympic Games puts the question of modified sport formats and their measurable participation upside directly in the news this week.",
+   "title": "Emerging Sport Formats as Youth Participation Engines",
+   "pitch": "Compact formats like Baseball5 are debuting on the Youth Olympics stage, targeting new demographics and lower-cost entry points. This research session analyzes whether format innovation drives measurable youth participation lifts and what the data says about converting casual players into committed athletes.",
+   "why": "Baseball5's multi-nation competition at Dakar 2026 provides a timely, real-world test of whether simplified sport formats can expand youth participation in underserved markets.",
    "questions": [
-    "What analytics frameworks do federations use to evaluate whether a simplified sport format grows the broader participation base or cannibalizes it?",
-    "How do youth event organizers price media and sponsorship inventory for modified formats with no historical benchmark?",
-    "At what participation threshold does a youth-focused sport format justify a dedicated professional league investment?"
+    "What does the research show about whether simplified formats retain youth players long enough to transition them into traditional versions of a sport?",
+    "How should federations price and distribute emerging formats to maximize participation growth without cannibalizing existing youth programs?",
+    "Can participation data from Youth Olympic debut events reliably predict a format's commercial viability in club and school settings?"
    ],
    "headlines": [
     {
-     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Live Blog - Day 1",
+     "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Day 2",
      "outlet": "World Baseball Softball Confederation (WBSC)",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbV9TQnV0LXh1enFUNW1WblhUbXRiXzNtV3NXR1JvVTh6VnR0aDZIWG1jb3RZNUhUOFRVa0hEbXp4RGRiYXUweGFYMFVnS3Q1R3RFUncwdjI3UUZZbmY5OE5wb20wd1RCWU1iY3MzazZtazdjNkw1bnZBc0U5TThpcEZPS2ZuMEtaOC1iNllTY0tiQQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0NJYkNVWnNsUGdleUdQeU5uTHloaHdGVE0yemU1SHY0NFhkTXNkc0hBcHBzTWU0WUNKMm9XUVNmUnZzSWtIZ0RIeXJMM0dEeFR2Skl2aGZxLU0zdDZYT2xJYjBxUThFZ2xvTkVVcFdVZDNfMk4zVHE3dnNQaHR1VnlJWHQ?oc=5"
     },
     {
-     "title": "Dakar 2026 Youth Olympic Games: How to watch live action on Opening Ceremony day – full schedule for Saturday 31 October",
-     "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWlpGenZ6OGRnSWp2d0lJdFl1RkZEZm0zeDBucnZ1XzBhdGdsZFF5TmJ4U2x2dUlSNVV5bEhXdDAxREhWNlozWFYtTUpSaXdzQ1ZKT0E1TU5KZFBDYW51MldtTllqRUFjLTdMVlhPbjk2Q3NYTW5KLXNaaGJBNlpMdGlEekF2REhyYW5aYmRnNjZaVWtBTE85OW41aHR2NE1pODEzblVGMjZBVlNYZjhYQ0x3a0JaLVkzNHRyODdkOU1FY3RneUVwMjN2SkFLYU95ZEJWZFpR?oc=5"
+     "title": "Cuba@Senegal - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkQzMVhjd09wUk1DNkx1VjVTMUtSUnFGSmlrOTJVWE8tVFIwVnVxR1RHSjVYVEx2amx0YmNCMUNmSGlKS08tZGJwUEllb0w5dXNFLTVaZXdFUHVuRFprWEVLVmtfSEpnTUtPeTJUS0tBUGFEZVFSeXBTRzRtZ01lajdyWkhfNTZDd2Q0T0F1TlBpeGp2Z0RsVTFadnpaQ3BUOVE?oc=5"
+    },
+    {
+     "title": "Kenya@Mexico - Baseball5 Youth Olympic Games",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk5qdXJzcTJNR3o4RDladWFjWDFUeDJrREQzMVRMWXBXOW9TNGxrb3JXR3dtcU1fUEl4ZlFMcm1RU3AzNGoydzZfYmtYZ0k3X045Wm1KLTUyYzNDc3lxekNXaWdzWGJBNUVoUVk4djZJX3VSWHc2Qm1vN0hfU0RldG1UMXlRcmhlZjZoY1BkUElHUVRNMTVHUEJMSmc0T2h3c3c?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-youth-3",
-   "topic": "youth",
-   "sport": "volleyball",
+   "id": "n-2026-10-31-women-1",
+   "topic": "women",
+   "sport": "basketball",
    "format": "panel",
-   "title": "Regional Talent, Global Reach: Youth Sports Market Expansion Economics",
-   "pitch": "Seven African girls pairs leading Youth Olympic volleyball competition signals a shift in where elite youth talent originates. This session explores the business models, scouting analytics, and infrastructure investments that federations and clubs use to monetize emerging regional talent markets.",
-   "why": "African athletes leading medal chases at Dakar 2026 across volleyball and other sports makes the economics of non-traditional talent markets an urgent strategic conversation.",
+   "title": "Game 7 Economics: What a Historic WNBA Finale Is Worth",
+   "pitch": "The first Game 7 in WNBA Finals history is a media and sponsorship stress test. This session examines how leagues price and package unprecedented moments, and what the ratings and revenue data from this series reveal about the WNBA's commercial trajectory.",
+   "why": "The first Game 7 in WNBA Finals history, decided this week, gives analysts a rare natural experiment in live sports valuation.",
    "questions": [
-    "How are clubs and federations structuring financial agreements to develop youth talent in markets where facility infrastructure investment is still nascent?",
-    "What participation and performance data signals do scouts and analysts now rely on to identify high-upside youth athletes outside traditional development corridors?",
-    "How does regional youth talent concentration affect broadcast rights valuation and sponsorship targeting for international federations?"
+    "How do broadcasters and sponsors reprice inventory in real time when a series reaches a Game 7 that has never existed before?",
+    "What does ticket and streaming demand data from this Finals tell us about the WNBA's ability to sustain primetime pricing beyond marquee matchups?",
+    "How should expansion franchises entering the league now use this series as a baseline for projecting their own revenue curves?"
    ],
    "headlines": [
     {
-     "title": "Seven African girls’ pairs lead chase for Youth Olympic Games glory in Dakar",
-     "outlet": "Volleyball World",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOVB5MVl5Zm0xaFlHWDhIelZjNkFDaDktWkNKZEZwM2ZfTnNLd2pyVy1ncXRzQ2sybGNhRk1rdEFuS0o2YXFfcUdXSGlNSkViQ1FiYWNLVzYzR0ZyMmN6dDB5am1XRTFLNjVBQXJuMVpCejRHQUtUbERLZHF4Si02MWRHc0I3cWYwbHVxYmtJQzl4RUNvZ0VaWTNzVVhKaU5rM0NMSzdzTFZMNG1TS1FfVi16SUw4U011bmp2WlBfY1Y1TmNNN1pteWV2V2dlY3p1UFZGUmRyTEd6T0VsblZFLTdTZEZJMFBxSXZRYUNOTXZ6OU0zUjVzM3Nn?oc=5"
-    },
-    {
-     "title": "Europe's Rising Stars Ready for Youth Olympic Games in Dakar",
-     "outlet": "Badminton Europe",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalZkLUVSTzhXYmNvVFBTdkF1REFTSXR0VFpVOUZackFNM0p5TXhHRXZqN0FhYW4yRGtxbjNoT1UxZ1p1bWlob0pqXzBVbDVLZ0RoR3hvSFVZM09IZ2owWEpCaVlKS0VESUgzNVkwbm81emY2RlY3LXBXS3VVNlU0M3REaVU0WWNwU19vVVJiVlBTalNj?oc=5"
-    },
-    {
-     "title": "Dakar 2026: Meet Kim Seung-won, the 16-year-old swimming star chasing Youth Olympic Games gold and dreaming of LA28",
-     "outlet": "Olympic Channel",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYXMySTctY2t5QXdLcFNHRVRMc0JzLXRNSHZjV1UwaDFKeXBReTBaRjBVa0tVNnBjVUtvVHVnbDkyY0VMMzVxS3FGdDdadGJ4Y3B4RlF0WWI5a3ZlVnlkZEhNUFBpVFI5NHUwcGw3VDM1dUVmcFczMmVlMy1UZkdrVDl4Q1RHRmt3SlY4REhKLWMxMGd0Yk1jN2tNU1V5TWVOSV9ESzBQSVc5dVU?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-10-30-ownership-1",
-   "topic": "ownership",
-   "sport": "",
-   "format": "panel",
-   "title": "NIL Valuation: Pricing Athlete Brand Equity in a Maturing Market",
-   "pitch": "NIL deals have moved from novelty to negotiation science. This session examines how analysts and dealmakers are building repeatable valuation frameworks for college athlete endorsements, from mascot matchups to national brand partnerships.",
-   "why": "High-profile NIL signings across football and dog food brands alike signal the market is diversifying beyond star quarterbacks, demanding better pricing models.",
-   "questions": [
-    "What data inputs most reliably predict NIL deal value for athletes outside the top-revenue sports?",
-    "How do brands measure ROI on NIL partnerships differently from traditional celebrity endorsements?",
-    "As congressional NIL legislation stalls, how do valuation models account for regulatory risk?"
-   ],
-   "headlines": [
-    {
-     "title": "UTulsa’s Goldie lands NIL deal with The Farmer’s Dog",
-     "outlet": "News On 6",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ed0trOEw1SkdEUkN3SlhOSjNxb1VaUVlleTVPT2V4Z0E2WUd5ZkZzMGZKaF9GVlNSLUc1TU9WY2xEMUlUR0tGN0twM2FBdWdMOGt1Mmc5S21fdFFoQmViNXotRk9vbDBxWHNhNlFXb0Mwa0E?oc=5"
-    },
-    {
-     "title": "Arch Manning’s latest NIL deal puts his mother in the spotlight",
+     "title": "How and when to watch Game 7 of the WNBA Finals between the Valkyries and Dream",
      "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFBrUjhzeWUwLWxRdkFvNWZBOTBUaUM5amVWbHpWUGh6Nm82N01HTy02RThVV1pFOUNhTTJqVGcwWmV2cFNfaUs5dEtMemFCWjFMelYtc0VuOWVJWWRvS0xRckJ5MmlvV1kwb1k1M2gza0xta21yQWFET0RRV0lSaHJBSQ?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNlNXTVNaVVRLZFdTclVCbkxiTlYwZ2lmRHhpZG5sa1Ywek1lQV9GR3dfRTlFeGJuajRaOXF4QXo4V2c5ZGdSaUNCRlowRzdfajBvbHpJZDZVRHB3MmhvOHpUMGtnUFVrZ1oxWmd6amljdERJR2lPa2NXVEFGZw?oc=5"
+    },
+    {
+     "title": "First Game 7 in WNBA history will decide first title for Dream or Valkyries",
+     "outlet": "ESPN",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdE5RTHhDU2ZiRXRLMS1rT3FUNnhIcG5jN3V1VktJZGh5aFVFRnZ0dW41cG01OVdtNU0yUUI4eXBGcjZKN2pVVU1JbDRlLVE5cFdWT1laZ3hWYjVzRjZEVnZXQXBVdV95YVVreFFmZ2NwTjR2a09kNHlRNDdnR2QxcmJBRUlXU2tyN0JVR0xYRVIxMzNSWnNCZjY5b2FoUQ?oc=5"
+    },
+    {
+     "title": "WNBA Finals Game 7 expert predictions: Valkyries or Dream? Our staff is (mostly) in agreement",
+     "outlet": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUFkVEZiX3NCelAzelh5d2tTRWFhWFJiaERDQzQxa2NTdjA3aFRxNGduMzhUN19Xdmw3ekpEcGMxWVZOMXhpa2pCVl9LRzgtUC1sekJSSURCSEo1M0pCYm0tRHlDZ3JqbHJmR09UZVp4RUZnbjZOVEVHRUpwRDJlSXc1cTFqMUhNX1NRR0VGb0gyY051eHFMNXpRY3otSS1W?oc=5"
+    },
+    {
+     "title": "WNBA Analyst Reveals the Magic Number in Valkyries vs. Dream Game 7 Prediction",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3Y1Z250MlFqMmc2LTRRYUVSOElRQ1RuUS1vMmNvdVFDdVRybXNqSGtJWVZhRE9tU0M2d0JUdW9LTEUyNVB4Z2ZIOG1vRmUzZVh1VXh2WXBHbkd0T2hVZzlKMFVBSDZqbjdLcGkydGozT19sSldLTVhlYzU4UU1RUnRMTmNCWjlGYWc?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-ownership-2",
-   "topic": "ownership",
-   "sport": "",
+   "id": "n-2026-10-31-women-2",
+   "topic": "women",
+   "sport": "basketball",
    "format": "panel",
-   "title": "College Sports Revenue Reform: Analytics Under Legislative Uncertainty",
-   "pitch": "The push to restructure how college athletic departments earn and distribute money faces political headwinds. This session asks what financial modeling and revenue analytics can tell us about which reform paths are viable and which are theater.",
-   "why": "Stalled midterm-era legislative efforts to end revenue inequities in college sports leave athletic directors and investors navigating deep structural uncertainty.",
+   "title": "Building the Analytics Stack for Women's League Expansion",
+   "pitch": "New women's leagues are generating data at scale for the first time. This session explores how front offices and broadcast partners build performance analytics infrastructure from scratch, and how data quality shapes roster decisions, broadcast storytelling, and sponsorship measurement.",
+   "why": "The WNBA Finals reaching a historic Game 7 spotlights how rapidly women's leagues are generating high-stakes, high-visibility data worth analyzing.",
    "questions": [
-    "How are athletic departments stress-testing their revenue projections under different legislative outcomes?",
-    "Which non-football and non-basketball programs show the strongest unit economics if revenue-sharing expands?",
-    "What role can first-party fan data play in reducing dependence on conference media rights volatility?"
+    "What are the biggest gaps between the analytics infrastructure available to established men's leagues and what new women's leagues are working with today?",
+    "How do teams balance investing in proprietary data collection against relying on league-wide tracking systems in a growth-stage league?",
+    "When broadcast partners push for real-time analytics on air, how does that demand reshape what data a league decides to collect in the first place?"
    ],
    "headlines": [
     {
-     "title": "Why efforts to end the sick college sports money grab are in danger as midterms loom",
-     "outlet": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLURua0RhaWladlNfVV9yamVZVUdLeE5fLUJ3QncxUTN4ME1FaXRnZ0k0MnBsb0dLTFZUa2V6Mk1lVHd4OXdpOEwzaVBkd0N2VXlkNlh3c09lbWhlVTFvSHIwRWNtVG9FWnRnLXpQc2N1V0REclVlVjZ2emd5SVhvNjBILVVfRS1MT0dPb0cycXpramFjWVl6QnN2cFY5enVaVEhQcmIyOTUtZUpvMlBJeTJ1bklNb1h2TU5HQi1vUDhlZw?oc=5"
+     "title": "How and when to watch Game 7 of the WNBA Finals between the Valkyries and Dream",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxNlNXTVNaVVRLZFdTclVCbkxiTlYwZ2lmRHhpZG5sa1Ywek1lQV9GR3dfRTlFeGJuajRaOXF4QXo4V2c5ZGdSaUNCRlowRzdfajBvbHpJZDZVRHB3MmhvOHpUMGtnUFVrZ1oxWmd6amljdERJR2lPa2NXVEFGZw?oc=5"
     },
     {
-     "title": "UTulsa’s Goldie lands NIL deal with The Farmer’s Dog",
-     "outlet": "News On 6",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ed0trOEw1SkdEUkN3SlhOSjNxb1VaUVlleTVPT2V4Z0E2WUd5ZkZzMGZKaF9GVlNSLUc1TU9WY2xEMUlUR0tGN0twM2FBdWdMOGt1Mmc5S21fdFFoQmViNXotRk9vbDBxWHNhNlFXb0Mwa0E?oc=5"
+     "title": "First Game 7 in WNBA history will decide first title for Dream or Valkyries",
+     "outlet": "ESPN",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdE5RTHhDU2ZiRXRLMS1rT3FUNnhIcG5jN3V1VktJZGh5aFVFRnZ0dW41cG01OVdtNU0yUUI4eXBGcjZKN2pVVU1JbDRlLVE5cFdWT1laZ3hWYjVzRjZEVnZXQXBVdV95YVVreFFmZ2NwTjR2a09kNHlRNDdnR2QxcmJBRUlXU2tyN0JVR0xYRVIxMzNSWnNCZjY5b2FoUQ?oc=5"
+    },
+    {
+     "title": "WNBA Analyst Reveals the Magic Number in Valkyries vs. Dream Game 7 Prediction",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3Y1Z250MlFqMmc2LTRRYUVSOElRQ1RuUS1vMmNvdVFDdVRybXNqSGtJWVZhRE9tU0M2d0JUdW9LTEUyNVB4Z2ZIOG1vRmUzZVh1VXh2WXBHbkd0T2hVZzlKMFVBSDZqbjdLcGkydGozT19sSldLTVhlYzU4UU1RUnRMTmNCWjlGYWc?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-ownership-3",
-   "topic": "ownership",
+   "id": "n-2026-10-31-women-3",
+   "topic": "women",
    "sport": "soccer",
-   "format": "research",
-   "title": "Transfer Portal as a Roster Market: Valuation, Risk and Capital Allocation",
-   "pitch": "The transfer portal now functions as a real-time talent exchange with direct financial consequences. This session applies asset-pricing thinking to roster construction decisions, exploring how teams quantify player value, transfer costs and roster fit under NIL constraints.",
-   "why": "Growing portal activity in soccer and across college sports mirrors free-agency economics, pushing programs to build more rigorous player-valuation infrastructures.",
+   "format": "fireside",
+   "title": "Athlete Activism and Brand Risk in Women's Sports",
+   "pitch": "Women's sports athletes are among the most vocal on social issues. This session analyzes how leagues, sponsors, and teams assess reputational risk and opportunity when athletes engage publicly, and what the data says about fan response and commercial impact.",
+   "why": "This week's public exchange between a prominent retired women's soccer player and political figures puts athlete speech and sponsor brand safety back in the spotlight.",
    "questions": [
-    "How do programs quantify the opportunity cost of a portal acquisition versus developing a recruit from scratch?",
-    "What metrics best capture a transfer's marginal contribution relative to their NIL price tag?",
-    "Can the analytical tools private equity investors use to assess team rosters translate to college athletic departments?"
+    "How are sponsors currently modeling the commercial upside and downside of partnering with outspoken women's sports athletes compared to their male counterparts?",
+    "What fan sentiment data exists on whether activist athlete narratives drive or dampen ticket sales and merchandise revenue in women's leagues?",
+    "Should leagues develop formal frameworks for advising athletes on public statements, and if so, how do you do that without chilling legitimate speech?"
    ],
    "headlines": [
     {
-     "title": "Men’s soccer: Transfer portal plays growing role in Ohio State’s recruiting",
-     "outlet": "The Lantern",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHoxYVN1QzVVUUtKZjRNaC0xTGprTl9lNHhvLW1zZ3JKTk5aaDBMRVluMHRkODgyZ2g0LVJNRVNkYTEtRnM1VXR1QVpjTnJjZmppRjZEbFFrcHlpX2FRd2dBMTNCX19LQXhpNERKUlpGSUxPV1ZtZmZOLXhlQUlYUU5fdUtRR3dVbDM3VzZiLVRBMDdZakJjay01OGlTNXNQMV9Vbmxid3NEZFdQ?oc=5"
-    },
-    {
-     "title": "Why efforts to end the sick college sports money grab are in danger as midterms loom",
-     "outlet": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLURua0RhaWladlNfVV9yamVZVUdLeE5fLUJ3QncxUTN4ME1FaXRnZ0k0MnBsb0dLTFZUa2V6Mk1lVHd4OXdpOEwzaVBkd0N2VXlkNlh3c09lbWhlVTFvSHIwRWNtVG9FWnRnLXpQc2N1V0REclVlVjZ2emd5SVhvNjBILVVfRS1MT0dPb0cycXpramFjWVl6QnN2cFY5enVaVEhQcmIyOTUtZUpvMlBJeTJ1bklNb1h2TU5HQi1vUDhlZw?oc=5"
+     "title": "‘Nothing better to do’: Megan Rapinoe rips ‘grifting’ Enes Kanter Freedom and Royce White",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORzdFS0VpbUZPV1dGekd6eTBObk1VWGhFbVhGQXRnYUV5bmpTSUktUXNMVGJ5TkxBSXNfZmtfWF9qZkRDdUVDYURDcDBEeUN4NkJYajdnbmJWUngxcmtwQ1ZmUjFzVFdhc3JUSXpUUmcybDZqSFJxWkRhUk1rYzNIbERQV1REUktLUUE?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-college-1",
-   "topic": "college",
+   "id": "n-2026-10-31-ownership-1",
+   "topic": "ownership",
+   "sport": "football",
+   "format": "panel",
+   "title": "Pre-Revenue and Proud: Valuing Data Startups in College Sports",
+   "pitch": "As NIL and revenue-sharing reshape college athletics, early-stage data ventures are attracting venture capital before turning a dollar. This session examines how investors price uncertainty, data moats, and market timing in college sports infrastructure plays.",
+   "why": "LvlUp Ventures backing pre-revenue college sports data startup Tosch.ai signals that institutional capital is moving into college sports analytics infrastructure right now.",
+   "questions": [
+    "What metrics do investors use to value a pre-revenue sports data company when historical comps barely exist?",
+    "How does the new College Sports Commission revenue-sharing data change the total addressable market calculus for college sports startups?",
+    "At what point does a data moat in college sports become defensible enough to justify a Series A?"
+   ],
+   "headlines": [
+    {
+     "title": "LvlUp Ventures backs pre-revenue college sports data startup Tosch.ai",
+     "outlet": "Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUlmRUt3eUZlVllZbXJiUWdtdE0tYTg4bE1KZXA4VU14OUIxazlBRWVLTUZjXzBSQU00a0JBRnZCckM5a2xmcktjXzVZR0lIVUZ3UjBXdHZNMHhqS3Z5WWI1Y0FaT0VFNnVKRU9lTS01eE56Q1NYWjcxaTVNa0RTSElVMVd1LXRqSEpHSFUxNXkyUUtwaDB5ZGJPY3pZbGdfY0FBQlp3?oc=5"
+    },
+    {
+     "title": "How much do football players make in NIL, revenue-sharing? College Sports Commission reveals full data",
+     "outlet": "On3",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3VFU1MtTlozMmRPYnZvOW92Q2Zhcjh3bU11UnRBbGdUT0pkcVotajZzVE9JMFlyaGQ1QlVWYnJuWUpna0tveWR1RGFpdmViOHlqVzNSYjRoRW5sRGdHQlltbGZ5R3ZvX2ZTTUFwVS16a1NPRUswTGxfcWt0anBRa0tDWWVXV25EYy1wM0trQkczOHBHRm5POURyVXluRktYSGJTcFc5OTBVYUZ6SWZRVmp4cTFwOWZ3WHRJ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-10-31-ownership-2",
+   "topic": "ownership",
    "sport": "",
    "format": "panel",
-   "title": "Who Runs the Show? Power Vacuums and Conference Realignment Economics",
-   "pitch": "When a major conference commissioner departs mid-transformation, what happens to the revenue-sharing deals, media contracts, and NIL frameworks already in motion? This session examines how leadership transitions disrupt the financial architecture of college athletics.",
-   "why": "The sudden exit of the Big 12 commissioner signals that the business model pressures reshaping college sports are driving even its architects away.",
+   "title": "Betting Billions: Translating Handle Data Into Ownership Strategy",
+   "pitch": "New Jersey crossed one billion dollars in monthly sports betting handle. This session analyzes how team owners and league executives can use state-level wagering data to inform media rights negotiations, fan engagement investment, and franchise valuation models.",
+   "why": "New Jersey's September 2026 handle of 1.09 billion dollars, released this week, offers a concrete benchmark for quantifying sports betting's contribution to franchise and media asset value.",
    "questions": [
-    "How do mid-cycle leadership changes affect the enforceability and continuity of revenue-sharing agreements negotiated under a departing commissioner?",
-    "What analytical frameworks can athletic departments use to stress-test conference stability when governance shifts unexpectedly?",
-    "Does the departure of a high-profile commissioner accelerate or delay the consolidation of power among the remaining Power 4 conferences?"
+    "How should franchise valuation models incorporate the recurring revenue tail that legalized sports betting creates in a team's home market?",
+    "When a league negotiates media rights, how much of the sports betting audience can it credibly monetize as a distinct and measurable segment?",
+    "What analytical frameworks help ownership groups lobby for or against expansion into new betting-legal markets?"
    ],
    "headlines": [
     {
-     "title": "Commissioner Brett Yormark leaving Big 12 for role outside college sports",
-     "outlet": "FootballScoop.com",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYTVCbzJXN1RpYUZwNEZsdzN5eWdWQXJTRndvQWRoSkN5UkpkN0tfN2NvazFnc2NDc1JJWWh6ZjR3a1dMdTlkTzJPaVRTdHpCZk1UMndyRVRzTlBiQ2pMSDlNQlNUaTR6ajhWYUc2SmZqR0J4TmJTYmtsRi13WVlWWVpuenJFR2YxZmM4?oc=5"
+     "title": "NJ Sports Betting September 2026: $1.09B Handle, $77M Revenue",
+     "outlet": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDV5eWx0T3cxVVJtczgxZldUay05N1BCcGxFbWRDeEk4OVFvdEM3STltVWY2aWRUOUFNTzAyTzZLS3JBSjNMdVQ4X29ET21DRFJSWjd2eWVkdXFZOV9fYlMtemp3TUlDdzNmbGhPVFRuUWpmeGR2MnFkMUxBVWNMTDlSUTNmajV3T1QxZWJIYkEzbURvYXRRVg?oc=5"
     },
     {
-     "title": "Commissioner Yormark leaving Big 12 after January for job outside college sports",
-     "outlet": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVlyakR6MmZFR1d4Q0xRNy1ncUJGTXBPcDBPYk9VWE1JejZPWFRjUHdXQVhYQUc4SzhFbndHR19vcXhkbFY3aXF2RFRnR1VkbGo5VlhPdHFDQmVva0tnU2w0M1EyX3ZrNE1JSmF4czNmeHU2U2FuQURzTEhiV1FYMkE1SGtiSTA4Mmxra2pYcEplS2xhNk8tN2psdlFRTjA0Zi13WnluNFI?oc=5"
-    },
-    {
-     "title": "Golic Jr.: Brett Yormark's exit is a 'massive shake-up' in college sports",
-     "outlet": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkdsT1JESGtNZUpnLVcyQk5VaTI2R2otS0N2Rm5YSnFOWUFBaE0wVDdUd0dRcGpBVmVlQ3IxRHRnaTRYRllXdVZTZk1LdGFUNzg4aEZOWHk2cUdkTkFwVERtSXNkWFRDTW1vbXVxRGhsMFV3Nkx0T19YTk1scUotWUYzS1VTQ2dBMjVRTkRWem5wLU5fZmoyUg?oc=5"
+     "title": "FOX Extends MLB Deal Through 2028",
+     "outlet": "Sports Media Watch",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YeWNvQ0VVcGhlcDZRQ0FXdGNBaWdrWmtyVDNlNTBheTVqOGdMMVJuREFpUEQwdTN4U3FxNjk3SmhVdWx0cWhiM192NGQ3RDlUcFFkMUtFUVFGWktTUjI2ZHcxeVVQdHI3T1dRNUFTUVhVYmNzOFc5Uw?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-college-2",
-   "topic": "college",
-   "sport": "",
-   "format": "research",
-   "title": "NIL at the Local Level: Analytics Behind Small-Market Athlete Deals",
-   "pitch": "A mascot landing a pet-food sponsorship illustrates how NIL has reached every tier of college athletics. This session explores how smaller programs and regional brands use data to identify, price, and measure the return on NIL partnerships beyond marquee rosters.",
-   "why": "Brand deals at non-Power 4 programs are multiplying, raising urgent questions about valuation methodology and market efficiency at the long tail of NIL.",
+   "id": "n-2026-10-31-ownership-3",
+   "topic": "ownership",
+   "sport": "baseball",
+   "format": "panel",
+   "title": "Rights, Reach, and Return: Pricing Media Deals for Emerging Sports",
+   "pitch": "OCEANMAN's global deal with DAZN and FOX's MLB extension through 2028 bracket two ends of the media rights spectrum. This session builds an analytical framework for how leagues at different maturity stages should price, structure, and evaluate broadcast partnerships.",
+   "why": "DAZN's landmark deal with open-water swimming and FOX's MLB extension, both announced this week, together illustrate how media rights strategy differs radically by sport maturity and platform type.",
    "questions": [
-    "What metrics do brands outside major markets use to evaluate the ROI of NIL deals with non-revenue or lower-profile athletes?",
-    "How should athletic departments build data infrastructure to help smaller-name athletes demonstrate and grow their market value?",
-    "Can regional NIL activity be aggregated into a benchmarking index that gives both athletes and sponsors a fair pricing anchor?"
+    "What quantitative signals should a challenger sport look for before committing to a streaming-first distribution strategy versus a linear television deal?",
+    "How do analysts model the long-term brand equity impact of a media rights deal on franchise valuations several years after signing?",
+    "As sports betting handles grow, how should media rights contracts evolve to capture a share of the wagering-driven viewership premium?"
    ],
    "headlines": [
     {
-     "title": "UTulsa’s Goldie lands NIL deal with The Farmer’s Dog",
-     "outlet": "News On 6",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ed0trOEw1SkdEUkN3SlhOSjNxb1VaUVlleTVPT2V4Z0E2WUd5ZkZzMGZKaF9GVlNSLUc1TU9WY2xEMUlUR0tGN0twM2FBdWdMOGt1Mmc5S21fdFFoQmViNXotRk9vbDBxWHNhNlFXb0Mwa0E?oc=5"
+     "title": "OCEANMAN signs landmark global media deal with DAZN to boost open-water swimming's reach",
+     "outlet": "SportsMint Media",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa21hSUo2M1p6LWhDUXdYeHdsTFJSNDVVdHRKVndrUGR4YjQyVHhWVV9YTkVnZHVMOURBakdCRnlEZVhTcVFTY0NYLVNKUFlEd0dDQ0Q3VEVEOGZ2ZGp3bDJzYW8wMHJlOWtMS2pUSkI3b1phWTRUOTVBRGNXZnlrNHA5dXdsSlp5M2cxTEdKd0FyQUFYOENBR0ktY09ULTM4dExGR2dzc3VybmR3MzJqc3NUcXliUEk?oc=5"
+    },
+    {
+     "title": "FOX Extends MLB Deal Through 2028",
+     "outlet": "Sports Media Watch",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YeWNvQ0VVcGhlcDZRQ0FXdGNBaWdrWmtyVDNlNTBheTVqOGdMMVJuREFpUEQwdTN4U3FxNjk3SmhVdWx0cWhiM192NGQ3RDlUcFFkMUtFUVFGWktTUjI2ZHcxeVVQdHI3T1dRNUFTUVhVYmNzOFc5Uw?oc=5"
+    },
+    {
+     "title": "NJ Sports Betting September 2026: $1.09B Handle, $77M Revenue",
+     "outlet": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDV5eWx0T3cxVVJtczgxZldUay05N1BCcGxFbWRDeEk4OVFvdEM3STltVWY2aWRUOUFNTzAyTzZLS3JBSjNMdVQ4X29ET21DRFJSWjd2eWVkdXFZOV9fYlMtemp3TUlDdzNmbGhPVFRuUWpmeGR2MnFkMUxBVWNMTDlSUTNmajV3T1QxZWJIYkEzbURvYXRRVg?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-10-30-college-3",
-   "topic": "college",
+   "id": "n-2026-10-31-betting-1",
+   "topic": "betting",
    "sport": "",
    "format": "panel",
-   "title": "Revenue Sharing, Reform and Political Risk: What Congress Could Break",
-   "pitch": "Post-House settlement revenue sharing is still fragile, and federal inaction or midterm-driven legislative pressure could upend the frameworks athletic departments are building. This session stress-tests the political economy of college sports reform and its analytics implications.",
-   "why": "Reporting this week warns that reform efforts are endangered by midterm politics, threatening the revenue and compliance structures departments are already operationalizing.",
+   "title": "Prediction Markets vs. Sportsbooks: Who Owns the Odds?",
+   "pitch": "Kalshi and Polymarket now offer real-money sports event contracts nationwide, directly competing with licensed sportsbooks. This session examines the regulatory collision, pricing differences, and what prediction market expansion means for the established sports betting industry.",
+   "why": "Kalshi and Polymarket are actively running NBA promotional offers this week, signaling aggressive mainstream pushes into territory sportsbooks consider their own.",
    "questions": [
-    "How should athletic departments model scenario risk when the legislative environment governing revenue sharing remains unresolved?",
-    "What data would Congress actually need to craft durable NIL and revenue-sharing policy, and who is positioned to provide it?",
-    "If federal legislation stalls, how do analytics and compliance teams inside athletic departments build adaptable rather than brittle financial models?"
+    "How do prediction market price discovery mechanisms differ from traditional sportsbook line-setting, and which produces more accurate odds?",
+    "What legal arguments do state regulators and incumbent sportsbooks have to restrict prediction market sports contracts, and how durable are they?",
+    "If prediction markets capture a meaningful share of sports wagering volume, how does that reshape media rights deals and league data licensing agreements?"
    ],
    "headlines": [
     {
-     "title": "Why efforts to end the sick college sports money grab are in danger as midterms loom",
-     "outlet": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLURua0RhaWladlNfVV9yamVZVUdLeE5fLUJ3QncxUTN4ME1FaXRnZ0k0MnBsb0dLTFZUa2V6Mk1lVHd4OXdpOEwzaVBkd0N2VXlkNlh3c09lbWhlVTFvSHIwRWNtVG9FWnRnLXpQc2N1V0REclVlVjZ2emd5SVhvNjBILVVfRS1MT0dPb0cycXpramFjWVl6QnN2cFY5enVaVEhQcmIyOTUtZUpvMlBJeTJ1bklNb1h2TU5HQi1vUDhlZw?oc=5"
+     "title": "Polymarket Promo Code NOLA: Start With $25 NBA Cup Bonus",
+     "outlet": "NOLA.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLWIzUFlmaFdTdjlTQTRocUE3NUFDbkF1ckNPRFpjRUJrRjBXUHkzWmxYTEU1dXpkNmg3dm1Tc0hhcnVTTTNsY1IybWZkZXE2TzlpZ3FIMTg3bWRvZlBIemFVSTRqdkZqMm5BckZ5d1hDX21Nb252RTNtWlQ0TmY2SjZZZThzTmZmUEN4MWpNaHU5bmZhVHhhdlhwdkF5VWxoeEJ5d2JfeXcyblBJdk12Z0VMWXFZQjFVc3drV0dwMTNwMWhFc2txTjViam1LdXhYbXp2aXhTQQ?oc=5"
+    },
+    {
+     "title": "Kalshi Promo Code NOLA55: Claim $55 Lakers-Warriors Bonus",
+     "outlet": "NOLA.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZnFCVk5waWtKVmtVa05RZG83QUREUHlhTTFBSHBJM0FMVGFydnRlLXI3Z2VpRFE2YTBwRmI4V1JTOFU0a0J4WXVJUDc1VWlCM2lGbFF0ODh5cjlUUWdLcVVYMVUxd054RVI5UkJfQ0gwOHlBZXc1X0stcG1TREQtMWV0dTBRUkVFbXE4aTlYM0liWWo1UTEzMlZFS194c2l2WGhwU2FDWDVIOFJjX0I3VTQ5SnoxTG1pV0RCYXpLVXFkZWFhblQ5b0NpX1l3STN4SjRNeUFfMjE?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-10-31-betting-2",
+   "topic": "betting",
+   "sport": "",
+   "format": "research",
+   "title": "GLP-1s, Risk Appetite, and the Future Sports Bettor",
+   "pitch": "Emerging research suggests GLP-1 medications may reduce impulsive and addictive behaviors. This session explores what a large medicated population could mean for sports betting handle, fantasy participation rates, and how operators should model long-term customer acquisition.",
+   "why": "New reporting this week raises the direct question of whether GLP-1 adoption could structurally dampen demand for sports betting and crypto risk-taking.",
+   "questions": [
+    "How would operators detect a behavioral demand shift driven by pharmacological factors versus normal market saturation?",
+    "Should sportsbooks and fantasy platforms factor GLP-1 adoption curves into their five-year revenue projections, and how would analysts even build that model?",
+    "Does the possibility of reduced risk appetite change the responsible gambling calculus for regulators approving new betting product categories?"
+   ],
+   "headlines": [
+    {
+     "title": "73% of Americans Have Considered Risky Bets Like Sports Betting and Crypto. Could GLP-1s Change That?",
+     "outlet": "24/7 Wall St.",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkVISE1faExnbGdVdEtyNDhTU1YyMi1iRUtKX2V4dERKSFpBME5YdnlGeTVETndpQ1loelR2VEpIUER5U1ljQVY5QkVuNGdxX0M1cFg3aFU0bl92Sk5ESTdSSTFYN2pIdmZaXzk1dGdJaGhFY1FuSm1WbnA0T002YktIWG9IOTRCa1dMbWVkOG9LX2FDOWpYLWE0dEZ0N28xaWdtSDAxeHNZcC1QRjdJNDNtZFZPcU9nNE9KZkNpWlpJZ2RyUEc2STVxVEhuYmhWM0Rwc2VDekhLXzdwbzJfck1mQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-10-31-betting-3",
+   "topic": "betting",
+   "sport": "",
+   "format": "panel",
+   "title": "Fixed-Odds Horse Racing Enters Digital Sports Betting Ecosystems",
+   "pitch": "Michigan's addition of fixed-odds horse racing to online sportsbooks creates a new cross-sport data and pricing challenge. This session analyzes how fixed-odds models translate from traditional parimutuel racing, and what the Michigan rollout signals for other states and bettors.",
+   "why": "Michigan's regulatory approval of fixed-odds horse racing this week is the clearest recent example of states expanding the betting menu beyond the major professional leagues.",
+   "questions": [
+    "What pricing and margin differences exist between fixed-odds and parimutuel horse racing, and which model is more exploitable by sharp bettors?",
+    "How do sportsbook risk management teams build real-time liability controls for a sport where the information environment differs sharply from football or basketball?",
+    "Does adding horse racing to digital sportsbook apps attract a meaningfully different customer demographic, and how does that change platform design priorities?"
+   ],
+   "headlines": [
+    {
+     "title": "Fixed-odds horse racing added to Michigan’s online sports betting options",
+     "outlet": "MLive.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjM1VTdzUy1uNkpTRzBUbjhrUUNvVlhFSmhZWXAtV0x6N1FRbzU3bDZhZWpIbjlxc05YaFVqcVZKVEU1Q0tPT01QMkQ1dnFPN2M5UmJaV2tXckRuaFlmdHdpSmJmT3FNZ0xoeUh2dFZlcnpnX0RHYlZYU0R4Ry01bG95M2VJaVZLZUhOX3k5VVpFZUxSUHlIU3VLb1NDYjd4UTRWWm0tcjRxTDFQeTU5MENtdUxESVc1cC1XZWxQbw?oc=5"
     }
    ]
   }
