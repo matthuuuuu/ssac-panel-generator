@@ -101,12 +101,10 @@
 .gap-head { align-items: center; }
 .gap-head-r { display: inline-flex; flex: none; align-items: center; gap: 12px; }
 .news-actions { flex-wrap: nowrap; gap: 12px; }
-.news-actions .link-btn { font-size: 13px; white-space: nowrap; }
 
-/* news card actions: button flush left, link flush right, both inside the card padding */
+/* news card actions: just the red button, flush left inside the card padding */
 .news-actions { justify-content: space-between; gap: 8px; width: 100%; }
 .news-actions .btn-xs { padding-left: 10px; }
-.news-actions .link-btn { font-size: 12.5px; }
 
 /* idea card bottom: tighter related-session rows and a closer, smaller button row */
 .related li { gap: 10px; padding: 6px 0; line-height: 1.35; }
@@ -117,10 +115,6 @@
 /* lineup: long job titles stop at three lines (full text on hover), so one bio can't stretch the whole row */
 .lineup .lu-title { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
-/* "Past sessions" centered in the space between the red button and the card's right border */
-.news-actions { justify-content: flex-start; }
-.news-actions .link-btn { flex: 1 1 auto; margin-right: -18px; text-align: center; }
-.news-actions { gap: 0; }   /* the centering already spaces the link; an extra gap would push it right */
 
 /* idea card: Why now / archive columns sit right under the divider */
 .idea-cols { padding-top: 14px; }
@@ -131,6 +125,7 @@
 .idea-actions { margin-top: 0; padding-top: 16px; border-top: 0; }
 /* one size for descriptive text beside section titles, notes and method lines */
 .lede, .note, .method, #news-lede, #sport-note { font-size: 14px; line-height: 1.5; }
+#news-lede { max-width: 90ch; }   /* two lines: the sources, then when it was updated */
 
 /* gap analysis: every rank the same red, a labeled score, and a one-line key */
 .gap-rank, .gap:first-child .gap-rank { color: var(--red); }

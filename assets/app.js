@@ -423,7 +423,7 @@
     const cards = TRENDS.topics.filter((t) => topicById[t.id] && t.headlines.length).slice(0, 4);
     if (!cards.length) return;
     const updated = new Date(TRENDS.updated);
-    $("#news-lede").textContent = `Headlines from ESPN and Google News, matched to SSAC topics. Updated ${shortDate(TRENDS.updated)} at ${updated.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}. Topics in the news come up more often in the generator.`;
+    $("#news-lede").replaceChildren("Headlines from ESPN and Google News, matched to SSAC topics.", document.createElement("br"), `Updated ${shortDate(TRENDS.updated)} at ${updated.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit" })}. Topics in the news come up more often in the generator.`);
     $("#news-grid").innerHTML = cards.map((tr, i) => {
       const topic = topicById[tr.id];
       const last = topic.sessions[0];
@@ -439,7 +439,6 @@
           : "SSAC has never run a session on this. It would be a first."}</p>
         <div class="news-actions">
           <button class="btn btn-red btn-xs" data-gen-topic="${tr.id}" data-gen-sport="${tr.sports[0] || ""}">Generate a panel ${ARROW}</button>
-          <button class="link-btn link-ink" data-filter-topic="${tr.id}">Past sessions</button>
         </div>
       </article>`;
     }).join("");
