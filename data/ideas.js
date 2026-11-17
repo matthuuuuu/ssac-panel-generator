@@ -1,445 +1,420 @@
 // Written by scripts/write-ideas.mjs (daily). Panel ideas drafted by Claude from the week's headlines.
 window.SSAC_IDEAS = {
- "updated": "2026-11-16T20:05:47.394Z",
+ "updated": "2026-11-17T19:00:47.370Z",
  "model": "claude-sonnet-4-6",
  "source": "Claude via MIT Parley",
- "newsAsOf": "2026-11-16T20:04:27.274Z",
+ "newsAsOf": "2026-11-17T18:59:26.589Z",
  "ideas": [
   {
-   "id": "n-2026-11-16-fans-1",
+   "id": "n-2026-11-17-fans-1",
    "topic": "fans",
    "sport": "",
    "format": "panel",
-   "title": "Stadium or District? Designing Venues Fans Choose Over the Couch",
-   "pitch": "New stadium projects in Chicago and Newcastle show owners wrestling with whether to build a game-day box or a year-round destination. This session examines the analytics frameworks teams use to justify mixed-use development investment and measure community revenue lift.",
-   "why": "The Chicago Bears' noncommittal stance on a new Illinois stadium and Newcastle's approved spending at St James' Park both highlight the high-stakes calculus of modern venue development this week.",
+   "title": "Naming Rights to Fan Trust: Arena Deals as Community Anchors",
+   "pitch": "Regional naming rights deals, like New Mexico State's landmark arena agreement with a local lender, signal a shift toward community-rooted partnerships. This session examines how smaller-market teams can structure venue deals that build local loyalty and generate measurable fan engagement data.",
+   "why": "New Mexico State's agreement with a regional lender this week shows mid-major programs are finding creative venue financing that doubles as a community engagement strategy.",
    "questions": [
-    "How do teams model the revenue difference between a traditional single-use stadium and a mixed-use district when making the case to ownership and public stakeholders?",
-    "What data signals tell you a venue expansion is driving incremental local spend versus simply cannibalizing existing team revenue?",
-    "How do you price naming rights and sponsorship tiers differently for a year-round destination versus a seasonal game-day facility?"
+    "How do you quantify the fan loyalty lift from a locally recognized naming rights partner versus a national brand?",
+    "What data infrastructure should a smaller-market athletic department build before approaching a regional financial partner?",
+    "How do you structure a naming rights deal so that community goodwill translates into measurable ticket and sponsorship revenue?"
    ],
    "headlines": [
     {
-     "title": "Chicago Bears ‘noncommittal’ on new stadium in Illinois: Report",
-     "outlet": "ChiCitySports",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1JLUm9TNzlpUWZSekRfWGxBQVZuTl9nVGREcXE5V3EzU2NxMWdBODlTREtVSHNMY3NJajFrZGwzMDFPTGhHLWw4dTdvU3NQNFdCTko0ZDRUY1YyVFpCMUVDQmdlclV2MlFBcFZHYmlveXBENVllM0ZwYmhtbG5LbjhnNG5tcE1obmxYVkRQTmlDNTlnTXc?oc=5"
-    },
-    {
-     "title": "Newcastle approve new stadium spending as Hopkinson backs keeping St James' Park name",
-     "outlet": "NUFC Blog",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOHZxaU1qRDh3YUVDUTJCcEVnbzg0V1JkWnQweHVDeEtZUWNvNGFBU2xXd0NTSnpEWkZnRF9vQUpoLWRtd3F4UTc3dThBWDZPTFprZ21VM1NhQUE1Mm9qTGtjOFRmWE5hemFhMktwVU9fMHlYWWxTQlR4a3J3NkxnbHFyWlVRbXpNejdGVHI1MV9XOXBzMU1hM2JzNGdxYTF1VG5sLUNCZjVOamZHNTB0Ny1kNA?oc=5"
+     "title": "New Mexico State Athletics strikes landmark arena agreement with regional lender",
+     "outlet": "The Business Journals",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGxPaWlIY185cWVqQTdrWmR2bF9iSVVEMk41eWpyNHp4SmoyOENpTk5nWnRRT0J6YTA3TkM0MkIyS0o1OVZvTEpybndTSlJwOWFHWjFTNXpuUHhzclZrT3Y1VERLaXRrbkxkSjd5QjdDS2ktOG41Z0dKajdQX1A1cjlLcjVpZzk4a2xsX2Jxb3FaU1QtR0J1N0JUbVNpWEpKZTlkMjh5VTFYOTAxNGhzQQ?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-fans-2",
+   "id": "n-2026-11-17-fans-2",
    "topic": "fans",
-   "sport": "hockey",
+   "sport": "",
    "format": "fireside",
-   "title": "Borrowed Audiences: What Takeover Tours Teach About Fan Acquisition",
-   "pitch": "The PWHL Takeover Tour at Capital One Arena puts a growth-stage league in front of an established venue's existing fan base. This session analyzes the data strategies behind co-venue deals, measuring cross-sport fan conversion and long-term retention for emerging leagues.",
-   "why": "Two PWHL Takeover Tour games announced this week at Capital One Arena offer a live case study in how leagues use opponent venues to accelerate fan acquisition analytics.",
+   "title": "Beyond the Scoreboard: Tech-Driven Fan Experience Inside the Venue",
+   "pitch": "Adobe's collaboration with US SailGP shows how real-time data visualization and personalization can transform a live event into an immersive product. This session evaluates which venue-side technologies are delivering measurable ROI and which are still searching for a business model.",
+   "why": "Adobe's SailGP fan experience rollout this week offers a rare public case study of a major software platform betting on live-venue personalization at scale.",
    "questions": [
-    "How do you instrument a one-off venue takeover to distinguish genuine new fan acquisition from casual walk-up attendance with no retention value?",
-    "What first-party data agreements between host venues and visiting leagues are necessary to run a meaningful post-event attribution model?",
-    "At what point does a touring model stop serving a growth-stage league and become a ceiling on building a dedicated home-market identity?"
+    "How do you isolate the revenue contribution of an in-venue tech feature from broader ticket sales trends?",
+    "What is the minimum data infrastructure a mid-size venue needs before personalization tools create more value than friction?",
+    "How do you design a fan-facing experience that works for a first-time attendee and a season-ticket holder simultaneously?"
    ],
    "headlines": [
     {
-     "title": "PWHL Takeover Tour™ to Open at Capital One Arena on January 2",
-     "outlet": "NHL.com",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUJsQ0N0OWxDUEVmU0U1YkdUU2twd2pGTEhfUDNDR0N5YmZ1VXZUTVVTNk5WUmVHcnBxcXRxbG9jb3lORUc5TXVtVG5TZlMzZ2x5R0dnSnlsaEgwa090QTV6V3NuMmx4ZjhMVlpOYTByTUxJdnNjNlUtQVEtMUIzODZfaC1qUmQ1Z2hrRjRrazF0cEZCY1FlaHRLUTk?oc=5"
-    },
-    {
-     "title": "Capital One Arena to host another PWHL Takeover Tour game between Ottawa Charge and Boston Fleet",
-     "outlet": "RMNB",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaC1tWGZaWHg4M2o1amc1OWFuYXZUcG9fUlVHcmN2a3hya1l3SVR6UlIzMkZ2SWNkNzFnWlZrSWJ5d0tLVk9VczZlZnZLSzBnb2NZNTNRYWotZW9LU3U2WmNZT0ViVjdFZjNrOG9FQ1k3aDhsdXVqbGxpYU1sNlBNaVZpbE1ndDB6bkhjYTNSdnlYbFY4aF9Cay1GX2VlVFdpUkgtXzBnMFZBOXROdFZxQVFEYV9tWFpMRnc?oc=5"
+     "title": "Adobe and the U.S. SailGP Team reimagine the fan experience",
+     "outlet": "Adobe for Business",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BenFLN2kxV2t2aDVsUHhad0JqckY3NnFXUTQzVkVEWnhxRzdrUmVsVGFOMjhXOGpHNW9MYjNWNVcyT0JBTWVmVk15ZkdWSmNKRWF5S1lwVnowNVdBUFE5Z2pHdDlZak5HdlZoQXpR?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-fans-3",
+   "id": "n-2026-11-17-fans-3",
    "topic": "fans",
    "sport": "football",
-   "format": "research",
-   "title": "Rule Changes and Seat Revenue: Modeling Fan Preference Shifts in Real Time",
-   "pitch": "When the NFL redesigns a kick-off play and fans push back, teams face an analytics challenge: does rule-driven dissatisfaction move ticket demand, in-venue dwell time, or broadcast preference? This session presents methods for isolating rule-change effects on venue revenue and engagement metrics.",
-   "why": "NFL fans vocally questioning the new kick-off format this week makes it urgent to understand whether rule changes create measurable, quantifiable shifts in live attendance demand.",
-   "questions": [
-    "What econometric controls do you need to separate a rule-change sentiment effect on ticket sales from concurrent factors like team performance or schedule strength?",
-    "How quickly does second-screen behavior data reflect fan dissatisfaction with a rule change, and can teams act on that signal within a single season?",
-    "Should leagues share rule-change sentiment analytics with team front offices in real time, and what competitive or political complications does that create?"
-   ],
-   "headlines": [
-    {
-     "title": "NFL fans want to change 'high IQ' kick-off play the league bragged about",
-     "outlet": "The Mirror US",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnNvZ1gyZVNHOXlQRmF1NGRoOTBOVHlockdjRl9iTHM1VFZMd0NUZVhVeHF0SnZ3d3BhOEY5TlFBWHZPbFQ3Z01yazZWNnhYWm1laE5WUkVRNnp4T0lzU1c5VzdjLWppQjhxc2JXRF9mTU5rYm80T2tPcnlHZ3BmMDNvT1ZweWJSYm03amFpSl9SOC1K0gGaAUFVX3lxTFBidjVtRFJIOVJkaFVxMElHYzF6a25ZV3ZOemdSYWFrYTBfUzBzekdCSkh0ZDBtUDRIc2FRUVhmRmQtQVhFcUZKNFhodDVfRkFYb0dxMk10Yi1KeklIeGpSYS1fLTFnVGxHTGNrOXl3YlJZR3hseWY1V3BpSDU5aWpzb2NrcGNLLXNoTmtmWFZBUmJIM1FobjhWY0E?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-global-1",
-   "topic": "global",
-   "sport": "soccer",
    "format": "panel",
-   "title": "Ticket Pricing Power: Lessons From UEFA, FIFA and LA28",
-   "pitch": "UEFA's decision to freeze Euro 2028 ticket prices while FIFA pursues a premium strategy reveals a fundamental fork in mega-event monetization. This session examines pricing models, fan accessibility trade-offs, and long-run brand equity at the intersection of revenue and growth.",
-   "why": "UEFA's announced freeze on Euro 2028 ticket prices this week draws a sharp public contrast with FIFA's approach, making the debate urgent for every organizer planning a mega-event.",
+   "title": "NIL Promises, Empty Seats: When Roster Churn Breaks Fan Contracts",
+   "pitch": "Fan backlash over NIL-driven roster turnover in college football is producing real demand for ticket refunds, threatening the revenue assumptions behind new stadium investments. This session analyzes how athletic departments can model roster volatility risk into their ticketing and venue planning strategies.",
+   "why": "This week's reports of fans demanding refunds over NIL disappointments create an urgent question about whether college venue business models are pricing in roster instability.",
    "questions": [
-    "How do dynamic versus fixed pricing models affect secondary market behavior and official revenue capture at mega-events?",
-    "What data should organizers use to balance short-term ticket revenue against long-term fan loyalty and international audience growth?",
-    "Can a single global governing body sustain two divergent pricing philosophies across its owned properties without undermining either?"
+    "What historical attendance data should a college athletic department use to stress-test its revenue projections against a high-roster-turnover scenario?",
+    "How do you design a dynamic pricing and refund policy that retains fans during a rebuilding cycle without cannibalizing future demand?",
+    "At what point does persistent fan frustration with roster churn show up as a structural decline in season-ticket renewal rates rather than a one-season anomaly?"
    ],
    "headlines": [
     {
-     "title": "UEFA to Freeze Euro 2028 Ticket Prices, Sharpening Contrast With FIFA Strategy",
-     "outlet": "TicketNews",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY21YSFFqNmJ3VnYtMjZQTzhobk0zRTVYMHQ1ZENJeDMtYVVPZkdjVlhOTlBrTzJPZ25WWlUtSnhsSkVBM1lVT1REWlgxNHZ0bTQ5X2QxNXJGWDBFYnlYQzRnb2cxdHI3VWt3aGdvTHJLd2wzWHhjZW9TOFBidHAtY3htaWhSRk52RnZCbWZ2d0NvMGZJdU9YdjQ5d3lMRy0zRnAtMXlRV2FzZ3I2eDQ5WENrRQ?oc=5"
+     "title": "College football's biggest NIL disappointments have fans demanding refunds",
+     "outlet": "FanSided",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcmkzNl9kRFRPay0tZ3JtU3hvNWJLa0Q5S2h5T2xHaDU0S3lFREJ4WXZTM1lpU1haSTRiVXpqOGZTVmFxWm42c3JhVmJ6dk5fRHlPaEVodjBrMUNtZWw3WjB6ZGNtMWxtSWZTOHlvbGpQZUxNQ0JNV2p0VGx6TmZwZGtrRE1xSE5Od2I4b3c2cDZOaTZFeU14ZU1Da25qd1V4ZjJDTjNSWXJaWmJEQzlVVVRn?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-global-2",
-   "topic": "global",
-   "sport": "olympic",
-   "format": "research",
-   "title": "Quota, Qualification and Analytics: Earning Olympic Spots at LA28",
-   "pitch": "New Olympic qualification pathways, illustrated by surfing's quota allocations ahead of LA28, force national bodies to build analytics infrastructure around athlete development pipelines, event selection, and marginal-gain modeling across non-revenue Olympic sports.",
-   "why": "This week's ISA World Surfing Games result directly awarded LA28 quota spots, spotlighting how single competition outcomes now carry enormous strategic and resource-allocation consequences for national programs.",
-   "questions": [
-    "How are national Olympic committees building data pipelines to identify and prioritize athletes in sports where qualification windows are narrow and infrequent?",
-    "What role does event-level performance analytics play in deciding where to invest coaching and sports-science resources across a broad Olympic sport portfolio?",
-    "How should governing bodies model the return on investment of developing depth in quota-earning sports versus concentrating resources on medal-favorite programs?"
-   ],
-   "headlines": [
-    {
-     "title": "Leihani Zoric crowned youngest-ever ISA World Surfing Games champion to help secure Australia an extra LA28 quota",
-     "outlet": "Olympics",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjZJb2kxWXB6RjVkeFhzTzhhY0tqYnlJeHMxMEdtVmJESUh4YkJaX09KNXNmc0NRbWk2STBIZk9rYll0Z1hZb2I0ZGE5MExfRGU5SC1jUW5LYmdUUHVDMjVoX1lNRmN3SHpNN0xUYXBUa3BqcXJXOWN5c0FGYjJacWp5OEZRR2FiMTFUSXFGMlV0THk4SjNpZFNqXzFLbDV6emR5YWJOVTNMQnY1dDAwUUdpV1dmTVFrOHRBZ2JURk1IQQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-global-3",
+   "id": "n-2026-11-17-global-1",
    "topic": "global",
    "sport": "olympic",
    "format": "panel",
-   "title": "Neutral Athletes, Brand Damage and the Business of Inclusion",
-   "pitch": "The unresolved question of Russian participation at LA28 forces sponsors, broadcasters and organizing committees to quantify reputational and commercial risk. This session applies scenario modeling and stakeholder analytics to one of the most consequential governance decisions ahead of the Games.",
-   "why": "Industry observers are declaring this week that a decision on Russian Olympic participation can no longer be postponed, putting commercial partners and rights holders on notice that planning timelines are compressing.",
+   "title": "LA28 Security as a Business Variable: Risk, Cost and Fan Experience",
+   "pitch": "Hosting a mega-event means security is now a major operational and financial input. This session examines how law enforcement partnerships, venue design, and risk modeling shape ticketing strategy, sponsor value, and the fan experience calculus for LA28.",
+   "why": "With the Secret Service publicly detailing its LA28 security framework this week, organizers and brands face concrete planning decisions with direct cost and revenue implications.",
    "questions": [
-    "What scenario-planning frameworks should sponsors use to stress-test activation strategies against multiple possible outcomes on athlete eligibility rulings?",
-    "How do broadcasters model audience and advertiser reaction across different markets when politically sensitive participation decisions shift close to air date?",
-    "What data exists on the relationship between high-profile eligibility controversies and long-term consumer sentiment toward Olympic sponsors and the Olympic brand itself?"
+    "How do security infrastructure costs get allocated across the organizing committee, city government, and commercial partners, and how does that affect sponsorship pricing?",
+    "What data models help predict crowd behavior and security friction points, and how are those models being stress-tested before 2028?",
+    "When security measures visibly constrain the fan experience, how do rights holders measure and mitigate the impact on brand equity and ticket demand?"
    ],
    "headlines": [
     {
-     "title": "VOX POPULI: Russian participation in the 2028 Olympic Games? A decision can no longer be postponed",
-     "outlet": "The Sports Examiner",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOUdPXzRJVTIxMU8wUXJELU1WWEsyZlVmU3ROYzJxYUlwczBjd2FDd2VtZGdxNlFScGpWdWU1Y3lGN2JZY0NJOWRGeEVDUktBQmtnWWFwbGU3d1dzdjBwOHBuQU14WFJpZU5Ja2lobjRQZmw4M0U4Y0o0ZjR2alE3Q0RpdjJGLUpNZ3JzV0JKbzN5eFVXNXQ1WjRjeUxGU0xveUdncmtkWTRLYzhrRFh1ZS14eUVBaEJqakh4YldOR2cyZENWdHpnLVgyRQ?oc=5"
+     "title": "Here’s how the Secret Service plans to keep the community safe during the LA28 Olympics",
+     "outlet": "KTLA",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM3ZQVHloVXBnLTdVRklKVERRd3BzYkVJQUE1UjkyUm1hYzR6YlFtanp2eXdSUGZpM2M3WjE0Y1JlVHVBUGNZeFBaTC1qV1NzLTd6U3NscGtfckdPeEFOdndtQTRHWktJOVVQazRQeTUzUUR2eVNMODV3c0IxMFU5aGljONIBiAFBVV95cUxNSWlYWDduc3dFMmVuOER4b2NXRlNsSVh5MkxUdWtyMFR6cDE1UzhQVjNpUjBYM0tVd01fRE1QVy1ZYUZrX1g3WGdxUHNfUWxQWlBlc3ZCQmppcjJsUUFUdVIxLU90cUtoelBZZ1lqc055cnFXU20tVFRVMFgtSkp5YzVNT1N5MVZp?oc=5"
     },
     {
-     "title": "The Spirit of the Olympic Games",
-     "outlet": "The National Herald",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xTlBSSE96OF9RTFV3R1BUeVVHQWRCVlV3S1hpcFh0QnR2dFN2ZE5KS1NnRWJtbmZPS3ptZ3dOOU56SkVtZHptSnVOYXNENkNZX0RCbkdjYlAyb01admFtakt1SEU4aEF0R3QzWC1GcUpzeTRT?oc=5"
+     "title": "US Secret Service agent talks LA28 Olympics security plan",
+     "outlet": "FOX 11 Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SeUtza0VCXzN1MWFIVjk4ZW5pQkc4bllHaFlhUXR4NGc4TmNWSUdld2VPc3lkWU9RR0wtWmdmWTlETU95cWc4bTlybnJBYkZkWDBfRWZvaVZ5UTJT0gFiQVVfeXFMUFUyZjQ3dV9ydmZhZkg4OVVES0psaWMzS3ZPeGJpS09YakhQZnBlUHZqYXg1OU9OQnBZeEtxYTRlcVlmd2lBanZ5N0g1SlhnS2dfN1BkRXdqNG1xemZ1TXE1SEE?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-women-1",
-   "topic": "women",
+   "id": "n-2026-11-17-global-2",
+   "topic": "global",
+   "sport": "baseball",
+   "format": "research",
+   "title": "New Sports, New Markets: Monetizing Olympic Debuts Beyond the Games",
+   "pitch": "Baseball5 and other emerging disciplines are using Olympic platforms as global launch pads. This session analyzes the analytics and business strategy behind converting a single Olympic moment into sustained participation growth, media rights value, and sponsor interest.",
+   "why": "Baseball5's debut at Dakar 2026 this week offers a live case study in how a sport transitions from novelty to measurable commercial asset on the world stage.",
+   "questions": [
+    "What participation and viewership metrics does a sport need to demonstrate before a streaming platform or broadcaster will commit to long-term rights investment?",
+    "How do governing bodies use event-level data from an Olympic debut to build the sponsorship narrative for the following four-year cycle?",
+    "What is the right model for allocating Olympic marketing dollars between the parent federation and the host nation's domestic development program?"
+   ],
+   "headlines": [
+    {
+     "title": "Video: Relive Baseball5's historic Olympic debut at Dakar 2026",
+     "outlet": "World Baseball Softball Confederation (WBSC)",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWlBYWlJJQ09hSnQ4OGpRUEdkWDlNZTFlanZZYzFpLVVwZnZTZV83SUt2RkhFdUY3cTV5OW5VelNWSU5PblBiQW1qbW9OMGtneGZHLUxDeFFpZ00xUG96VElBNHRHaGlJcUhta1NJMGduTDA4MEpUNE5JQjVnOVZDd0N2QmoyQzlzUHhRdmM5RXFsb2hrYmlMY1pwTklXcFNCYndJengtNERNLVRTNTVVR0JYejE5OWFueG1LUGtOUHU2VC12SjJqY2g1SQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-global-3",
+   "topic": "global",
    "sport": "soccer",
    "format": "panel",
-   "title": "Venues, Valuations, and the NWSL's Infrastructure Gap",
-   "pitch": "Record NWSL Championship ticket demand exposes a mismatch between fan appetite and stadium readiness. Panelists examine how facility deficits constrain revenue growth, what ownership groups are doing to close the gap, and how league structure shapes long-term venue strategy.",
-   "why": "The NWSL Championship's record-breaking ticket sales alongside persistent stadium controversies make infrastructure the defining business constraint in women's soccer right now.",
+   "title": "Developing the Next Global Star: Talent Pipelines as International Growth Strategy",
+   "pitch": "Youth tournaments like the FIFA U-17 World Cup are increasingly commercial and strategic assets, not just development stages. This session explores how federations, clubs, and data platforms use emerging talent identification to drive international fan acquisition and long-term revenue.",
+   "why": "Buzz around a breakout prospect at the FIFA U-17 World Cup 2026 this week illustrates how a single player narrative can accelerate a federation's global growth agenda.",
    "questions": [
-    "How do analysts quantify the revenue ceiling imposed by temporary or shared stadium arrangements?",
-    "What financial models are women's soccer clubs using to justify dedicated venue investment to ownership groups?",
-    "How does the NWSL's single-entity history affect clubs' leverage when negotiating with municipalities for stadium support?"
+    "How are clubs and federations quantifying the fan acquisition value of a highly-publicized youth prospect in a new international market before he plays a senior minute?",
+    "What role do youth tournament analytics platforms play in bridging scouting data and commercial storytelling for sponsors and broadcasters?",
+    "As more youth competitions get streaming and sponsorship deals, how should federations price and structure those rights without cannibalizing the senior product?"
    ],
    "headlines": [
     {
-     "title": "NWSL Championship Shattering Ticket Records: ‘Perfect Storm’",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzFPUjExdGRKQ3dqcVBXVVdNOW5iWGNFeXo4LXlxdEV5ZlR5WDhFcF9KSXBQbjNsNzU4dTJWbTdXRFdJLUxNNTJEcWM3TXZMWk5rSnA3SGRtTmZkODdzY1JSYUNNLUcwQldaU3haRXJvSVVlZlcyOTRPaVRBTEZNSVM5dDh6ZmVycnNDeC1NZWVCWUktYzdF?oc=5"
-    },
-    {
-     "title": "‘Inexcusable’ stadium sagas provide NWSL with unwelcome reality check",
-     "outlet": "The Guardian",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSi0tc1U0bWJpeVlGWVRrSDBSbms4dFdIR25aLWI4b25QVkFORHBGMENzNXZxM2hScVN4MzZDRXNlY3FCd0xPcmlRUmlkSlNBdEpIb2YtNEU2dVBMYWhnMTdwRTNobXFGa0tyYUdvRWNERG40Y0VqY0R4akN4RFJaWFZOUERlczVnQWQ5bUh6NFJuTnM1Z2l1bmhvRQ?oc=5"
+     "title": "'A right-footed Estevao': Meet Brazil's starboy ready to conquer the FIFA U-17 World Cup 2026",
+     "outlet": "DAZN",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEFWQ3RDNUljSUlMWDNnZ3FXb0M4UU5CZnRrbjYyMjFlN1MzT0pUcEsyMWtVaEdYV0pwOE43R1E1anNxcVhsQ3ZDcWU2U1VmOUJBYVFscEJRRTFYcV9ScEQ2SnFocUlKMEJjRm1QbktNSzE5RG8tNFF1NTFzemlNamNQSWhzM0ZXa2p1Q2lRVktLSGtvcFhPQmVqZjh0ZkVLTm5xRXhIMEJfUUZRRnFVdDRMR2lkLTVNRWhhRQ?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-women-2",
+   "id": "n-2026-11-17-women-1",
    "topic": "women",
    "sport": "hockey",
    "format": "panel",
-   "title": "Takeover Economics: Monetizing PWHL's Arena Sharing Strategy",
-   "pitch": "The PWHL Takeover Tour drops professional women's hockey into NHL arenas, generating outsized visibility. This session analyzes the revenue-sharing mechanics, sponsorship lift, and fan acquisition data behind borrowed-venue strategies for emerging leagues.",
-   "why": "Two PWHL Takeover Tour games at a major NHL arena in one season signal a replicable growth model worth stress-testing with real analytics.",
+   "title": "Building a Brand from Scratch: Jersey Launches and Hockey Identity",
+   "pitch": "The PWHL's Seattle Torrent jersey reveal and 50-plus medal-winning players spotlight how new women's leagues construct franchise identity and fan loyalty fast. This session examines branding, merchandise strategy, and the analytics behind early-stage league growth.",
+   "why": "The PWHL's simultaneous milestone of a new team identity launch and dominant World Championship performance puts women's hockey brand-building at center stage this week.",
    "questions": [
-    "What metrics determine whether a takeover event converts casual attendees into recurring PWHL fans?",
-    "How do sponsors value inventory in a co-branded arena environment versus a league-owned venue?",
-    "At what point does a borrowed-arena strategy begin to limit a league's brand equity rather than build it?"
+    "How do expansion franchises in nascent leagues balance national brand consistency with local market differentiation?",
+    "What merchandise and engagement data signals that a jersey launch has actually converted casual fans into paying customers?",
+    "How does on-ice performance, like a World Championship medal haul, translate into measurable commercial lift for a league still building its audience?"
    ],
    "headlines": [
     {
-     "title": "PWHL Takeover Tour™ to Open at Capital One Arena on January 2",
-     "outlet": "NHL.com",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUJsQ0N0OWxDUEVmU0U1YkdUU2twd2pGTEhfUDNDR0N5YmZ1VXZUTVVTNk5WUmVHcnBxcXRxbG9jb3lORUc5TXVtVG5TZlMzZ2x5R0dnSnlsaEgwa090QTV6V3NuMmx4ZjhMVlpOYTByTUxJdnNjNlUtQVEtMUIzODZfaC1qUmQ1Z2hrRjRrazF0cEZCY1FlaHRLUTk?oc=5"
+     "title": "FIFTY PWHL PLAYERS WIN MEDALS AT 2026 WOMEN’S WORLDS",
+     "outlet": "Professional Women's Hockey League (PWHL)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUhSelMzOVpjd1BZTUkyZkxaRWF3dF9Sdjh2b3FYWXdVRkc5c2J6dFg1TEREOGhrR0lwMk14NkxJRGJXRVFuTmk5RXc5TFJ1TDdkOTBBcDNJMFFncm9MVFhzNGNIWDBJd2hraF80TTlpMkZtZ1pQdTZ3ZWdaN3M3YmlTakY0WEJIRy1SMmVZSEw1Z0pOdjd5V1BpY2lybV90NGVv?oc=5"
     },
     {
-     "title": "Capital One Arena to host another PWHL Takeover Tour game between Ottawa Charge and Boston Fleet",
-     "outlet": "RMNB",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaC1tWGZaWHg4M2o1amc1OWFuYXZUcG9fUlVHcmN2a3hya1l3SVR6UlIzMkZ2SWNkNzFnWlZrSWJ5d0tLVk9VczZlZnZLSzBnb2NZNTNRYWotZW9LU3U2WmNZT0ViVjdFZjNrOG9FQ1k3aDhsdXVqbGxpYU1sNlBNaVZpbE1ndDB6bkhjYTNSdnlYbFY4aF9Cay1GX2VlVFdpUkgtXzBnMFZBOXROdFZxQVFEYV9tWFpMRnc?oc=5"
+     "title": "SEATTLE TORRENT UNVEIL FIRST JERSEYS FEATURING TEAM LOGO",
+     "outlet": "Professional Women's Hockey League (PWHL)",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeUNZU3F5WktnNlhla05vTHhwQ1Y4cGdfc3EtaVZZR043NS13SmxqMm5oYUlpM01jbkJCRzdKcmRnbjM3NFE1Skc5NjVPajBkTmxCNzhVcjMwWWtDMFBsNngyX2ZIZ2hodmxCTW1sWnJxU0VDUGltb3Y4RTAyX3NRTnlhTEtHcTJLdlZGcURTX2J3M1N5Q2hRRWVHQnU3d2lveU8tYU1vaDZuZ3ZqVXpzNXJvU0Jobjd1WDJuVnJLOTZkVzhVbHc?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-women-3",
+   "id": "n-2026-11-17-women-2",
+   "topic": "women",
+   "sport": "",
+   "format": "panel",
+   "title": "Naming Rights, Trademarks, and the Legal Frontier of Women's Sports IP",
+   "pitch": "A resolved trademark dispute involving a WNBA team and a multiyear NWSL sponsorship renewal reveal how rapidly women's leagues are navigating intellectual property and partnership law. This session unpacks IP strategy, brand valuation, and deal structuring in high-growth leagues.",
+   "why": "A concluded WNBA trademark battle and a major NWSL insurance partnership renewal both closed this week, making IP and sponsorship deal mechanics an urgent conversation.",
+   "questions": [
+    "What valuation frameworks should women's sports properties use when negotiating trademark licensing versus outright enforcement?",
+    "How are sponsorship renewal terms evolving as NWSL and WNBA audience metrics improve, and what data points anchor those conversations?",
+    "When a brand conflict arises between a sports franchise and an outside party, what is the reputational cost calculus beyond the legal outcome?"
+   ],
+   "headlines": [
+    {
+     "title": "Trademark Battle Between WNBA Team and Rapper Finally Ends",
+     "outlet": "Front Office Sports",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQU1nWGVYTUN1cC1rSmEtaVlEUTMwRl8wSkdCLXBQdEJreDJaVjBnLS11NlVXa3JRZC1Pc1BTVkI3dkF2X2lIMklzWWtFdTlLUE1vREdyUnN4bXhQSGxLUTM1SExPZlRiWWszV1p0MmRoUVhsTHUwdWdybDhtM1F1WGZxNDR6NTJnVkE?oc=5"
+    },
+    {
+     "title": "National Women’s Soccer League, Nationwide Announce Multiyear Partnership Renewal",
+     "outlet": "NWSL",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSm5TYXBhLWVyM29IN3hWOWdIbjY0alBwSTJrak1oZF83NXlVRmtwSF9HVC1ZQ1EzRktBemJmWEtnWmFlZ2JaVXctT3VVQ0pSYUxHeG8tN1JlQVNDbTRxZlgwc1poSGVvUTluOUlzRTRZX0dBRkhzaW9NaDlVSXJoU3ZZMXVDWmdhUG5MZ2wydHkyc1lpbVc2UGRQS0NZeGpxdDF2Z25VTVdPQmY3ZHREWmFn?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-women-3",
    "topic": "women",
    "sport": "basketball",
-   "format": "research",
-   "title": "Draft Design and Demand: Building the WNBA's Expansion Pipeline",
-   "pitch": "WNBA expansion and an evolving offseason calendar are reshaping how talent is allocated and developed. This research session models how draft structure, free agency timing, and roster rules interact to affect competitive balance and long-term franchise valuation.",
-   "why": "A new WNBA draft lottery press conference and a published 2026-27 offseason schedule put league architecture decisions in the spotlight this week.",
-   "questions": [
-    "How do changes in draft lottery odds propagate through competitive balance metrics over a five-year horizon?",
-    "What does offseason scheduling timing reveal about the WNBA's leverage with broadcast and sponsorship partners?",
-    "How should expansion franchise valuations account for draft position probability distributions under the current lottery system?"
-   ],
-   "headlines": [
-    {
-     "title": "Monica Wright Rogers Draft Lottery Press Conference",
-     "outlet": "WNBA",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUm0tQzdVUnlmS0p5b0J5cHhYQUI2YWwzVXB4RURLOEF4U2x2MWl3QlVWOVhhVVhYU2xCSUdqVmg5QTJBVmttUTVTbmhoZDZUWDNOUEIxamR4XzBXTDhVdUhDOEt6WW01ZGRjcVZxZ3R4Z1h2b083ZGxMS0FIOFg1Q20xX05TdGlua1Q4RjhSSEU5bjA0VjYtY3A2cGNpTmptTTNCZ1BoRk5FMTFHUEx3ZkZJOA?oc=5"
-    },
-    {
-     "title": "2026-27 WNBA Offseason Schedule: Key dates, free agency, draft and everything you need to know",
-     "outlet": "NBC Sports",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmphWnBMRk5IZ2xVQkllQU9jY0pGSmtQZFRfVUdKcWdLZnNEVmJTSHh4TDZJa1RkU2R5eVRSSkl4TzlFT0xhRzVlV092X1JqdzIwRUp2VVozUDc3c2V1emJLRTU3SUpfVlJpZm9EMzM2VHdQVFV3eS11c3U4djA2ZlE0SlRGYVNfUmx0aXJEVjJWeWpTR0lPdnIwZjBLeHdVQXJVay1IdkgwR0I1SXRPa1VjbEFDYXVMdThqdlhMc3RMVjZFSmc?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-roster-1",
-   "topic": "roster",
-   "sport": "basketball",
    "format": "panel",
-   "title": "Draft Lottery Strategy: Beyond the Ping-Pong Ball",
-   "pitch": "WNBA expansion and evolving draft structures are forcing front offices to rethink how they position for top picks. This session examines lottery strategy, draft asset valuation, and how organizations build analytical frameworks around uncertain selection outcomes.",
-   "why": "The WNBA draft lottery press conference and newly published 2026-27 WNBA offseason schedule put draft pipeline planning at the center of league conversation right now.",
+   "title": "The Expansion Draft: Analytics, NIL, and the Race for Top WNBA Talent",
+   "pitch": "New WNBA expansion franchises are investing heavily in scouting and player acquisition, as illustrated by intense recruitment competition for elite college prospects. This session explores how teams build analytically grounded rosters under salary constraints while competing in a crowded talent market.",
+   "why": "Reported 21-hour recruitment stakeouts and fierce competition for a top college prospect this week underscore how analytically and operationally demanding WNBA expansion roster-building has become.",
    "questions": [
-    "How do front offices assign present-day value to future draft picks under salary-cap constraints?",
-    "What quantitative models best capture the gap in production probability between lottery picks versus mid-round selections?",
-    "How should expansion timelines alter the way teams stockpile or trade draft capital two to three years out?"
+    "What player-evaluation models best translate college performance data into WNBA productivity projections given the limited sample sizes involved?",
+    "How does NIL earning history factor into a franchise's assessment of a prospect's marketability and long-term revenue contribution beyond the court?",
+    "As the WNBA adds franchises, how does league-wide salary structure affect competitive balance, and what do other league expansions teach us about managing that tension?"
    ],
    "headlines": [
     {
-     "title": "Monica Wright Rogers Draft Lottery Press Conference",
-     "outlet": "WNBA",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUm0tQzdVUnlmS0p5b0J5cHhYQUI2YWwzVXB4RURLOEF4U2x2MWl3QlVWOVhhVVhYU2xCSUdqVmg5QTJBVmttUTVTbmhoZDZUWDNOUEIxamR4XzBXTDhVdUhDOEt6WW01ZGRjcVZxZ3R4Z1h2b083ZGxMS0FIOFg1Q20xX05TdGlua1Q4RjhSSEU5bjA0VjYtY3A2cGNpTmptTTNCZ1BoRk5FMTFHUEx3ZkZJOA?oc=5"
-    },
-    {
-     "title": "2026-27 WNBA Offseason Schedule: Key dates, free agency, draft and everything you need to know",
-     "outlet": "NBC Sports",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmphWnBMRk5IZ2xVQkllQU9jY0pGSmtQZFRfVUdKcWdLZnNEVmJTSHh4TDZJa1RkU2R5eVRSSkl4TzlFT0xhRzVlV092X1JqdzIwRUp2VVozUDc3c2V1emJLRTU3SUpfVlJpZm9EMzM2VHdQVFV3eS11c3U4djA2ZlE0SlRGYVNfUmx0aXJEVjJWeWpTR0lPdnIwZjBLeHdVQXJVay1IdkgwR0I1SXRPa1VjbEFDYXVMdThqdlhMc3RMVjZFSmc?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-roster-2",
-   "topic": "roster",
-   "sport": "football",
-   "format": "panel",
-   "title": "Trade Deadline Regret: Measuring the Cost of Inaction",
-   "pitch": "Every deadline produces winners, losers, and teams that did nothing. This session builds a framework for evaluating both completed trades and failed negotiations, using cap math, role-player valuation models, and opportunity-cost analysis to grade front-office decision-making.",
-   "why": "Kirk Cousins reviving a playoff race after a trade and a reported Broncos miscalculation at the deadline illustrate how inaction carries measurable competitive consequences.",
-   "questions": [
-    "How can analysts quantify the expected value of a trade that never happened versus one that did?",
-    "What role does positional scarcity play in setting a rational ceiling for asking prices during deadline windows?",
-    "How do teams avoid anchoring bias when an asking price, like a reported wild number for a young wing, seems disconnected from public valuation models?"
-   ],
-   "headlines": [
-    {
-     "title": "Kirk Cousins’ return revives Vikings, and other NFL trade deadline ripple effects: Pick Six",
+     "title": "Tempo win JuJu Watkins sweepstakes? Plus: 21 hours of WNBA stakeouts - The Athletic",
      "outlet": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmFxSy0zQlA5R1pjM3lmVkNqeGJLbnVoQUE3bTMya3NiNWMyMXYtcnJZT1FuTTlhUHpFdnY3T2xCNHFHeWZtaF9DaFZlUUN2VkNWZ1FQbWJoWFgtNi1NY1FoT1QydWlYSVVtMmFZeTBYek1KOEVOa3NPRl80blZxYm53c0VDN2d2dnJyYmNmTWFuMC1GTjM5dU1EbDNhTDRKTnc?oc=5"
-    },
-    {
-     "title": "New NBA Trade Rumors on Trey Murphy's Wild Asking Price from Pelicans amid Dejounte, Zion Buzz",
-     "outlet": "Bleacher Report",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWdMb05TWTFLQk55RHlzdTItOFA4NVNMYmNOemlOVlpPakNPVVptZHIyeTRWVEw0X1BLaFhpZmJhRHNySnA0Q0VGU0s2U21PejRVWGRVVUZQT05zN1ViVEh2Nll5VW90ZlNXUms3YmZqUGtvQXROdC1ZWjh2bUZhc3BZeFY5QTRGMmdFcDJaZlJySkNxWlJTZG43dHVmOC05RG1IczF3NzhORGhoeE00MG5rd3NGUFNBN2JWWUtuNENYM1I3ZWh1cw?oc=5"
-    },
-    {
-     "title": "Broncos’ biggest mistake at 2026 NFL Trade Deadline after Daiyan Henley trade falls apart",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeXVmMzZoWnUwX0tLbU9FMldKdjhPUHQwSGpLZlM2a1NCa2dXUGFrVUtpM2g0TVJBM3dPNTRuM3ZhMzlZdjZKd0l2ZlJLckFNdUtGbkp4TmtCMGZsUENtTzBpT2RwZVFQVW5VS0x5ZkN1LXZscXVYai1FWmFvblhqZHZZZ21rUXdY?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRjR1M3RKR0lsOWxMbWUyZWd1c3d1NVF1QWZndFVRS0dyZTBaRnU1M3MwMlFldUg2bHFYWHRvUHI4LW95TFFOYmgxa010ckttNk5GUHg3U1NJbHNRaUlGTG5sVjJtZC1JWWNSLXBJWVJGdzRFRUdKQjhhSHJLQXo5djFxd0k1TE45R2drQlBfSzYtTWktSk5IN2FSQmtNVmV0RGJsR1NB?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-roster-3",
-   "topic": "roster",
-   "sport": "hockey",
-   "format": "research",
-   "title": "Institutional Memory as Roster Infrastructure in Professional Sports",
-   "pitch": "Long-tenured front-office executives carry organizational knowledge that no database fully replicates. This research session quantifies how continuity in personnel departments correlates with drafting accuracy, trade outcomes, and culture stability across NHL and other leagues.",
-   "why": "The addition of an original team member to the Florida Panthers front office raises a pointed question about how franchises systematically preserve and deploy hard-won organizational knowledge.",
-   "questions": [
-    "What methods can teams use to codify veteran scout and executive knowledge so it survives turnover?",
-    "Is there a measurable relationship between front-office tenure and draft hit rate when controlling for pick position?",
-    "How do analytics departments balance proprietary historical data with the fresh perspectives that newer hires bring?"
-   ],
-   "headlines": [
-    {
-     "title": "Tom Fitzgerald, Original Member of Florida Panthers, Added to Front Office",
-     "outlet": "Florida Hockey Now",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXVvTVVZMlhaMmx4Vjl4ZVhKUS12X0dUYllZY3VSQWJtSm1iME83R3NibDkxblhXajhnNlQ3dElUYzJlMTkwQU1vdUk0RjgzVWFKVXZmVl9VOUVRQ2MyRThzalhTUF9PU2U5QVNuYkhjNnpscjdncTJYUXJKR3FUNGZIRXBTUzNDTUNSczh3dDdzQlRCdUU0YTdXZDFvdGxRanlKTw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-youth-1",
+   "id": "n-2026-11-17-youth-1",
    "topic": "youth",
    "sport": "baseball",
    "format": "panel",
-   "title": "The Price of Play: Funding Models for Accessible Youth Sports",
-   "pitch": "As grant programs like SAFE to Play expand safety infrastructure at local leagues, who bears the cost of youth participation? This session examines public, private, and nonprofit funding models that keep youth sports financially accessible at scale.",
-   "why": "Little League's SAFE to Play grants reaching over 100 local leagues this week spotlight the growing infrastructure funding gap in community youth sports.",
+   "title": "Global Pipelines: Exporting Youth Baseball Across Borders",
+   "pitch": "Youth baseball's expansion into new international markets raises complex questions about monetization, local partnership structures, and long-term player development economics. This session examines how organizers build scalable, sustainable global programs beyond traditional baseball strongholds.",
+   "why": "Perfect Game's launch in China with an exclusive country partner model signals a new era of franchised youth sports exports demanding rigorous business analysis.",
    "questions": [
-    "How do leagues measure return on investment from safety infrastructure grants versus direct participation subsidies?",
-    "What data signals help organizations identify underserved communities most in need of targeted funding programs?",
-    "Can philanthropic and corporate grant models scale without creating dependency that crowds out sustainable local revenue?"
+    "How do you price participation and sponsorship in a market where baseball has no existing fan base or feeder infrastructure?",
+    "What governance and revenue-sharing structures make an exclusive country partnership viable for both the global brand and the local operator?",
+    "How do you measure developmental success in an emerging market before competitive pipelines exist to validate outcomes?"
    ],
    "headlines": [
     {
-     "title": "More than 100 Local Leagues Awarded SAFE to Play Grants to Build Stronger, Safer Little League® Programs",
-     "outlet": "Little League",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWZSMm5JdkQwOXpMZ3NwT2otOW9lYjRpdUZmamhCWXRwYUI3ZVVGMFZkTnphMURuX1pNWm9PYUozdHBHOG9iTHRnMnMyZi00STN5MVVYUlZNLTQwZXVieGRjWDNCRE5GYy1RRDlxcTVkUktLT2lvQ2FQaDR3OFYzc2RYZExIYUtQa1NjbkZ2akx0MEpUSEY3UEp1emRzcXVRUGNiaU4xY0ZxMnpfaUFFLUFQT1B1bVZjMzk4cU14X3BEdm9aVTRJeWJwR1RBS0FwbHE0?oc=5"
-    },
-    {
-     "title": "Little League SAFE to Play Grants Fund AEDs and Field Safety at 111 Local Leagues",
+     "title": "Perfect Game China Launch Names JinMu Sports as Exclusive Country Partner",
      "outlet": "Youth Sports Business Report",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUNhckdmTjBKQTdRTF83WFFtc2NmYUcxdDN4blBsMWd4djZ0MkxuZDZFQVR5UDFMRFQ3OTZlWUdsTmhyTXJUZkVMTzlfcFZRVGJPOWtqUFlWbmFEM0laNklaakVsY20zUHBCekJ5S0ZMRFN6NGo0cVVRcEFWaXNwU2lhVQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-youth-2",
-   "topic": "youth",
-   "sport": "soccer",
-   "format": "fireside",
-   "title": "Free to Play: Analytics Behind Zero-Cost Youth Sports Access",
-   "pitch": "Initiatives offering free youth programming raise hard questions about financial sustainability, geographic targeting, and participation outcomes. This session explores how analytics can guide program design and site selection for accessible youth sports at the community level.",
-   "why": "News of free youth sports programs seeking new municipal partnerships highlights urgent demand for data-driven expansion strategies in underserved markets.",
-   "questions": [
-    "What participation and retention metrics best predict whether a free-access program is achieving genuine community impact?",
-    "How should organizations model the tradeoff between geographic breadth and depth of programming when resources are limited?",
-    "What role do local government partnerships play in sustaining free youth programs beyond their initial funding horizon?"
-   ],
-   "headlines": [
-    {
-     "title": "Les Ballons Intensifs eyes Sherbrooke for free youth sports programmes",
-     "outlet": "The Pulse of the Eastern Townships",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPOUZ4eEU4U2lJRklGZldwZ1lxcHQ5OTZIXzhPZVRBdzc3cUo4RHJadjNReVpsZWxiSUZ3Vk1FSVdzYzFqLUdVc3V2d0hUSTJGX3JtVmhJWTh5RVhyZW93SUZUTmtWWVRGZS1WUEl3Q1B1WlVEM2habkRKRjY?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-youth-3",
-   "topic": "youth",
-   "sport": "soccer",
-   "format": "panel",
-   "title": "Governance Gaps: Financial Oversight and Trust in Youth Sports Organizations",
-   "pitch": "Youth sports organizations manage significant community funds with limited financial controls. This session examines governance structures, audit practices, and technology tools that can reduce fiduciary risk and protect the integrity of local leagues and clubs.",
-   "why": "A youth soccer treasurer facing theft charges this week underscores how weak financial oversight in volunteer-run leagues creates measurable organizational and reputational risk.",
-   "questions": [
-    "What financial controls and reporting standards should be baseline requirements for youth sports organizations receiving public or grant funding?",
-    "How can analytics platforms help national governing bodies detect irregular financial patterns across hundreds of local affiliates?",
-    "Is there a viable business model for providing affordable compliance and audit tools specifically designed for volunteer-run youth leagues?"
-   ],
-   "headlines": [
-    {
-     "title": "Former West Newton mayoral candidate, youth soccer treasurer charged with theft",
-     "outlet": "TribLIVE.com",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2hqX2g3Rks2cnJYajNmaGFMNWNfWjJDdWJHLWdXYzZNdTAzWGRyMDJaWGp3MllVS2JrSWU2dEhHWjB2X0dEM3k2UUpfR0I0T1B4aWNFRkRYNkpQd2pSZlRwQk05SFlVYzh3Y3phTnZEVFdmSmtTR1RLdnAyZnYxOHpPaUFQWG1hdGpzaXRNdmRmRjJHZ2FnTUxPMFFhWVVVdjRIU3ZORklGM1lJcW5XTkhYRUhzSDVxbVF3?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-college-1",
-   "topic": "college",
-   "sport": "",
-   "format": "panel",
-   "title": "NIL Valuations in a Revenue-Sharing World: Who Sets the Price?",
-   "pitch": "The House settlement means schools now write checks directly to athletes. How do athletic departments build valuation models for NIL deals when they are simultaneously a buyer in the same market? Panelists examine pricing frameworks, data inputs, and conflict-of-interest guardrails.",
-   "why": "With federal legislation stalling after the midterms, schools must operationalize revenue sharing without a uniform legal framework, making internal valuation discipline urgent now.",
-   "questions": [
-    "How do you separate a player's NIL market value from the revenue-share floor the school is obligated to pay?",
-    "What data signals, beyond on-field performance, are athletic departments using to price NIL contracts?",
-    "If Congress does not act, how do you model compliance risk across fifty different state NIL laws in a single budget cycle?"
-   ],
-   "headlines": [
-    {
-     "title": "College Sports Bill’s Chances in Congress Dwindle After Midterms",
-     "outlet": "Bloomberg Government News",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTJQOWJQZjd6QkhvUlhOX0VCVEV1R21vckN4eVliSGlLWTJuSTJYcWd4V3RZR1l0QldXSjdlSlVLdVJuOEQ2UVItdXI3eHVUOUtPS1J4SFExS1hTVjVsZ205TExQSDhtNS1iTktqZ3BOY1RyYUtOSGhFZWEtSm5ETkVmSHFrWEh0aUJMM3ZEMTY5TDVZblRScXZIZGZEc1N4SWVPUXAwWFJ1d1lxZUxIbQ?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-16-college-2",
-   "topic": "college",
-   "sport": "",
-   "format": "panel",
-   "title": "Transfer Portal Analytics: Building a Front Office That Actually Works",
-   "pitch": "Athletic departments are functioning as general managers, scouting and pricing talent in real time. This session examines the analytical infrastructure, from portal databases to fit modeling, that separates programs making smart acquisitions from those losing roster continuity and fan passion.",
-   "why": "Concerns that the portal is eroding fan connection, alongside high-profile quarterback searches at major programs, put roster-construction analytics at the center of college sports strategy this week.",
-   "questions": [
-    "What is the right analytical balance between immediate production metrics and long-term roster cohesion when evaluating a portal target?",
-    "How do you quantify the fan-engagement cost of roster turnover, and does it belong in a transfer decision model?",
-    "Where does NIL budget optimization end and pure basketball or football strategy begin when a program is rebuilding through the portal?"
-   ],
-   "headlines": [
-    {
-     "title": "Who could OU football target at QB in transfer portal? Way-too-early candidates",
-     "outlet": "The Oklahoman",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMW0zYmRRZE56SG8tdEZmQUZGT3hkTVFxSl9aMm42R1pac0t4TjBkUmNMZFRNT3ZTMmFiTUdJLVVIUkhxeU4tWE5QYXNMOGhNWlNOenpOM1JsU3JYc2dqV003aU1BQ1pieHphMnNZdjdtM0RmUjZnQWF6akdfdHY3em9qN1VLZlhLbmw5dGJ0UUozV0VVTE5SREJBT0k1SVJqcE1HNnd1Z2M1bkU4aXhYSVJTSkVOVE9NWld4eUlKWDFRUldsOGtnRFY5NmxHU1VfTWRuU1Z4TzhiUTZ6dGM3NHdn?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDFkLV9VSkxVRE9LRWdnU0V5Q0ZFUndkSHFvaGJiZG5KNVM4LV9xbjF5UHhxNG9fS2xYdk5vbUJod2l3RURIQnRGby0zODI2ejJNSG1LTmltWktCVkdYNVZsZ1plOXpVVERjMm1BQXJyZTRiRWdYWVhQazVCNTQxRUNrNVQ1UnNGN2FsUjdFSQ?oc=5"
     },
     {
-     "title": "Are NIL and the Transfer Portal Killing College Basketball Passion?",
-     "outlet": "93.5 / 107.5 The Fan",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWtSSjBHQ0VKcW9WSFVqNmlISHBCZTdGSlVfU3RrWnBHZmxQZkJPeUJzSmRhYWNqb2RXT0tpV0VuQnRqWkM2NkphM18wRXVQWWlzd2hWWkw5V2pEa0JsOXZnN2hDdjkxNmdZeFBGdng0YUpHcmp3cERIalpnbHIwZVZWWQ?oc=5"
+     "title": "Perfect Game expands youth baseball program into China",
+     "outlet": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1owamp4dlJHOVdTVVVTazdteGtzOFh0TFloMjJWQi1UbDdkSDBXLVAzTnI2clgzVEJwM3NKYVViZEk1S2IzQmpaMERuSjV3TWFMVTVKWnIxT0EzVzNIMTI1YzhNSkZjbnVDd2lrTy1ORFpTekpGamJ5NzJHMUUwUWtiUFF6QQ?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-16-college-3",
-   "topic": "college",
+   "id": "n-2026-11-17-youth-2",
+   "topic": "youth",
    "sport": "football",
-   "format": "research",
-   "title": "Measuring What Matters: Player Value, Culture, and Program Health",
-   "pitch": "When a player's father publicly criticizes a coaching staff, it signals a culture and communication breakdown that has real competitive and financial consequences. This research session explores whether programs can build early-warning analytics around player satisfaction, retention risk, and leadership effectiveness.",
-   "why": "Public criticism of program leadership after a high-profile loss highlights how athlete-institution relationships, strained by NIL expectations and roster uncertainty, are now a measurable operational risk.",
+   "format": "panel",
+   "title": "NIL Meets Youth Development: Where Do the Economics Lead?",
+   "pitch": "As elite youth athletes attract brand partnerships before college, the financial incentives reshaping recruiting and development demand scrutiny. This session analyzes how NIL economics are filtering down into youth pipelines and what that means for access, early specialization, and club business models.",
+   "why": "A high-profile youth athlete securing a major wellness brand NIL deal illustrates how commercial forces are now reaching players well before they turn professional.",
    "questions": [
-    "What behavioral or performance data signals correlate with a player choosing to enter the transfer portal before the season ends?",
-    "Can you build a retention-risk model that is predictive without being so intrusive that it damages the trust you are trying to protect?",
-    "How should athletic departments weigh culture metrics alongside traditional performance analytics when evaluating a coaching staff's return on investment?"
+    "At what age and performance threshold does an athlete become commercially viable, and how does that change how clubs invest in development?",
+    "How do NIL earnings affect a young athlete's negotiating leverage with college programs and what analytics tools are emerging to model that value?",
+    "Does the monetization of youth talent accelerate early specialization, and how should clubs and families weigh short-term earning against long-term athletic health?"
    ],
    "headlines": [
     {
-     "title": "“Leadership Has Failed the Players”: Michigan TE Jalen Hoffman’s Father Seemingly Calls Out Kyle Whittingham After Oregon Loss",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVndLbVZCdmtNXzdLUjBVR1kzaFZqWkRKS0VnLWZSRDJZUXpuMnZyUVhZZjk2ZDgxdWRVVG9qRHg1V0FtUnc1V0FaR0RJU3JRanNacERFLTFTRy1xTmZobXhvMEctdHo0QmNaczFBQ2JCWDBiQmpqWXRGMDluMzgwbnVvNGU4b0x3c2tsdmJUQQ?oc=5"
+     "title": "Jeremiah Smith adds MyFitnessPal NIL deal in big week",
+     "outlet": "Lyndy's Sports Annuals",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEhXc1NUeTg1b3UxcjU3NURkZ0puVzkweC03VkJjY3BBal9mUDlSOVctcG53cjNMdWt0REJuX3hycDB5VVpha1JIVFBURFk2YUJUanpCenZYVW1TSmZDZld4cTlfWVFXZlc1eVRFV0FXQkFDc05IZUxaZE9ieDhwVkM4cUoxWTFWYTBtOFlYSEYxUVFiUWNlUmdLMA?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-youth-3",
+   "topic": "youth",
+   "sport": "basketball",
+   "format": "fireside",
+   "title": "Recruiting Tech and the $600K Question: Scaling Youth Discovery",
+   "pitch": "Early-stage capital is flowing into platforms that connect youth athletes with college recruiters. This session evaluates the product, data, and monetization models behind recruiting technology and asks whether software can democratize discovery or will simply recreate existing access inequities at scale.",
+   "why": "A pre-seed raise for a basketball recruiting app planning multi-sport expansion shows venture capital is actively betting on youth talent identification as a data business.",
+   "questions": [
+    "What athlete data signals are most predictive of college readiness, and how do you validate those models when ground-truth outcomes take years to materialize?",
+    "How does a recruiting platform balance monetizing coaches and programs against keeping access affordable for athletes from under-resourced communities?",
+    "What does successful sport-to-sport expansion look like operationally, and which sports have the data infrastructure to support a viable recruiting marketplace today?"
+   ],
+   "headlines": [
+    {
+     "title": "Basketball Recruiting App Scoutz Raises $600,000 Pre-Seed Round, Plans Volleyball Expansion",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMm02T1ZDR2RKWm94UkMzUWVJaWxRa0VDOWVQS0RCdUNsalp6MlIwYXBpSWxoNzY4dVJHY2thSXdZcmxLUFZoc3dFYXc1YnNMdFBqN3ByV1VETUFIdHl6NWdfNUozRUdScXgxM1FyUVYtNEZ0STUwcEp5YjJXU0xLRGR2dlViZFVNekhrMWxZTUwzS1EwbmZTUDdaQkRNUlJ3V2c?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-roster-1",
+   "topic": "roster",
+   "sport": "football",
+   "format": "panel",
+   "title": "NIL Roster Economics: Building Winning Rosters With Market Money",
+   "pitch": "As NIL spending becomes the primary lever for assembling college rosters, how should programs model roster construction decisions? This session examines data-driven frameworks for allocating NIL budgets across positions to maximize on-field output.",
+   "why": "Penn State's publicized need to spend heavily at quarterback and wide receiver illustrates how NIL investment has become a core roster optimization problem.",
+   "questions": [
+    "How do you model the marginal win value of NIL spending at each roster position?",
+    "What data signals best predict whether a transfer portal acquisition will outperform his NIL price tag?",
+    "How should programs balance spending on immediate starters versus depth to manage injury risk under a fixed NIL budget?"
+   ],
+   "headlines": [
+    {
+     "title": "CASH IS KING: Penn State Must SPEND Big NIL to Fix Quarterback, Wide Receiver, and Roster",
+     "outlet": "WWLTV.com",
+     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQeGJXenNYX0NqZk9hYXZlRUIyLUtGN2ZIaTFaSnZOTFlYaUhjMmMxMzhaNzJhc1c2NGJ2UUk4R1hGSzVTRzBUNjBkMXdPVUE3UWdPczVZOHk4Z2dXUElPd3pGNmxGeTJDeUlZWXlJWE8za2VhTUZScEU5cnczSUpDNF80dlAzWGxNYmhla3o3SWZad1NyRGhqR2xUcFpNWDBDVHltSmFXMG9NWjh5aGh3UzFMSkltSHphRDF5X3RJN1ZvNnNMUng3N1czZUVxbGVnaGEwSFh6YUF6cU5UbjRpRGRRQ1RENGtaSm5haE5OdUtEaDA2Vm5VOF9NbXl1U2FFQngydG94aTF2WGstQjNqUU1LdXFrVkd2aHlNWG9LRlQ?oc=5"
     },
     {
-     "title": "Are NIL and the Transfer Portal Killing College Basketball Passion?",
-     "outlet": "93.5 / 107.5 The Fan",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWtSSjBHQ0VKcW9WSFVqNmlISHBCZTdGSlVfU3RrWnBHZmxQZkJPeUJzSmRhYWNqb2RXT0tpV0VuQnRqWkM2NkphM18wRXVQWWlzd2hWWkw5V2pEa0JsOXZnN2hDdjkxNmdZeFBGdng0YUpHcmp3cERIalpnbHIwZVZWWQ?oc=5"
+     "title": "Sumrall Teases Gators' QB Future, Transfer Portal Plans",
+     "outlet": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUV8yS2d4UmI3ZzRvYXBLdFZNdFgydHRxWHV5T1dtSGs4a0ZLbnJmbml6cnhSSk9jMU1DWGROQklveFVmWURUMGFNSm5mMEF0ZnE4VDh3NExjRlV5ekQxM0w2elF3U2RQRm5nMXhvTnE5WDFpcGZCZlIyalJGUG1BTlhrWFFaR0R5U1hhanR0MEFJVDItNmpmb2tkZWgyemZBVThWV296YndhZTdmVlBJ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-roster-2",
+   "topic": "roster",
+   "sport": "basketball",
+   "format": "research",
+   "title": "Draft Lottery Odds to Contract Value: Evaluating WNBA Talent Pipelines",
+   "pitch": "The WNBA Draft Lottery reshapes franchise trajectories years before a player signs. This research session models how lottery positioning translates into long-term roster value, using tracking data and contract economics to quantify draft slot return on investment.",
+   "why": "This week's 2027 WNBA Draft Lottery results put a spotlight on how franchises evaluate and project talent years in advance under a constrained salary structure.",
+   "questions": [
+    "How accurately do pre-draft metrics predict WNBA performance relative to the NBA equivalent?",
+    "What is the measurable difference in roster value between the first overall pick and the fifth over a five-year window?",
+    "How should front offices weigh tanking costs against the expected value gain of a higher lottery position?"
+   ],
+   "headlines": [
+    {
+     "title": "Rapid Reactions: 2027 WNBA Draft Lottery",
+     "outlet": "WNBA",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zc0FZM29pSFZWeHRQMWdMNFFobU13akpCdk5JWWpHYnhja0d1N3c5b3pOSFkwcnpfWExPby1rVkJtbkIxdktyeWtmb0ptOWppRFVtRXlmVHRrNzg0c1ZtWXdwVGlvMnhuUENIUmhvZ1pUVVU?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-roster-3",
+   "topic": "roster",
+   "sport": "baseball",
+   "format": "panel",
+   "title": "Free Agent Pricing in MLB: When Market Value Meets Roster Fit",
+   "pitch": "MLB free agency forces teams to reconcile statistical valuation models with roster construction context. This panel explores how teams price positional need, roster depth, and future flexibility when signing players in a competitive free agent market.",
+   "why": "Low-profile free agent decisions this week highlight how teams systematically evaluate whether a player's market value aligns with their specific roster construction priorities.",
+   "questions": [
+    "How do teams build internal free agent valuation models that account for roster context rather than just raw performance metrics?",
+    "At what point does positional scarcity justify paying above a player's projected WAR-based market value?",
+    "How has the competitive balance tax threshold changed the way analytics departments communicate free agent recommendations to ownership?"
+   ],
+   "headlines": [
+    {
+     "title": "Adrian Morejon makes unsurprising Padres decision in MLB free agency",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWplejJMQXNyQlJ3VnYtV1dUUnpobWlxQUdKWHhka2kwamZ0aFZsU1B3a01qWXdEWDRhdUFMT1ZaZ2dHNmlJNWlKMFNocHVwZUtrbmpDNDlZMGNsWGd6TmdjYVc2N01TQmlYcDlycXczSDc3bmVVR0cyWEZzSldweUJzLXc0OHJPQmI0b1p3cUZsb3M?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-betting-1",
+   "topic": "betting",
+   "sport": "",
+   "format": "panel",
+   "title": "Prediction Markets on Trial: Legal Risk Meets Sports Finance",
+   "pitch": "The Kalshi arraignment signals that prediction markets face criminal, not just regulatory, scrutiny. This session examines what that legal exposure means for platforms, investors, and the sports event contract ecosystem they are building.",
+   "why": "The Utah district court summons of Kalshi co-founders this week marks the sharpest legal escalation yet against prediction market operators in sports.",
+   "questions": [
+    "How does criminal liability exposure change the risk calculus for investors backing prediction market platforms?",
+    "What contractual and compliance structures can platforms adopt to distinguish themselves from unlicensed sportsbooks in the eyes of prosecutors?",
+    "If courts rule against prediction markets, which parts of the sports event contract market survive and which collapse?"
+   ],
+   "headlines": [
+    {
+     "title": "Utah District Court Summons Kalshi Co-Founders to Appear In Person for Initial Arraignment",
+     "outlet": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFVTQXBJX3Q0RzJmVlU3V2UtQWVoMnJPczVyLUZRaTAwMXFLTFlZWHpVb3A4Yk93bW5GVHJyRGQtSld3NWxacHd3c3A0cVRXRzFRWWZDYzFIRzdEYy1yVUxZTzc1UXQwcV9VYV9nWlFuQW5ORDJ5ZEdacE0yRG9RSW9IM2t2bElLR0ZsX3NzWHB6d2FxRktIQlhQVkk0R19ISThIZ041YVJESmxJVTNndk1ObTZaY0taTHh0MlJLWjBPNmlFc09seWRvdmpybG1iVnpkNV93?oc=5"
+    },
+    {
+     "title": "AGA Poll: ‘Prediction Market’ Sports Betting Should Be Regulated Like Gambling",
+     "outlet": "Gaming America",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSThWWTBic1B3cGtVWVBCN0ZRQWxnRHB1MVY2MGRrTmZ1SDVldWEtTmlmX2VLLThodGRmUGZSNHRFT0pOTG53X3Fpb0dqb1ZBOGl5dE9EaEh2akZRYng4Qkhhc1J5YnQ0N205VXZyaTFtOG8yckxxc1Y3Ry0xakhVeGphVzBINEZad04wM3hSd0NhYVNiLVZFSXJzZHpXQnVVeW1BTHdlZ1pWdXZlUGVjM2tXRGM?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-betting-2",
+   "topic": "betting",
+   "sport": "",
+   "format": "research",
+   "title": "Tax the House: How Sports Betting Levies Reshape Market Structure",
+   "pitch": "Chicago's proposed near-doubling of its sports betting tax forces a reckoning: at what rate do operators exit, odds worsen for bettors, and illegal markets revive? Analytics can model the tipping point and what it means for league and media partners.",
+   "why": "Chicago's push to dramatically raise its sports betting tax this week puts the question of optimal tax design directly on the industry's agenda.",
+   "questions": [
+    "What does operator margin data tell us about the tax rate at which a legal market becomes uncompetitive against offshore books?",
+    "How should leagues and media rights holders price sponsorship and data deals when operator profitability is threatened by state tax policy?",
+    "Can a city or state use tiered tax structures to protect smaller operators and preserve market competition?"
+   ],
+   "headlines": [
+    {
+     "title": "Johnson wants to almost double Chicago’s legally questionable sports betting tax",
+     "outlet": "Illinois Policy Institute",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX29xNElsTm5hUVR3ZU9yQXpXYUEtbjJ3VklLZGkxVWJlNm0wR1pwWjd5OXZ4OEQzSnVCcVdOVnZhN0trX1Zad0prUklOV1hILTFZNUtDcWlvYmZrY25fcHVGODNCMG9Zb3lvMDVMQmJIbVowQncxdm9nejA2bl9NWk9mUkx4MU00el9tNXhjM3Y?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-17-betting-3",
+   "topic": "betting",
+   "sport": "",
+   "format": "panel",
+   "title": "Regulating the New Frontier: Should Prediction Markets Play by Gambling Rules?",
+   "pitch": "An AGA poll showing broad support for regulating prediction market sports contracts like gambling puts operators, state regulators, and leagues on a collision course. This session maps the competing frameworks and the analytics needed to enforce them.",
+   "why": "The AGA poll released this week provides the first major industry-backed data point arguing prediction market sports contracts warrant gambling-equivalent oversight.",
+   "questions": [
+    "How do you design a risk-based regulatory framework that covers prediction markets without inadvertently banning legitimate financial contracts?",
+    "What surveillance and integrity analytics do sportsbooks already use that prediction market platforms currently lack, and how quickly can that gap close?",
+    "If prediction markets are reclassified as gambling in multiple states simultaneously, what happens to the pricing and liquidity of sports event contracts?"
+   ],
+   "headlines": [
+    {
+     "title": "AGA Poll: ‘Prediction Market’ Sports Betting Should Be Regulated Like Gambling",
+     "outlet": "Gaming America",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSThWWTBic1B3cGtVWVBCN0ZRQWxnRHB1MVY2MGRrTmZ1SDVldWEtTmlmX2VLLThodGRmUGZSNHRFT0pOTG53X3Fpb0dqb1ZBOGl5dE9EaEh2akZRYng4Qkhhc1J5YnQ0N205VXZyaTFtOG8yckxxc1Y3Ry0xakhVeGphVzBINEZad04wM3hSd0NhYVNiLVZFSXJzZHpXQnVVeW1BTHdlZ1pWdXZlUGVjM2tXRGM?oc=5"
+    },
+    {
+     "title": "Utah District Court Summons Kalshi Co-Founders to Appear In Person for Initial Arraignment",
+     "outlet": "Sports Betting Dime",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFVTQXBJX3Q0RzJmVlU3V2UtQWVoMnJPczVyLUZRaTAwMXFLTFlZWHpVb3A4Yk93bW5GVHJyRGQtSld3NWxacHd3c3A0cVRXRzFRWWZDYzFIRzdEYy1yVUxZTzc1UXQwcV9VYV9nWlFuQW5ORDJ5ZEdacE0yRG9RSW9IM2t2bElLR0ZsX3NzWHB6d2FxRktIQlhQVkk0R19ISThIZ041YVJESmxJVTNndk1ObTZaY0taTHh0MlJLWjBPNmlFc09seWRvdmpybG1iVnpkNV93?oc=5"
     }
    ]
   }
