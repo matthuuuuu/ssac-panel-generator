@@ -1,470 +1,465 @@
 // Written by scripts/write-ideas.mjs (daily). Panel ideas drafted by Claude from the week's headlines.
 window.SSAC_IDEAS = {
- "updated": "2026-11-22T17:41:59.361Z",
+ "updated": "2026-11-23T21:57:19.087Z",
  "model": "claude-sonnet-4-6",
  "source": "Claude via MIT Parley",
- "newsAsOf": "2026-11-22T17:40:44.472Z",
+ "newsAsOf": "2026-11-23T21:56:01.628Z",
  "ideas": [
   {
-   "id": "n-2026-11-22-fans-1",
+   "id": "n-2026-11-23-global-1",
+   "topic": "global",
+   "sport": "olympic",
+   "format": "panel",
+   "title": "Flag Football to LA28: Measuring the Business Case for Emerging Olympic Sports",
+   "pitch": "Flag football's Olympic debut at LA28 creates a test case for how emerging sports earn and retain Games inclusion. This session examines fan demand modeling, sponsorship valuation, and broadcast economics for sports entering the Olympic program for the first time.",
+   "why": "Flag football's addition to LA28 and ongoing debate over track cycling's Olympic future put the analytics of sport inclusion decisions at the center of the conversation right now.",
+   "questions": [
+    "How do organizers and rights holders quantify the incremental commercial value a new sport adds to an Olympic broadcast package?",
+    "What participation and viewership thresholds should a sport hit before the IOC can justify continued inclusion, and how are those modeled?",
+    "How does a sport's existing professional league infrastructure, or lack of one, affect its sponsorship yield inside the Olympic environment?"
+   ],
+   "headlines": [
+    {
+     "title": "Diana Flores Joins Nike, Talks Flag Football's Future and LA28",
+     "outlet": "House of Heat°",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00WU8zcHQwc3N2dTlJVm12ZXdxMks5QzhrVmN1MW5vRExMXzg5WVVQOXBjdXdDQmJnalNsNTE4dW9IalJqanNERGlYN2pEanhlV0pqelJITkVGbmphRVRSdzFJT3dyN0ZfQWhuVUZ3?oc=5"
+    },
+    {
+     "title": "How long will the Olympic Games continue to include track cycling?",
+     "outlet": "Daniel Benson's Cycling Substack",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9semdOZGFKNUZwU1dDY29KSklubTZaeVozM0F3cFlVbTBUbTczaFM5eWNXTC0zZWJHZ3RNT2tIUVNxYmo2R1owazV2ekZpdWp0RXhjSlZXSDNWQm9vSmlVWW94NUhWakdsclM2cl9waEMtVGZscmVUSk0yeFc0QQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-global-2",
+   "topic": "global",
+   "sport": "soccer",
+   "format": "panel",
+   "title": "Youth Pipelines as Market Infrastructure: Soccer's Post-World Cup Playbook",
+   "pitch": "State investment in youth soccer access is not charity; it is market development. This session analyzes how public funding, grassroots participation data, and demographic analytics combine to convert World Cup host momentum into durable commercial and competitive pipelines.",
+   "why": "New York's announcement of more than ten million dollars in youth soccer funding directly after hosting World Cup matches signals a replicable model other markets will now debate.",
+   "questions": [
+    "What data sources best measure whether a youth investment program actually converts casual fans into paying adult consumers a decade later?",
+    "How do leagues and federations decide which host cities to prioritize for grassroots spending when post-event budgets are constrained?",
+    "Can participation growth in youth soccer be meaningfully attributed to a mega-event, and what analytics frameworks separate that signal from demographic trends?"
+   ],
+   "headlines": [
+    {
+     "title": "Governor Hochul Announces Over $10 Million to Expand Youth Soccer Access and Celebrate Historic Success of World Cup | Empire State Development",
+     "outlet": "Empire State Development (.gov)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmdVMGRNcFcyLUZMVGViVmk5Tzd6SmtRUkNLWHdOTFBwRmtfMzRGcklINTJaUnlwcHc0NTYxc1MtYkFLMk5PNncybC0tVXFLS21SMVlKRkJsX3haNDcyV1hzQXg1NWJKdm5YZjFLdzF6UVNCay13VmRDUlJJTWwzTk5jRzl5dWRic3BtQ1c5bzFGZkt2THFXVElub2l3dVY1bTRqeGZ0RWlsUk9kTmlOeVRB?oc=5"
+    },
+    {
+     "title": "The Women’s World Cup Is Coming Back to America",
+     "outlet": "WABC Radio",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWNwY1d0cHhrbWR3MVExdlB5NWVVNUNRQjN5S2VTbDM5c3h1Q1Q0cGowcFlGaVN1ZnZZend2MTQ2M0JMenBHcG9WY2FqOXoxUmk3dy1HMWtaMTV2YjVXYzdWcEVReE5ZZGI0NGdaWURDTDgwd0EwRU8waVc5VUFmck9pdkJQNl9HTkoyNFBuRjI1Y2c5eDF5NDlDLXJUb3lWQk03eGhHeUtCN0JkOXVuMlpidS0?oc=5"
+    },
+    {
+     "title": "Governor Hochul Announces Over $10 Million To Expand Youth Soccer Access And Celebrate Historic Success Of World Cup",
+     "outlet": "LongIsland.com",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRnJ1OVFVQmxLM1pGYmJlUUZDRHIzOWZCWE9hOU40YzNuU2dab1JidlJDM0x3QU5oR0tCUFUySDQ2SjlEV043RjJPRTI4bHgyYXlwQ0lySjdCaVBqc3RHVGdQaTdsTGZMT05vLTVuVVJfZnJqcnB5WXBlUzdNVmpWWS04UVp5VVpXMmtHYXA5WHE4eUtDcjlrTmptdGpVUDNtQ2Uwd0YtSnVHTW9Wal9fUFRDTXpRUHpjWm9XekY5OWxCNFNMSXdROS1QUmJiUXFUY2ZUQjNDTkdEdUtFSS0zeldQTGpDWVh1YlQwcTd4cldhT1k?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-global-3",
+   "topic": "global",
+   "sport": "soccer",
+   "format": "panel",
+   "title": "Hosting the Women's World Cup: Revenue Models, Rights and Market Timing",
+   "pitch": "The return of the Women's World Cup to the United States raises urgent questions about whether commercial infrastructure has matured enough to close the revenue gap with the men's tournament. This session stress-tests ticketing strategy, media rights valuation, and sponsor pricing models.",
+   "why": "The confirmed return of the Women's World Cup to America arrives as women's soccer qualification activity intensifies globally, making rights and revenue planning immediately actionable for executives.",
+   "questions": [
+    "How should a host federation price domestic media rights for a women's mega-event when comparable sales data from prior cycles undervalued the product?",
+    "What does venue selection analytics look like when organizers must balance market size, existing fan base density, and infrastructure cost simultaneously?",
+    "How do sponsors measure return on investment differently for women's versus men's World Cup activations, and are those models converging?"
+   ],
+   "headlines": [
+    {
+     "title": "The Women’s World Cup Is Coming Back to America",
+     "outlet": "WABC Radio",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWNwY1d0cHhrbWR3MVExdlB5NWVVNUNRQjN5S2VTbDM5c3h1Q1Q0cGowcFlGaVN1ZnZZend2MTQ2M0JMenBHcG9WY2FqOXoxUmk3dy1HMWtaMTV2YjVXYzdWcEVReE5ZZGI0NGdaWURDTDgwd0EwRU8waVc5VUFmck9pdkJQNl9HTkoyNFBuRjI1Y2c5eDF5NDlDLXJUb3lWQk03eGhHeUtCN0JkOXVuMlpidS0?oc=5"
+    },
+    {
+     "title": "Canada gears up for Olympic qualification tournament in women’s soccer",
+     "outlet": "Canadian Olympic Committee",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3pXaXB6R0Jpa1ZYUWpLaUh3VnlTYll0cDVMM2VoclNva2hnNUdIc1FuUjJYT2RZcmFRRjZqRHFLN2dXR0Z4aEhjMmdOY3ppYmFlRHEtR3VDUUFCMS1acGRGb25UaURKWTRhQWFfWVFiS3YzN2pBQTBFN0VCSkdZbDdYc1FWSW83Y0JLcldZTnBnSWtsS00xOHhHOExxcnIzOHc?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-women-1",
+   "topic": "women",
+   "sport": "soccer",
+   "format": "panel",
+   "title": "World Cup Returns: Monetizing the Next Women's Soccer Surge",
+   "pitch": "The Women's World Cup is coming back to America. How should leagues, sponsors, and venues build commercial strategies to convert the global spotlight into lasting domestic growth for the NWSL and beyond?",
+   "why": "The confirmed return of the Women's World Cup to American soil makes right now the critical planning window for revenue and partnership decisions.",
+   "questions": [
+    "How do you price sponsorship inventory for a Women's World Cup cycle versus a standalone league season?",
+    "What data signals from the last U.S.-hosted tournament should inform venue and broadcast strategy this time?",
+    "How can the NWSL structure its calendar and marketing to retain fans acquired during World Cup fever?"
+   ],
+   "headlines": [
+    {
+     "title": "The Women’s World Cup Is Coming Back to America",
+     "outlet": "WABC Radio",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWNwY1d0cHhrbWR3MVExdlB5NWVVNUNRQjN5S2VTbDM5c3h1Q1Q0cGowcFlGaVN1ZnZZend2MTQ2M0JMenBHcG9WY2FqOXoxUmk3dy1HMWtaMTV2YjVXYzdWcEVReE5ZZGI0NGdaWURDTDgwd0EwRU8waVc5VUFmck9pdkJQNl9HTkoyNFBuRjI1Y2c5eDF5NDlDLXJUb3lWQk03eGhHeUtCN0JkOXVuMlpidS0?oc=5"
+    },
+    {
+     "title": "DiBernardo’s Olimpico and Debinha’s Late Winner Power Kansas City Current to First NWSL Championship",
+     "outlet": "Just Women's Sports",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDQ5cHdzWlZZd3J6azU2eUtwX05XcFRGZUd0enFLX3hrNjhIWnZpV05QdFgwTlZOQ1ZvOFJ3S2lyZzFPSjRXUkdVdHViV0dpTjZQYWdCUVJ4SkNHbHNvZXZ2T2lDV1pZejFVN2wzNGZ0RWN4UXhDNGhncjZ4N2FTNG02REJKZXJxd2Fpdi1fSW5ENkF3S001Q1BFSVNwaEc3Ukhr?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-women-2",
+   "topic": "women",
+   "sport": "",
+   "format": "panel",
+   "title": "Title IX at Risk: Business Fallout of the College Sports Act",
+   "pitch": "Proposed federal legislation could reshape how colleges fund and field women's programs. Executives and analysts examine what the Protect College Sports Act means for athletic department revenue models, compliance costs, and long-term brand equity in women's sports.",
+   "why": "The legislation moving through Congress this week directly threatens funding structures that underpin women's collegiate programs and pipeline development.",
+   "questions": [
+    "How would athletic departments realistically reallocate budgets if women's program mandates are weakened?",
+    "What is the measurable brand and recruiting cost to a university that cuts a women's sport?",
+    "Can conference-level revenue sharing models fill gaps that federal policy might create?"
+   ],
+   "headlines": [
+    {
+     "title": "The So-Called ‘Protect College Sports Act’ Threatens to Decimate Women’s Sports",
+     "outlet": "Ms. Magazine",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV29hcE85alBmQktBN2hMbm5SUnlSMEJwQmE1ZEtOQXNnODlpUVpING5sTzRJWVZRZTBfYktVVXQyYU81bm5udEQ0Uk5iLXBpa3VfWGxaaEpyRjdLODNaNm11WUtRUUV5VS14QW4xSlc4dVJ1OTVXMWZneGQxY3JzZ041ZDNEVXprVjZuTFZuYU84NFVkZy1QTzVBTDA3bWJhbTF5SlQxeW8yR0pzRTNr?oc=5"
+    },
+    {
+     "title": "Three Cardinal Spellman girls to compete in Division 1 college sports",
+     "outlet": "Enterprise News",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNHRXYVVOYTBoUEpDY1dVdVFVd2JNZWtoOXppM25mbEJEaHNaMklZX2dVQVN6VEw0R19KZTJseElqelhHRHo1YnpJUm13SXpZRmVudGxSN3R0WlVfZ1Y4UWp0QTBsaHd2bXBBeXBkRllSTlB6NXFmUHhCTzBOQ2J2ZEFQUU9RZ0Rod2Ztd1g4MzMzMkplVFFEMG1IUk9OTm9ieVo4ODFHeVJpN2phV3I1LUdPeVZMWElMNU1RRnJIcUI2WFpGTGlWUFZyUjFvYXZPME16YUpPN1l4ajdIQWRYQVc2VFpkMmNCZWs1dTBSX3RrLTFTVlRHenNxMmR0ZnJ5?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-women-3",
+   "topic": "women",
+   "sport": "hockey",
+   "format": "research",
+   "title": "Para and Women's Hockey: Sizing the Undervalued Market Opportunity",
+   "pitch": "Women's and Para hockey are both competing for investment, fandom, and analytical attention. This research session quantifies audience growth, sponsorship gaps, and performance metrics to show where the business case is strongest and what data infrastructure is still missing.",
+   "why": "Canada's simultaneous preparation for Olympic women's soccer qualification and Para hockey world championships spotlights how underserved these properties remain in sports analytics.",
+   "questions": [
+    "What attendance and viewership benchmarks distinguish a commercially viable women's hockey market from one that still needs subsidy?",
+    "How do sponsors currently measure ROI on Para sports partnerships, and what metrics are most predictive of renewal?",
+    "What player tracking and performance data exists in women's and Para hockey, and how does it compare to the men's game?"
+   ],
+   "headlines": [
+    {
+     "title": "Canada gears up for Olympic qualification tournament in women’s soccer",
+     "outlet": "Canadian Olympic Committee",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3pXaXB6R0Jpa1ZYUWpLaUh3VnlTYll0cDVMM2VoclNva2hnNUdIc1FuUjJYT2RZcmFRRjZqRHFLN2dXR0Z4aEhjMmdOY3ppYmFlRHEtR3VDUUFCMS1acGRGb25UaURKWTRhQWFfWVFiS3YzN2pBQTBFN0VCSkdZbDdYc1FWSW83Y0JLcldZTnBnSWtsS00xOHhHOExxcnIzOHc?oc=5"
+    },
+    {
+     "title": "What’s at stake for Canada, and women’s Para hockey, at world championships",
+     "outlet": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXVkX0liSW9MQnJUUTVnWGs0NVRUcUp1d2NGTWl1V0RfNTVUT3ZGQjJNaENqWXFzNVFkVU9RZ3NQb3M3dWlUWlVvaVAzYzU5dm1EaWMxUUp6ZnRtcElKU2RBZ19zeERCdUxlS19SSVFUR0hCN21wXzZjeXlmTHdfeUFFcnJZYXI4RElB?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-fans-1",
    "topic": "fans",
    "sport": "soccer",
    "format": "panel",
-   "title": "Building the Year-Round District: Analytics Behind Stadium Experience Upgrades",
-   "pitch": "New venues and legacy arena renovations are racing to compete with the couch. This session examines how teams use data to design fan experiences that drive attendance, dwell time, and non-gameday revenue across a full calendar year.",
-   "why": "New York City FC's announced Etihad Park fan experience upgrade for 2027 makes this a live investment decision for operators right now.",
+   "title": "Beyond the Game: Designing Stadiums as Year-Round Urban Districts",
+   "pitch": "New stadium projects in Newcastle and Birmingham signal a shift from single-use venues to mixed-use civic anchors. This session examines how teams model non-matchday revenue, secure public backing, and use data to justify once-in-a-generation capital decisions.",
+   "why": "Newcastle's ownership has publicly framed its stadium choice as a generational decision, and Birmingham City is pursuing World Cup hosting status, making venue investment strategy urgent right now.",
    "questions": [
-    "How do teams measure the ROI of physical fan experience investments versus digital engagement tools?",
-    "What data signals tell you a venue upgrade is driving incremental attendance rather than just shifting existing fans?",
-    "How do you design a stadium district that generates revenue on the 300 days a year no game is played?"
+    "How do you build a financial model for a stadium district when non-matchday revenue streams are still largely unproven at scale?",
+    "What data do cities and federations actually require before awarding marquee events like World Cup matches to a new venue?",
+    "How do you maintain community trust and avoid cost overruns when a project spans multiple political cycles?"
    ],
    "headlines": [
     {
-     "title": "New York City announce Etihad Park fan experience upgrade for 2027 MLS season",
-     "outlet": "Football Ground Guide",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcS1sc1dadUg4b1AySlRBcGh1RFpOZFBmczNCZzRwUkZGbFM3aG1EQ3BXYnY3YnB1ZXE2WlFNdklHWXpnejdRZjQ4VWpvVEJHYXJOYU0ySTBoUzhCYzV4ZGhxVlRqVU9SZ2Y2UHNtUlozRDdPV1dCU2lzazI1ZTJsUWpRYU94cjZqSVdRQjdRVzRRanF6Y0g0TUJCTTdscl96QmYzblhON1JBLUxLQkJNMUxNMThzc1U5Vmg0?oc=5"
+     "title": "Newcastle United supremo makes new stadium admission ahead of 'generational decision'",
+     "outlet": "Chronicle Live",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlNfVVdDSXE5Zm5ZSTZ0a3l1TjByZU50X0I2SllxVWhaTmRaRFhMdXJlakpLUV8xY0FKZTE2ZDlTeEtLeUQwRHN6VzI0SVdROGlwM0t2SnpDQlhGb1p3TUUyR0l3emJCSU93cjRxUlUzUlRQMkhaejl0ZmFzbjF6NzhUb0pWNEJ1Z2U2QUFWYWZjczBUamlPMXEwZjNDQkd5eUZrV3Vn0gGrAUFVX3lxTFBtcnRCdTVuemtMbzN3Y3J3QmIwcmFsRjBTUGtWbTFoNXRsbXI3YmNuNlRNTHJLOXVJcVExQVlUX3ViOG5ORzJMMThrY2VNU1RFN01iQklTc1lSaXBHYVlXcFAycUYySlZuVmJ6UVhfczViTVV0Nk9Dd1B1MjgwY3JLWFNidUdUUDU5WTZSUzRkT0NtM2FJLU9DMWdseHgxVGlqbG9PMnZkYUR6Zw?oc=5"
     },
     {
-     "title": "New stadium nearing completion and preparing to ho… | Yalla Shoot",
-     "outlet": "YSscores",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOURoM1FIekd1T0ZhUEpxR3hRNEQ3U084bmxnSHFBb3pFd1hFQW1iR3QxNVpfVDBCRUhlZFU4STlyRGN2b0wwMEl3MTVtdUJTVGFPNXNtWEI3U3FVWEphend1d1NyS29sYm81OFhvY0VoaGs3UWNuT2E1eWNZRVJma2VpNDhQT20zS1JqVC1zbmV0UlhGa0NWR2t0SS1nbkRpN0xZWmxMdG9JbjA4MVE?oc=5"
+     "title": "Birmingham City Powerhouse Stadium in line to host World Cup matches",
+     "outlet": "Birmingham Live",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFN0WnZPOTltTXJDSThOTWlZT3RfTlBlU3pRRFptZk05aWUyWnBZdmZCUmpJSmt5QXd4WlZZQUwzLUNYdmMtemtsTkVpZDROeV9JbTlzS3lVQzRJNFpZMmxmcGpGZ215Y3RPZWthRklLWWZwcklzdGZpUk5HbTg4SGpQaEhNRVZqOXMtX1lZS3pWVnMxS25scG1JVGY5MDNiZkdZYjdkYlVZaXFES3NR0gG0AUFVX3lxTE1tWThZRlowUkxsdXlDNWVESFpRTUxzMlZBMWo1R25mdjViRmVXQTFnNU1lT2lOczlBVjZQRjd6bm95akpSc2J4eVoyTGJEUWVISXQwcUVoTm5oejBTUkVTYnZaNzBvXzhyaVQwX2hLZnROZWlvMThXSGFBNFFQNkpOZ1R4eWJGUk1FeXM0eXA4QVBFZjh1aGJFRWR5aVlkcUE1aVRLZVNLZzBoQW5qUnZ1b2I1cg?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-fans-2",
-   "topic": "fans",
-   "sport": "football",
-   "format": "fireside",
-   "title": "Global Stadiums, Local Fans: Operating Multi-Venue Events Across Continents",
-   "pitch": "The NFL's international series now spans eight stadiums across seven countries and four continents. This session explores the operational and fan engagement analytics required to replicate a consistent, data-driven gameday experience across wildly different venue contexts and fan cultures.",
-   "why": "The NFL's international schedule reaching eight stadiums across four continents this week highlights the growing complexity of maintaining brand and fan experience standards globally.",
-   "questions": [
-    "What fan experience metrics travel across cultures and which ones require local recalibration entirely?",
-    "How do you build first-party fan data infrastructure in markets where you have no permanent venue presence?",
-    "When attendance and engagement data looks different abroad, how do you separate novelty effects from genuine market demand?"
-   ],
-   "headlines": [
-    {
-     "title": "Eight stadiums, seven countries, four continents: NFL field director has earned a break",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games"
-    },
-    {
-     "title": "Eight stadiums, seven countries: NFL field director has earned a break",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-fans-3",
+   "id": "n-2026-11-23-fans-2",
    "topic": "fans",
    "sport": "basketball",
    "format": "research",
-   "title": "Superstar Moments, Sellout Crowds: Quantifying the Wembanyama Gate Effect",
-   "pitch": "A 50-point performance by a generational player moves social feeds instantly, but does it move the needle at the box office? This research session models how individual superstar performances affect short-term ticket demand, resale pricing, and long-term season ticket conversion.",
-   "why": "Victor Wembanyama's 50-point game this week reignited debates about star power and fair-value pricing, making the gate-effect question urgent for teams without guaranteed sellouts.",
+   "title": "Load Management vs. Live Attendance: Quantifying the Fan Cost of Rest",
+   "pitch": "When marquee players sit out, ticket buyers feel cheated and secondary market prices drop. This session builds an analytics framework for measuring load management's true cost to live attendance revenue, fan loyalty scores, and long-term season-ticket retention.",
+   "why": "Prominent criticism from former NBA players this week about star players sitting out has reignited the debate over whether load management is quietly eroding the in-arena value proposition.",
    "questions": [
-    "How quickly does a standout individual performance translate into a measurable spike in secondary market ticket prices for future games?",
-    "What is the marginal attendance lift of a superstar visiting team versus a superstar home team, and how should dynamic pricing models treat them differently?",
-    "How do teams convert casual fans drawn by a viral superstar moment into committed, recurring ticket buyers?"
+    "Can we isolate the attendance and revenue impact of a single star player's absence from confounding factors like team record and opponent quality?",
+    "How should leagues and teams structure contracts or incentive pools to align player health management with fan-experience obligations?",
+    "What do first-party fan data platforms tell us about whether a disappointed attendee actually churns on future ticket purchases?"
    ],
    "headlines": [
     {
-     "title": "“Wemby Coming for Luka MVP Trophy”, “Statpadding in Garbage Mins”: NBA Fans Divided After Victor Wembanyama Drops 50 Points Against Zion-Less Pelicans",
+     "title": "Byron Scott Calls Out LeBron James And Today's NBA Stars For Cheating Fans With Load Management",
+     "outlet": "Fadeaway World",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQUVyblk5a2VSbkt2UUV2My1Jb245NGUtaXBhSkx3alJNWVlxc2xlVW5sQzVObW45Rjk3cUJmbml0cHJ3OUlfb2tjZTkyeTlSOURkbUlOMzZHODlKcWVnWjRtYXozY2tKWWJTUWJEQUpqQm9aZGZ1cEd6djY0QU9vRVRjVWh5VERzVXRWUVdvTTYyc1ZBYXZNOWQxSmRqX2NseTRCY2lLSEJ2NGU5REc5eGFnN09lRFBGRDgzQ3dnVElMSjJnb2xrdUpDajFfX0ZTUEtxVlZ6alN6S3c?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-fans-3",
+   "topic": "fans",
+   "sport": "",
+   "format": "fireside",
+   "title": "When Live Experiences Die: Lessons for Sports from Fan Venue Restrictions",
+   "pitch": "A beloved fan experience venue just lost its live-music permit, illustrating regulatory and design risks in fan district development. Sports teams building year-round destination venues can apply these lessons to zoning, community relations, and programming flexibility before breaking ground.",
+   "why": "The ban on live music at a high-profile Beatles fan experience venue in London this week is a concrete reminder that community and regulatory friction can gut the programming model of any fan destination.",
+   "questions": [
+    "What due-diligence checklist should a sports property complete on zoning and noise ordinances before committing to a year-round entertainment district strategy?",
+    "How do you model the revenue sensitivity of a fan venue when a core programming pillar, like live entertainment, can be removed by external regulators?",
+    "What governance structures have proven most effective at keeping local government, neighbors, and the team aligned throughout a multi-year venue activation?"
+   ],
+   "headlines": [
+    {
+     "title": "Live music to be banned from rooftop of The Beatles’ Saville Row London fan experience",
+     "outlet": "NME",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGJrNmhRdkhqSjgwZHNRSlJ2Y29OSUlIV25hOXJSTmpzd044cF9TU1B4LXFNbzZ5S2ktNDVPaWlFZjE1LXNPU2NJR2lJVlJNM043b2JoUDlQd0EwWXdOSTdQSEVXVjBlNjlLWjJic1F0cXM5OF9aN3d3YlRzWWtyU0ZBYTF2V0NjR2h4SzJRb2VkbUFpNUFzaDJ6cnFEQ3g4dzdYdTlOaGtSbDk4c0NpTzA5am5vbTBlNkhhRnRnWEpKdw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-roster-1",
+   "topic": "roster",
+   "sport": "",
+   "format": "panel",
+   "title": "Coaching Staff as Roster Asset: Valuing the Technical Bench",
+   "pitch": "Front offices rarely quantify the value of coaching staff when building rosters, yet coaching departures reshape team performance trajectories. This session examines frameworks for measuring coaching contribution and pricing staff turnover risk into roster construction models.",
+   "why": "The Astros pitching coach departure and the Washington Spirit head coach firing after three consecutive championship losses spotlight how staff decisions ripple through team-building strategy.",
+   "questions": [
+    "How do you isolate a pitching coach's contribution to player development from the underlying talent on the roster?",
+    "What data signals should front offices track to anticipate coaching staff attrition before it becomes a competitive liability?",
+    "When a head coach is fired after repeated championship appearances, how do you distinguish tactical failure from roster construction failure?"
+   ],
+   "headlines": [
+    {
+     "title": "Pitching Coach Josh Miller Will Not Return To Astros In 2027",
+     "outlet": "MLB Trade Rumors",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkRoMGE0SUk0OEVLYjBnS3pnTllPemFPSE0ySjUxcEJYcV9sMXNySTdibklGOVlLRU9mbmVlZlpMMklfb3ZzQ1RsOXJEdjFlaHp1RVFnaW9BS3B0N3d4VEw5UjBrbzZiMHJYX2lrVEVlSUlsWk1OZ0NQVElSRHdmTWU1LWpFN2NkQWhWT2ZVRW5ZM3FLM2g4Zm5R?oc=5"
+    },
+    {
+     "title": "Washington Spirit fire head coach Adrián González following third straight NWSL Championship loss",
+     "outlet": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZC1nQ1NkNmhUcjc3aUR2QklEeDNILWpPeUxUYzhiN1VSbk01THdUMUwyWHhIcnRLb3BrRHBpTTBwZ0JJTmVHcTFoaV9IOElORVA5TlljelVURHFGSkhLTTRBSDhjWVFxRUVoMGp4a1AxN01qenAySmUtUnlIalZmYzFtRllSc3M3RGF2UU5YY2FzemZqclVqM1VFZHpiSmtoQ19XSkNzeTI4bUNiLVFhMjV0ZDdVWVd3VGpTRw?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "n-2026-11-23-roster-2",
+   "topic": "roster",
+   "sport": "football",
+   "format": "fireside",
+   "title": "Front Office Restructuring Mid-Season: Risk, Signal, and Stability",
+   "pitch": "Organizational changes during a live season create measurable disruptions to roster decision-making pipelines. This session investigates how teams can restructure front office operations without losing analytical continuity or competitive momentum.",
+   "why": "The 49ers' major front office move in the middle of Week 11 raises urgent questions about timing, communication, and roster decision authority during a season.",
+   "questions": [
+    "What governance structures allow a front office transition to occur without disrupting in-season roster decisions?",
+    "How do analysts maintain model continuity and data ownership when leadership changes mid-season?",
+    "Can you identify any performance or decision-quality metrics that reliably shift following a mid-season front office restructuring?"
+   ],
+   "headlines": [
+    {
+     "title": "49ers made major front office move right before Week 11 win",
      "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZEVoMlRvT0hRWFRGUEpWTWJCNTZCUnFnRUpQSmZsNmJXVUdsZUk2N1NGei1ZX0dtSXFhMkpJTWNmUzZjSGhFLVZoNTBQb0VNOF84NTlnNnZxejVqcTBtc1BXVVJjUDUtN0xpNEdLeW0zc2NlVFl1dTF5NkRRS2FCNWJyOA?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUtjb3BaWmZHT3M0bmFPaTlUNElRRlpha2RhcUZnclgtNFJwMEM5VFRKSGxFVE5WNDBIZ0NnWVk2VUFoUVJEWTEwQnozMEZtQ1hZZll5NE9BWUg5b0k3bDBmYWliRGJhZmdjb0tTWFVaUHFzWTQtYzhVWnBQS2dzWDNLTjE?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-global-1",
-   "topic": "global",
-   "sport": "soccer",
-   "format": "panel",
-   "title": "Streaming Out: Who Pays for the Next World Cup Rights?",
-   "pitch": "With a major streaming platform declining to bid on World Cup rights, traditional and digital media models are under pressure. This session examines how rights valuation, audience fragmentation, and platform economics are reshaping the mega-event broadcast marketplace.",
-   "why": "YouTube's decision to pass on a World Cup bid signals a pivotal moment in how platforms weigh sports rights costs against audience and advertising returns.",
-   "questions": [
-    "How do rights holders model the gap between streaming platform valuations and traditional broadcaster bids for mega-events?",
-    "What data signals would change a major platform's calculus on bidding for World Cup or Olympic rights?",
-    "How does audience fragmentation across platforms affect sponsorship pricing and activation strategies for global events?"
-   ],
-   "headlines": [
-    {
-     "title": "YouTube joins list of companies passing on World Cup bid",
-     "outlet": "Sports Media Watch",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTktTDhucGMxOTNpVUdPQmZINnhDaXJLSkhwQUp3R3o5NzZMaW8zRU0xaGJBa1I2c2lqY0tVUUhVZ3o1bWstUzNHYng2cDVwUDJQalBZRDItcG1QWFpMMWRxTUJweFpfX09Za3JkOXNTSHJUX211bTFzWmE4SFVYUlUxTHpiSUZieVhDdDVtNDNrY29m?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-global-2",
-   "topic": "global",
-   "sport": "olympic",
-   "format": "panel",
-   "title": "Qualifier to the World Stage: Hosting Small Events for Big Returns",
-   "pitch": "Bangladesh securing LA28 qualifier hosting rights illustrates how emerging markets use pathway events to build infrastructure, fan bases, and commercial credibility. This session analyzes the analytics and business case behind hosting qualifying competitions as a growth strategy.",
-   "why": "Bangladesh's hosting announcement for LA28 qualifiers highlights how nations are using smaller events to position themselves ahead of the 2028 Olympics.",
-   "questions": [
-    "What metrics should a national sports body use to evaluate the return on investment from hosting a qualifying event versus a marquee competition?",
-    "How do broadcasters and sponsors value qualifier events differently from medal rounds, and what closes that gap?",
-    "What infrastructure and data capabilities must emerging markets develop to convert qualifier hosting into long-term commercial partnerships?"
-   ],
-   "headlines": [
-    {
-     "title": "Tamim unveils academy plans, hails LA28 qualifier hosting",
-     "outlet": "New Age BD",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZjF2LW5LTXEyVmJpWG1GM0Z1emhOa0haekZGS3JMNmNWbkZ0VXBKU1M4aG40bXE3MmhvVU9MWmhlUFVsSzAzcmxwSHU2UXBaMU1PTVFEZjFCSS1yb1VlOUZmcXpUOVdLc216dEItMWVjeTRPQmpMaDR6U2ZSX1N0RG1xamIyeWxxdU9fRnl1UXFZeTdiR25hNTVnV3M1TmJxTU00?oc=5"
-    },
-    {
-     "title": "BCB boss hails LA28 qualifier hosting rights as major achievement",
-     "outlet": "New Age BD",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFExZ3BqVWtXN3R2WllYMWpkSWh0S2wxQmVfTmFkdS1HdXhBTVFNdzRxaS1ZclJIQTVOVVgzbTFDTEpkSGdJbVJfYmlPLU02QWtIYTlVMHhpZW1nU0wyek1VSW80UkY1V3Vha0dZUDhzOS1sZjAxWXdiTnJkNmZxNV9uVUNHOXdQYUd0cnBVTnJ5YS04RWNOOE9yV2ZmWHZ2OEtHRUViSkxFX1NRQUVN?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-global-3",
-   "topic": "global",
-   "sport": "olympic",
-   "format": "fireside",
-   "title": "The Cultural Olympiad as a Business Asset: Measuring Soft ROI",
-   "pitch": "LA28's Cultural Olympiad is taking shape with a notably decentralized approach. This session explores how organizers, sponsors, and cities quantify the commercial and brand value of cultural programming tied to mega-events, and what analytics frameworks exist for non-athletic ROI.",
-   "why": "Reporting on LA28's Cultural Olympiad organization raises urgent questions about accountability and value measurement as the Games approach.",
-   "questions": [
-    "What data frameworks can organizers use to measure brand lift and civic engagement generated by cultural programming around mega-events?",
-    "How do sponsors evaluate activation opportunities in a loosely structured cultural program compared to defined athletic competition slots?",
-    "What lessons from past Olympic host cities can inform a more rigorous business model for Cultural Olympiad delivery?"
-   ],
-   "headlines": [
-    {
-     "title": "LA28 Cultural Olympiad takes shape despite organisation's laissez-faire approach",
-     "outlet": "Inside The Games",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzhOcEJsN3p6WC13Z2xIcWJ4YjhIOG1mZS1zaWd2bF9CNlhIVkdnM3hXallrc3RlWU1tSDJoMm5IOEhYZmRXOEJfYVFtVHhESV9JeUwwbzFGTHBQVzlDbnNVdVR6YnVwNThRMm8welpxZzUyWDI4NXFhNlhnZnFpUFpJTVlXZm4zam0xZnlqbnNzaHdmYkN4RXo5MWtnMlNBbXpfeXhHbHEyUFVCeHE5bG9FT2Z3Ykdua293?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-women-1",
-   "topic": "women",
-   "sport": "soccer",
-   "format": "panel",
-   "title": "Investing in Women's Soccer: What the NWSL Model Proves",
-   "pitch": "The NWSL Championship result spotlights franchises that committed capital and infrastructure to women's soccer. This session examines the financial models, roster investment strategies, and market-building tactics that separate title contenders from also-rans.",
-   "why": "Kansas City's first NWSL title this week validated years of ownership investment, making this the right moment to quantify what that commitment actually buys.",
-   "questions": [
-    "How do analysts measure return on roster investment in a league where revenue streams are still maturing?",
-    "What financial and operational signals distinguish franchises building sustainable competitive advantages from those chasing short-term results?",
-    "How should NWSL clubs think about local market penetration versus national brand building when making investment decisions?"
-   ],
-   "headlines": [
-    {
-     "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit"
-    },
-    {
-     "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50561566/kansas-city-nwsl-championship-final-washington-spirit"
-    },
-    {
-     "title": "Current win first championship, defeating Spirit with defensive dominance and an Olimpico - The Athletic",
-     "outlet": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzdaX256R2l3ejRQUTlSVGJSaWtuNVdGdXVhU1ByMXhTV0NLazlXcUJ1TFJsNTUxa1lsM1NMSVJXaUQ5aENqWTY4LXNodjFGTWFOdmlFY1M3UHBEQnBrZ3Rnanh3VnIyX3lWY0gxZTBYa2k3STdkWFp0azdCSDJ0R0hmVTd5dHVZcFVQRkloNVpiYkM2RVVza0w5WkYxYTA?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-women-2",
-   "topic": "women",
+   "id": "n-2026-11-23-roster-3",
+   "topic": "roster",
    "sport": "soccer",
    "format": "research",
-   "title": "Defensive Analytics in Women's Soccer: The Championship Edge",
-   "pitch": "Kansas City won the NWSL title through defensive dominance. This research session explores how teams model and measure defensive performance in women's soccer, where data infrastructure lags behind the men's game and new metrics are still being established.",
-   "why": "This week's championship result, decided by defensive structure and a rare Olimpico, raises urgent questions about how the NWSL evaluates and values defensive play.",
+   "title": "Championship Rosters in Emerging Leagues: Building for Sustained Success",
+   "pitch": "Winning an inaugural or early-era championship in a growing league requires roster construction under thin historical data, compressed salary structures, and rapid talent market evolution. This session uses analytical frameworks to decode what separates sustainable builders from one-cycle winners.",
+   "why": "Kansas City Current's first NWSL Championship and the Para hockey world championships both highlight how talent evaluation methodology in emerging leagues is maturing rapidly and demanding new approaches.",
    "questions": [
-    "Which existing defensive metrics from men's soccer translate cleanly to the women's game, and which need to be rebuilt from scratch?",
-    "How do you model the value of a clean sheet in a low-scoring league where single set pieces decide championships?",
-    "What data collection gaps most limit defensive analysis in the NWSL today, and how are clubs filling them?"
+    "How do you build a player valuation model when the league lacks five or more seasons of consistent tracking data?",
+    "What roster archetypes, defined analytically rather than by position, appear most predictive of championship performance in younger professional leagues?",
+    "As NWSL and para-sport leagues grow, how should front offices price international player acquisition given uneven cross-league data comparability?"
    ],
    "headlines": [
     {
-     "title": "Rodman on 3rd straight NWSL Championship loss: 'This one hurts way worse'",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50559416/trinity-rodman-nwsl-championship-washington-spirit"
+     "title": "DiBernardo’s Olimpico and Debinha’s Late Winner Power Kansas City Current to First NWSL Championship",
+     "outlet": "Just Women's Sports",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDQ5cHdzWlZZd3J6azU2eUtwX05XcFRGZUd0enFLX3hrNjhIWnZpV05QdFgwTlZOQ1ZvOFJ3S2lyZzFPSjRXUkdVdHViV0dpTjZQYWdCUVJ4SkNHbHNvZXZ2T2lDV1pZejFVN2wzNGZ0RWN4UXhDNGhncjZ4N2FTNG02REJKZXJxd2Fpdi1fSW5ENkF3S001Q1BFSVNwaEc3Ukhr?oc=5"
     },
     {
-     "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit"
-    },
-    {
-     "title": "Current win first championship, defeating Spirit with defensive dominance and an Olimpico - The Athletic",
-     "outlet": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzdaX256R2l3ejRQUTlSVGJSaWtuNVdGdXVhU1ByMXhTV0NLazlXcUJ1TFJsNTUxa1lsM1NMSVJXaUQ5aENqWTY4LXNodjFGTWFOdmlFY1M3UHBEQnBrZ3Rnanh3VnIyX3lWY0gxZTBYa2k3STdkWFp0azdCSDJ0R0hmVTd5dHVZcFVQRkloNVpiYkM2RVVza0w5WkYxYTA?oc=5"
+     "title": "What’s at stake for Canada, and women’s Para hockey, at world championships",
+     "outlet": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXVkX0liSW9MQnJUUTVnWGs0NVRUcUp1d2NGTWl1V0RfNTVUT3ZGQjJNaENqWXFzNVFkVU9RZ3NQb3M3dWlUWlVvaVAzYzU5dm1EaWMxUUp6ZnRtcElKU2RBZ19zeERCdUxlS19SSVFUR0hCN21wXzZjeXlmTHdfeUFFcnJZYXI4RElB?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-women-3",
-   "topic": "women",
-   "sport": "basketball",
+   "id": "n-2026-11-23-ownership-1",
+   "topic": "ownership",
+   "sport": "baseball",
    "format": "panel",
-   "title": "Reviving Dormant Markets: The Business Case for Women's Leagues",
-   "pitch": "The WNBA's return to Detroit raises a broader question: how do leagues assess, re-enter, and monetize markets where women's sports once thrived and faded. This session analyzes the analytics of market selection, fan reactivation, and legacy brand equity.",
-   "why": "Detroit's WNBA expansion story this week highlights how leagues must weigh historical fan bases, lapsed loyalty, and new sponsorship landscapes when making expansion decisions.",
+   "title": "Labor's New Frontier: Revenue Sharing Beyond the Broadcast Deal",
+   "pitch": "As MLB's CBA talks expand to include local media revenue sharing, what analytics frameworks help owners and unions model the true distribution of value across a franchise? This session examines data-driven approaches to labor negotiations in an era of fragmenting media rights.",
+   "why": "MLB's active proposal to include local media revenue in union negotiations signals that traditional salary floor talks are giving way to deeper structural revenue disputes.",
    "questions": [
-    "What data sources best predict whether a lapsed fan base can be reactivated versus whether a market must be rebuilt from zero?",
-    "How do leagues price expansion fees in women's sports when comparable market valuations are limited or outdated?",
-    "What role does local media rights value play in the site-selection models leagues use for expansion?"
+    "How do teams currently model the incremental revenue contribution of a single player versus a roster, and how might unions challenge those models?",
+    "What data would both sides need to agree on before local media revenue sharing becomes a viable bargaining chip?",
+    "As private equity enters team ownership, how does a more complex capital structure complicate revenue-sharing negotiations with player associations?"
    ],
    "headlines": [
     {
-     "title": "As WNBA returns to Detroit, Shock's legacy 'needs to be restored'",
-     "outlet": "The Detroit News",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkxwQjRWSkhQdC1hZ3ZvcWdfNUd4NGMyZ1VaTGp4bXoxU1JVVjN0QmhNdkVRWkJmSXlMS0Z5YjB3ampOV2t6c0ZWQUhzSExmeEN3Y3JjMzByX2stV1lMeklQT1hjcjZSWFdTSTdyUE52bjFLa092bHExZzBMeTlpVWNQSF9OYm4tV0dGT213WTZvbEpUajdNM3BLWk4zWVA1MU52WkhGVjJweHpLX04zekZEdnBkamRVRjlqV053TW1VV2hvY2tIalhuWDFoS1pLdWlFaQ?oc=5"
+     "title": "MLB offers higher minimum salaries while union eyes local media revenue sharing",
+     "outlet": "ESPN",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXphRG5XOFZic0VnZllzTnVFa1NkeElPdHhpTU5uYmltSmF0RGNqa3JvTHpKbXNUVFNNbko5RUJ4clBlQ1p6MGU1YlB2aVc3VGtvSEdTV1I0dXRCamxjTU9tOG5xX2kxb0lJRWJzY2lBOGNwa2gxaGE3OTZrNWhFUGFidnNPcTV4UnY0bmhhZ3ZiaHdUU0Q2TnFFeWp1SmRqX1E?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-roster-1",
-   "topic": "roster",
+   "id": "n-2026-11-23-ownership-2",
+   "topic": "ownership",
    "sport": "football",
    "format": "panel",
-   "title": "Drafting in the Dark: Evaluating CBs and WRs Before the Combine",
-   "pitch": "As an elite cornerback class and multiple wide receivers project into the top five picks, how do teams build pre-combine evaluation models that hold up under draft-day pressure and salary-cap constraints?",
-   "why": "This cycle's unusually deep CB class and contested WR valuations stress-test every team's pre-draft player grading methodology in real time.",
+   "title": "Bargaining at the Gate: Can College Athletes Unionize Their Way to Revenue?",
+   "pitch": "A player-proposed bargaining model in college sports challenges the post-House settlement landscape. This session analyzes the financial and structural implications of collective bargaining in college athletics, using data to stress-test what revenue-sharing floors and ceilings could realistically look like.",
+   "why": "The Tennessee players' bargaining proposal arrives just as colleges scramble to operationalize athlete revenue sharing under new NCAA rules, making governance models urgent.",
    "questions": [
-    "How do you weight college tracking data against traditional film grades when projecting a corner into a zone-heavy NFL scheme?",
-    "At what point in the draft cycle does your model lock its positional value tiers, and how do you handle late risers?",
-    "How does the salary-cap slot value at each pick change the threshold a prospect must clear to justify a top-five selection?"
+    "What financial disclosures would universities need to provide for meaningful collective bargaining, and how does that compare to current reporting standards?",
+    "How do the economics of a revenue-sharing bargaining model differ across Power Four conferences versus mid-majors?",
+    "Could a unionization framework in college sports accelerate or complicate the growth of women's and Olympic sports revenue that programs are just beginning to monetize?"
    ],
    "headlines": [
     {
-     "title": "Reid's midseason NFL mock draft: 32 prospect landing spots, four QBs and one big trade",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/nfl/draft2027/story/_/id/50502243/2027-nfl-mock-draft-reid-midseason-32-first-round-predictions"
+     "title": "College sports debate grows as Tennessee players propose bargaining model",
+     "outlet": "13WHAM-TV",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMmoycUU1amJSVGtfQ3VOZ2dWX0dEMzF0SEpiQXBzbTFrSU5aOWh6R19lX0VXcWw4UlRnQmpzb29yVGl0VmtxdEtfX2VpSGRIMVNBa1FIX3hTX0h4OXVtWVkycFhXcXJHUHc0blBzcFdTeDlZNzMwak5ELUhkUTJ5U2xCRjlFaG5XOWJudUFsWkdiVmdJajhCejVZNElJMjh3Z1FOOERKaEFJbEdEdkFobUxNUXpWb3B0eTRqTlR0dGJkcHJmT1RZckFSNDBTLWxKRTV3eGtoUXhJUQ?oc=5"
     },
     {
-     "title": "NFL draft risers, notes off Saturday's college games: An elite CB class? Two WRs in the top five?",
+     "title": "MLB offers higher minimum salaries while union eyes local media revenue sharing",
      "outlet": "ESPN",
-     "url": "https://www.espn.com/nfl/draft2027/story/_/id/49881131/2027-nfl-draft-risers-questions-college-football-prospects"
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXphRG5XOFZic0VnZllzTnVFa1NkeElPdHhpTU5uYmltSmF0RGNqa3JvTHpKbXNUVFNNbko5RUJ4clBlQ1p6MGU1YlB2aVc3VGtvSEdTV1I0dXRCamxjTU9tOG5xX2kxb0lJRWJzY2lBOGNwa2gxaGE3OTZrNWhFUGFidnNPcTV4UnY0bmhhZ3ZiaHdUU0Q2TnFFeWp1SmRqX1E?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-roster-2",
-   "topic": "roster",
-   "sport": "soccer",
+   "id": "n-2026-11-23-ownership-3",
+   "topic": "ownership",
+   "sport": "",
    "format": "panel",
-   "title": "The Championship Roster Puzzle: Building NWSL Clubs to Win and Retain",
-   "pitch": "Kansas City's first NWSL title and a rival club's third consecutive final loss reveal opposite roster trajectories. What evaluation frameworks separate sustainable championship construction from cycles of near-misses in a league with limited cap room?",
-   "why": "Back-to-back finalists diverging in outcomes this week makes NWSL roster construction a live case study in player valuation and retention strategy.",
+   "title": "Youth Sports as an Asset Class: Capital, Access and ROI",
+   "pitch": "Government grants, athlete-backed investments and charity auctions are all flowing into youth sports simultaneously. This session maps the emerging capital landscape around youth sports infrastructure and asks how owners and investors can measure social and financial returns in the same framework.",
+   "why": "A confluence of public funding, private athlete investment, and nonprofit capital activity this week reveals youth sports is attracting institutional-level attention that demands clearer analytics.",
    "questions": [
-    "How do NWSL teams model the replacement cost of a core player when international transfer markets and domestic free agency operate on different calendars?",
-    "What data signals best predict whether a roster built for a cup run can sustain performance across a full regular season?",
-    "How do you quantify the organizational cost of repeated championship losses on player morale and future free-agent recruitment?"
+    "What metrics should investors use to evaluate a youth sports business when social access goals and profit motives are both present in the capital stack?",
+    "How do government subsidies, like state soccer grants, affect competitive dynamics and valuation for private youth sports operators in the same market?",
+    "As professional athletes invest in youth equipment and infrastructure, what conflict-of-interest or brand-risk analytics should governing bodies and co-investors demand?"
    ],
    "headlines": [
     {
-     "title": "Rodman on 3rd straight NWSL Championship loss: 'This one hurts way worse'",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50559416/trinity-rodman-nwsl-championship-washington-spirit"
+     "title": "‘Who’s running these tournaments?’ Faulkner wants to know where Alabama’s youth sports money goes",
+     "outlet": "Yellowhammer News",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSkljOFhvMEZCMVRqY3JWTDFseHhXa2F5dWNqZ25hcHFWUUZ0bnhYZDA0dVc3R3poRXVlNDRjVG9FQnFFV0dmWlRNeUdTTm9SN041X3pMcUZ0RnVUZlI3ME1ReUJaWU4tZHV1VGZ2eGpnUUpIanhialBzS1VsUGpmTmJUSFZKTjFncXdsM1JJcnRVZ3NIa2c3ZDBZYkxvT3NnMFV1dUpEa1FBNGd1elBnUUM2azVUVkg3dDBBZU4xQQ?oc=5"
     },
     {
-     "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit"
+     "title": "Governor Hochul Announces Over $10 Million to Expand Youth Soccer Access and Celebrate Historic Success of World Cup | Empire State Development",
+     "outlet": "Empire State Development (.gov)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmdVMGRNcFcyLUZMVGViVmk5Tzd6SmtRUkNLWHdOTFBwRmtfMzRGcklINTJaUnlwcHc0NTYxc1MtYkFLMk5PNncybC0tVXFLS21SMVlKRkJsX3haNDcyV1hzQXg1NWJKdm5YZjFLdzF6UVNCay13VmRDUlJJTWwzTk5jRzl5dWRic3BtQ1c5bzFGZkt2THFXVElub2l3dVY1bTRqeGZ0RWlsUk9kTmlOeVRB?oc=5"
+    },
+    {
+     "title": "Dak Prescott Invests in LEGION Protective, Maker of Youth Football Shoulder Pads",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTFVaEhqWmtpemYtYlJPTmJjVU9oMGo5RE1yelN0RG1WYzIxejlHWXFiY3VsR3lMVW5UVWJBNktDaWVzSngxX1dqQU1xdU8yczNkeDlpQUVqMHh2aEdURFE5QkZOSkwyel81T3AwUktLSVQ4TGJya1NrYzBvcnhHV1pIRnJYRHd3MkpIUnhOYVptRnVHdE1jQVFjc3FTUFk?oc=5"
+    },
+    {
+     "title": "Youth on Course Auction Tops $1.2 Million, Funding 170,000 Subsidized Junior Golf Rounds",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjE0LVVVZHBva0tGOUE2R3VpWmNwWjJ0eG5KNThiZFYxM3JIbUtHQUdfY05RNkhpUU9DNTlYYXpPZDAzSWVEWWZlRmZDOThLY0hnblFpUDQ0QmtaX3YzUllTQi1xNWU3a3p2eDY0b0JQQnFJaDJzXzYwTm9qanhxNmFub0sxS3VqWDhnUkVfRUFQR1VGWUM2bA?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-roster-3",
-   "topic": "roster",
-   "sport": "football",
-   "format": "research",
-   "title": "Aging Curves, Ironman Contracts, and the 18-Game QB Dilemma",
-   "pitch": "With a quarterback on pace to start all 18 regular-season games, teams face fresh questions about durability valuation in long-term contracts. How should analytics reshape how franchises price injury risk and workload into quarterback deals?",
-   "why": "An 18-game iron-man pace and a veteran quarterback in a delayed free-agent holding pattern simultaneously expose gaps in how teams model QB durability and market timing.",
-   "questions": [
-    "How do current contract models account for the incremental injury-risk increase that an expanded regular season introduces for high-snap-count quarterbacks?",
-    "What publicly available workload and biomechanical metrics should front offices incorporate into multi-year quarterback valuations?",
-    "When a veteran quarterback delays signing to maximize leverage, how do teams recalibrate their roster contingency planning under a hard salary cap?"
-   ],
-   "headlines": [
-    {
-     "title": "Ex-Colts QB Jones likely to wait before signing with new team, sources say",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/nfl/story/_/id/50557657/sources-daniel-jones-likely-wait-joining-new-team"
-    },
-    {
-     "title": "Cousins on pace to make NFL history as 1st QB to play 18 regular-season games",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/nfl/story/_/id/50557919/vikings-qb-kirk-cousins-pace-make-nfl-history"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-betting-1",
+   "id": "n-2026-11-23-betting-1",
    "topic": "betting",
    "sport": "",
    "format": "panel",
-   "title": "Prediction Markets vs. Sportsbooks: The Regulatory Reckoning",
-   "pitch": "Nationwide sports event contracts on prediction markets are colliding with state-licensed sportsbooks and league interests. This session examines the legal, economic, and competitive stakes as regulators, operators, and rights holders scramble to draw new boundaries.",
-   "why": "Georgia and Missouri are actively expanding legal sports betting infrastructure just as prediction markets push into the same state-by-state battleground.",
+   "title": "43 States vs. the House: The Federal Sports Betting Fault Line",
+   "pitch": "Forty-three attorneys general opposing a federal sports betting rule signals a constitutional and commercial showdown. This panel examines what a fragmented state-by-state framework costs operators, bettors, and leagues, and whether federal standardization is a threat or an opportunity.",
+   "why": "The coalition of 43 attorneys general opposing federal sports betting regulation makes the question of jurisdiction the defining business risk in the industry right now.",
    "questions": [
-    "How should regulators distinguish a prediction market contract from a traditional sports bet, and does that distinction hold up analytically?",
-    "What leverage do leagues actually have to shape the outcome of prediction market regulation, and how are they using it?",
-    "If prediction markets capture meaningful market share, what happens to the promotional bonus arms race we see from licensed sportsbooks?"
+    "What specific compliance and revenue costs do operators face when navigating dozens of conflicting state frameworks instead of one federal standard?",
+    "How do leagues position themselves when state regulators and federal authorities hold fundamentally different views on integrity and consumer protection?",
+    "If a federal rule ultimately prevails, which current market players gain competitive advantage and which lose it?"
    ],
    "headlines": [
     {
-     "title": "Best Georgia Sportsbooks (November 2026): Bet With Legal Georgia Sports Betting",
-     "outlet": "RotoWire",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUy14N3dROGJrVHAwVDFnSFJHYzdlWEV1WlNuOVRCdHlUNEsyLUNwYmFlbXNER3FfcWd6VTYtdjh6ZDFfS0R0MDhPdk9KNEZBVURyTmhFSXhqOUh3dzJqZWdVdG9IUXZYN3c2QkxWbWNxRU1GTEVqcndUaW5JMDZDZlpTSVBoZEJzUk41ck5WQWh6TXFuVENnTGJqX1B5eU9DejRRUUZmbUN5bFB5cWRuME5tMA?oc=5"
-    },
-    {
-     "title": "Missouri Sportsbook Promos: Get $5,115 in MO Sports Betting Bonuses (November 2026)",
-     "outlet": "RotoWire",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2VSSGlBckdXWVFYeHdsMTlsNF9SY2s2NVdsZW1TWVlDdEFDdFJnbGN6bkpEMTJDSDRWcEZnTXJEM01ZYkg1UW82ZkVsbTczTDNQMkpZb0ZVR3lyOFVqdFFmTEphUnUzVE1SeXRFZ3pCSlF4eEtkQ3lhcWtuRkhLT0x2ZnE4TnFNeUk2UHFQdmFrRHA1X1hpY21scFM2aXljeHVoTlpaaE5PaDBtUTZfYk5lekY0UQ?oc=5"
+     "title": "43 Attorneys General Oppose Federal Sports Betting Rule",
+     "outlet": "PlayPennsylvania",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVlOelNOZ2p2Zm5SaTNybHF4RWtqd21iWkZ5bUt1WWpVdTludUFZZXFPUXI2MzJkRWFCRDNmdjIyMlR5NW16WDlFS3Q2QmZJekdlQUZSTEg3WjJiOHlSMjFiTlRCYV9YYllCQ3MxQl9tYkctcHdXT3k2TkpKWGxlVmQ0dEpzNGt2LXNzTWFjN1JaV3BtRTdkdkZqaWtVYmVzYi1v?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-betting-2",
+   "id": "n-2026-11-23-betting-2",
    "topic": "betting",
-   "sport": "basketball",
-   "format": "research",
-   "title": "Fantasy Value in Flux: Measuring Superstar Replacement Risk",
-   "pitch": "When a dominant fantasy asset appears vulnerable to being overtaken, how do operators, analysts, and players reprice value mid-season? This session explores the quantitative and behavioral dynamics of positional value shifts in large-scale fantasy platforms.",
-   "why": "Live debate over whether the top fantasy basketball player has been surpassed highlights how rapidly market consensus can shift mid-season.",
+   "sport": "",
+   "format": "panel",
+   "title": "Prediction Markets Knock on New York's Door: Lessons for Every State",
+   "pitch": "Kalshi's escape from a New York restraining order, alongside underage betting concerns, illustrates how prediction market platforms are stress-testing state regulatory systems. This session analyzes the legal, analytical, and consumer-safety frameworks states must build before January.",
+   "why": "Kalshi's legal skirmish in New York and the looming January regulatory showdown make prediction market governance the most urgent near-term policy question in sports wagering.",
    "questions": [
-    "What data signals most reliably predict a durable positional value shift versus a short-term performance blip?",
-    "How do fantasy platform operators adjust scoring systems and trade tools when a marquee player's value becomes contested?",
-    "What can fantasy pricing models borrow from prediction market repricing methods?"
+    "What data infrastructure gaps allowed underage access concerns to surface, and how should platforms close them before regulators force the issue?",
+    "How do prediction markets price sports event contracts differently from traditional sportsbooks, and what does that mean for line integrity?",
+    "What can New York's experience teach the dozen-plus states still deciding whether to permit prediction market sports contracts at all?"
    ],
    "headlines": [
     {
-     "title": "Has Nikola Jokic been overtaken as the top player in fantasy basketball?",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/fantasy/basketball/story/_/id/50541753/fantasy-basketball-nba-analytics-top-players"
-    },
-    {
-     "title": "Sunday's fantasy basketball adds and NBA bets",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/fantasy/basketball/story/_/id/50560887/fantasy-basketball-tips-nba-betting-picks-today"
+     "title": "Kalshi Escapes New York TRO, But Underage Sports Betting Concerns Loom Over January Showdown",
+     "outlet": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTRfc2d6ODFZODlzekE0aC1ldDZMcGFEa184SUVtR0pxOC0ydkh0SjdObm5BVFE5b3FiUEVtTFBKaGhjYTZXQmthWm51Y0JOSXRhdE84NXR6VzBKajJRLVV1WUVJR2FHSUF0a1ZvZnROMmlHbU9rV2duTFVTbEZrZlVESTdkeF9vclQ1VDdyd0Q1ZGhWUUNTbTJwU2NITGd3QVBKM0pQNGlZajJaczZvS1NKYWdvS0JOYWtzS3NESmhudmFDUGhfelQ0cGJUQ0c3OVBjbGJxaFFMRkFwRlJR?oc=5"
     }
    ]
   },
   {
-   "id": "n-2026-11-22-betting-3",
+   "id": "n-2026-11-23-betting-3",
    "topic": "betting",
-   "sport": "football",
-   "format": "panel",
-   "title": "Conference Dynasties and Collapsing Odds: Betting on Repeat Champions",
-   "pitch": "When a conference's championship probability compresses over a season, what does that reveal about market efficiency, bettor behavior, and the underlying competitive data? This session dissects how sharp money and public sentiment interact around dynasty narratives.",
-   "why": "The Big Ten's shrinking odds for a fourth consecutive national championship offer a live case study in how dynasty fatigue reprices futures markets.",
-   "questions": [
-    "How efficiently do futures markets incorporate late-season schedule and injury data when pricing conference championship repeats?",
-    "Is there a measurable public bias toward or against betting on dynasty narratives, and can books exploit it profitably?",
-    "What role does media narrative play in moving futures lines, and how can analysts separate that noise from genuine signal?"
-   ],
-   "headlines": [
-    {
-     "title": "Betting buzz: Big Ten's odds of National Champion four-peat getting slim",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/espn/betting/story/_/id/49921234/college-football-betting-buzz-odds-updates-line-moves-spreads"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-ownership-1",
-   "topic": "ownership",
-   "sport": "soccer",
-   "format": "panel",
-   "title": "Building to Win: Infrastructure Investment in Women's Soccer",
-   "pitch": "The KC Current's NWSL championship validates an ownership model built on long-term infrastructure spending. This session examines how capital allocation decisions in women's soccer translate into competitive and financial returns, and what metrics predict sustainable franchise growth.",
-   "why": "KC Current's first NWSL title this week directly rewards ownership's infrastructure investment, offering a rare live case study in women's sports ROI.",
-   "questions": [
-    "How do you model the return on stadium and facility investment for a franchise in a league still establishing its media rights value?",
-    "At what point does infrastructure spending in women's soccer shift from brand-building expense to measurable revenue driver?",
-    "What financial benchmarks should prospective NWSL investors demand before committing capital to an expansion or existing franchise?"
-   ],
-   "headlines": [
-    {
-     "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50561566/kansas-city-nwsl-championship-final-washington-spirit"
-    },
-    {
-     "title": "KC Current brings home NWSL Championship — a first for the young franchise",
-     "outlet": "KCUR",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWNVR2t2TkZHYUVPSGxxZjAxMjZuUWVjRGQycXVEUGVoX01PVlFiNWZXQU1iOWswZlBQZ3N1UHlEN3ZicnlYVGwtLURKb2lkWlZXX0YwM2d0QUhfTHMtMVd3R0hVWUVuWmU3cVhVeDlkSWFId2tyMmJOY3dybUVzV3Vn?oc=5"
-    },
-    {
-     "title": "K.C. Current’s first NWSL title rewards ownership’s infrastructure investment",
-     "outlet": "Sports Business Journal",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYkhlOEJUZWFXUFRvd1ZScFp4dnU5bDVDc3FpbDdCVEFkZWpWbVN3azBSejVPdUlnZ3dPVDY1cHo0SGlWQ1VZaXhjY1lYaTlMa1hISXZLejlyMmdvSENLdkdSV0x3TEhwUG56Y2lQa1hObnJCRFBTaFVnalJ1SHNzaV9KY25tZUtnUTVWNUREWWZYMUo5dktkbGZVSjBRZ1VSYkVSQWg0UW9HQzRUWDAyVzFUTkl2Vm55R2p4cms1RlZHNnBrMk1LNUpDbXI?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-ownership-2",
-   "topic": "ownership",
-   "sport": "soccer",
-   "format": "fireside",
-   "title": "Women's Soccer Valuations: Pricing Growth in an Expanding League",
-   "pitch": "NWSL expansion, relocation signals, and new league rules are reshaping franchise valuation models. This session brings analytics to bear on how league-level policy decisions and on-field success interact to drive or suppress team values in a rapidly professionalizing league.",
-   "why": "The NWSL commissioner's championship remarks this week addressed expansion, relocation, and new rules, each carrying direct implications for franchise pricing.",
-   "questions": [
-    "How should analysts adjust discounted cash flow models when a league is simultaneously expanding and relocating franchises?",
-    "What role do league-wide policy changes, such as new player eligibility rules, play in shifting the competitive balance that underpins franchise value?",
-    "How do women's soccer valuations compare structurally to early-stage men's league valuations from prior decades, and what does the trajectory suggest?"
-   ],
-   "headlines": [
-    {
-     "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50561566/kansas-city-nwsl-championship-final-washington-spirit"
-    },
-    {
-     "title": "NWSL commissioner’s championship address: Growth, relocation, ‘Rodman rule’ and more",
-     "outlet": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa2ctY29icml1UEJjV2JVSVdwT2tzOEphTVRiT05EdklzeWstOXVUcGNLOXF4YXV0bGR4LU5JWWZtbnVVNExreHdvNUNpcGp3UmM4SUdvTlU1bE9NV2xrQklBRlVhT3U5Mm13SU5vbFFNUTBMb0R6XzRrMmlpV0xqSngxem1QQ09RNFR5MGNPeVg1NUczNWNRcw?oc=5"
-    }
-   ]
-  },
-  {
-   "id": "n-2026-11-22-ownership-3",
-   "topic": "ownership",
-   "sport": "soccer",
+   "sport": "",
    "format": "research",
-   "title": "Capital Stack and Culture: What Women's Sports Investment Gets Right",
-   "pitch": "Private equity and new ownership models entering men's leagues face questions women's sports investors have navigated for years. This research session analyzes ownership structures, capital deployment patterns, and performance outcomes across women's sports to surface lessons for the broader alternative asset class.",
-   "why": "KC Current's championship win this week provides a timely proof point that patient, infrastructure-focused ownership in women's sports can produce both titles and financial returns.",
+   "title": "Billion-Dollar Handles, Stubborn Borders: Why Texas and California Still Sit Out",
+   "pitch": "New Jersey's sports betting handle topped one billion dollars in a single month while Texas and California remain on the sidelines. This research session models the economic opportunity cost of non-legalization and what analytics can tell legislators about revenue, cannibalization, and consumer behavior.",
+   "why": "Record New Jersey handle figures arrive the same week that Texas and California legalization guides circulate, sharpening the economic argument that holdout states are leaving measurable revenue on the table.",
    "questions": [
-    "What ownership and capital structure characteristics most reliably predict both competitive success and revenue growth in women's professional sports?",
-    "How do institutional investors currently price the reputational and sponsorship upside of women's sports ownership relative to hard asset returns?",
-    "As private equity increasingly enters men's leagues, what governance and investment-horizon lessons can be directly imported from successful women's sports ownership groups?"
+    "How do analysts isolate the revenue that large-population states like Texas and California are effectively exporting to neighboring legal markets?",
+    "What does New Jersey's handle-to-revenue ratio reveal about the sustainability of current tax and fee structures for markets that legalize next?",
+    "Which modeling approaches best capture how legalization in one large state shifts betting volume and operator investment across the entire national landscape?"
    ],
    "headlines": [
     {
-     "title": "Kansas City's NWSL title shows investing in women's soccer pays off",
-     "outlet": "ESPN",
-     "url": "https://www.espn.com/soccer/story/_/id/50561566/kansas-city-nwsl-championship-final-washington-spirit"
+     "title": "Is Sports Betting Legal in Texas? Laws and Top TX Sportsbooks",
+     "outlet": "Los Gatan",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1dG1HSmZTVXQzMFd6UUlZb1lDNW9nRlhFU2lPV1p6MHd1VGVNX0ljc3lfc0xrbFZFNWNIZjEtam5sN1hrdzV2Nnd1akFFZl9rMGFkTmdMdWhFam9rT0JPS05uQU8?oc=5"
     },
     {
-     "title": "KC Current brings home NWSL Championship — a first for the young franchise",
-     "outlet": "KCUR",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWNVR2t2TkZHYUVPSGxxZjAxMjZuUWVjRGQycXVEUGVoX01PVlFiNWZXQU1iOWswZlBQZ3N1UHlEN3ZicnlYVGwtLURKb2lkWlZXX0YwM2d0QUhfTHMtMVd3R0hVWUVuWmU3cVhVeDlkSWFId2tyMmJOY3dybUVzV3Vn?oc=5"
+     "title": "Is Sports Betting Legal in California? A Guide For CA Players",
+     "outlet": "Los Gatan",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UUnp5SHlfTGQyQWdlWUtBWDl3Rm1iY0ZJMHRDeXFkVmhQMmNaNUFBOG5wRGppZ2RXazBVV1NyWVpQMUstUkNLdi0tUjdfbGNyTlBhUWcxTXFFNllNNWdMWE0zS213ckV1d2RJ?oc=5"
     },
     {
-     "title": "K.C. Current’s first NWSL title rewards ownership’s infrastructure investment",
-     "outlet": "Sports Business Journal",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYkhlOEJUZWFXUFRvd1ZScFp4dnU5bDVDc3FpbDdCVEFkZWpWbVN3azBSejVPdUlnZ3dPVDY1cHo0SGlWQ1VZaXhjY1lYaTlMa1hISXZLejlyMmdvSENLdkdSV0x3TEhwUG56Y2lQa1hObnJCRFBTaFVnalJ1SHNzaV9KY25tZUtnUTVWNUREWWZYMUo5dktkbGZVSjBRZ1VSYkVSQWg0UW9HQzRUWDAyVzFUTkl2Vm55R2p4cms1RlZHNnBrMk1LNUpDbXI?oc=5"
+     "title": "NJ Sports Betting October 2026: $1.23B Handle, $116.3M Revenue",
+     "outlet": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2FpNDZ0aUdOVzBwNXBBSkU0M0pwb0xFNGJaU0xlN1d3Y2puQ1psWHF2bGNDZWpnRW1LVzlvMzYyTldlSU9SUFhNWjhJU1E5MHAxMmZzSGUxckxlaV9VU1IzUGcyNDR3V0pmalRaOEhUeFZ4M3FEOC1yUWg3VVdNMUcyajVtVHJFOWNHZ1I2Z2lBb2pJMWc?oc=5"
     }
    ]
   }
