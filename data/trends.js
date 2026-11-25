@@ -1,19 +1,19 @@
 // Written by scripts/fetch-trends.mjs (daily). Headlines, outlets and links only.
 window.SSAC_TRENDS = {
- "updated": "2026-11-24T20:32:04.012Z",
+ "updated": "2026-11-25T19:49:32.593Z",
  "sources": {
   "espn": 11,
-  "google": 18,
-  "headlines": 676
+  "google": 21,
+  "headlines": 796
  },
  "topics": [
   {
    "id": "global",
-   "count": 124,
-   "fresh": 53,
-   "outlets": 93,
-   "ruleMatches": 122,
-   "score": 466,
+   "count": 137,
+   "fresh": 43,
+   "outlets": 92,
+   "ruleMatches": 132,
+   "score": 485,
    "sports": [
     "olympic",
     "soccer",
@@ -21,770 +21,692 @@ window.SSAC_TRENDS = {
    ],
    "headlines": [
     {
-     "title": "Leaked FIFA documents show Infantino’s 96-year private equity plan for World Cup",
-     "outlet": "WTOP News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObThrTXFMTFNhUFU0V2xkcFpEQ2dPZnF3dVQyeUN5YWhJcXdKQ1pEZklLRldybFlFWEVMazRzY2otS21UbXZyLTM5eEdmU1ZMWUlIQ2kyRm5PQ3pJeHpKWHJfZlhxNVpyakV2NkRSalhHdlJrc3NIcUFXZXJKbTdaaHZXRGtjb2lfNG9LWXhvbGhXdVBnY2F6Yk52RTlCRnVYSnNKSXBsYWduWldSNFVOeXB3?oc=5",
-     "date": "2026-11-24T20:27:31.000Z"
-    },
-    {
-     "title": "World Cup Momentum: $10 Million For Youth Soccer Across New York",
-     "outlet": "101.5 WPDH",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTd0p4emU4MGpPNUpsMDQ0VXpRNW45YVhweVNGMEljd0pMVlFWaXNWZUc4Q0RLS1N4RGxYMzlyYmNVOHBjMFVuVDEzaTlhanZWZlZxNG5STm1Cc0RYWUtN?oc=5",
-     "date": "2026-11-24T19:33:51.000Z"
-    },
-    {
-     "title": "FIFA has reportedly narrowed down the U.S. media rights for 2030 World Cup to 2 final bids",
-     "outlet": "USA Today",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd0R5Z2VnVmZmblEtUW5MRzItRzlMcWRKdTVRSEY0UmJURXFLemotdTN4N3dkM1VjTnpWeFlaY281MDh1eGNlSHVsbThZQ1JBa091WTkweG5wNVYyRTl3ZU5RMzU3Sml3bzNIMGozdlpVUHVHd2xoV3V5bnpWVUVWTGJfWTBZRHpWd19UbnZWLUJtaXBHYVh0dUdtYWg3R0l4eDVKeTJDcFRrTFRTMnpwRFk5dVV4TWZsZmxvTU5FWmNpREFGS2w1M2pjaHpFd2FqR3pR?oc=5",
-     "date": "2026-11-24T17:45:00.000Z"
-    },
-    {
-     "title": "Diana Flores Joins Nike Ahead of Flag Football at LA28",
-     "outlet": "JustFreshKicks",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TejhqWmFSMVlMMU1UNzBKVkw5N1lVb1dabTNKVjQwbHlpUXlNMl9aM1NVU2lYTFRzMUswYXZjcmtoMjZsNV85cE1jVTh0Y3Y2M1ZtQWR1VHJXWEU2SnlYbUJNWEo0SWRySmhr?oc=5",
-     "date": "2026-11-24T17:39:24.000Z"
-    },
-    {
-     "title": "Jiangsu win Chinese Softball League 2026 title as Shaoxing looks ahead to LA28 Olympic qualifier",
-     "outlet": "World Baseball Softball Confederation (WBSC)",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTV9lak5IY2Ztc1ZmVTZDM3hCVHlydXRRdzZ6MHo2ZXdpenpyVm16bnFBSFM1ejYwa1hnbTMzb21Ec3N5eXpJTjRvYkpiMFpLbjNnVTdOLVZsc2ZDeWRHQlQxWlN1UTZEOUF4eWw5MGg3eE1GWW0wN054dDVGY0pDazVIeWltNmNsYm12MXFETm4xOFJ4cTA5TXVZTk5yQXhqR2NNUUpLRHVqZThZcmZLNEl0S2NJQjUyenM0Z2hIeS1aWkk?oc=5",
-     "date": "2026-11-24T17:36:33.000Z"
-    },
-    {
-     "title": "Dwarf World Cup 2026 match ends in chaos as Colombia and Morocco clash in a wild brawl",
-     "outlet": "https://latination.com/",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11d1JJSkxOajBwTkNaLU01WDBDdnFHOW1HVE84Y1lIQjh6TUgtSGtWcWlqdzBzRTl6QlUxdUg3NlBlc0RiTGxkUTAzbTBRaFNYcHh1cmNtX2VabzdaMUxYbUZmZVJmb3lCZ0hnRzZZSEhITzMxR1VXbXFuQTdXZw?oc=5",
-     "date": "2026-11-24T16:41:15.000Z"
-    }
-   ]
-  },
-  {
-   "id": "women",
-   "count": 107,
-   "fresh": 41,
-   "outlets": 51,
-   "ruleMatches": 104,
-   "score": 379,
-   "sports": [
-    "soccer",
-    "basketball",
-    "hockey"
-   ],
-   "headlines": [
-    {
-     "title": "WNBA Defense Week 2026: The Rim Protectors",
-     "outlet": "WNBA",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UnpqckVXOFoxWEdPcHdTdE1mbEg5aHJ1c1FMYlJ3VFZObWI2YWZtMVN2bXgtRE1xNkNwNkpQRXB4OW00Z2M1VkJIRF9UblhCMmpLV19oRE05OUpBb19LQ01iWThjYXBEZlhRVnp3?oc=5",
-     "date": "2026-11-24T19:22:51.000Z"
-    },
-    {
-     "title": "A MOMVP, A CHAMP CELLY QUEEN, AND MORE KC CURRENT CHAMPIONSHIP STORYLINES",
-     "outlet": "NWSL",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQmw1XzFTYXNlcmhHaTRfdktoM2pVbkJSbHpxWmhiMm50VHlwcTEzSnFsRDlTTjdwRGxXdEI0b3VqMEF3MWZUa2Q4bFFmNVNoNDhobEtuNks5QlVGdzZkWFJuSmx0aWJnV0taZE5TWW1pQ2FodWdJTVQzb19FdERTcDcwSHliekVtQnZWTVkwWk9hMnM3dWdxTzA1S0VkaTdvczJkQnNR?oc=5",
-     "date": "2026-11-24T19:22:34.000Z"
-    },
-    {
-     "title": "Detroit Pistons honor Shock's 2006 title, build momentum for Tom Gores-led WNBA return",
-     "outlet": "NBA.com",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZGgwVGZmcE9wSU1mZ2x2TXNUTk9jZGFnU2x5Z0FGU2tRZUx6czc2ZXhZUVl0eXlsNjM2QVJyTW5CTjNDTUlvQ0tiSjUwMkMwRTVqaXZ5VDNBVnRWcFZ1c3A5bE1RektZU3JYRzlkRzRfaDVmbWpyNVlDbUJyVVZkRkVLZWlsMWlFM2hsbDlGY1BMS3pqWkVncS11LW90cXJ6Wmw3ckM0NHZXUURGdEp1bW42bFY1QkIx?oc=5",
-     "date": "2026-11-24T19:18:00.000Z"
-    },
-    {
-     "title": "Six Asheville Women's Soccer Players Earn College Sports Communicators Academic All-District Honors",
-     "outlet": "UNC Asheville Athletics",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNGR4UVgzaE1mMjQzRHpHRkhUNVM0Z0c1cFRramVRNGNyOXE3azVTaVQtYVM5d1poSm9EZTE2eFJnMlFkTXJzT3B1ZlVGQ1JXVFBIVGp1Y3B5OUhEWG5JTXlfbHBuME9DY0JFQ3JqUlFpS2I4MzExRHZlVWFFWUJfeGxJQXMxVUNTS0NCTXY1MlF6SUJNUHRGcFg5SVNlLXduZTZMZXBuSjRfLU9vdHppYjFjNFJTd3BLVDB1Q2cxcnUzQWVZelRoOVkwd2xBWlU2c1Z4YjhR?oc=5",
-     "date": "2026-11-24T17:58:56.000Z"
-    },
-    {
-     "title": "Six Hawks Named to College Sports Communicators Women's Soccer Academic All-District Team",
-     "outlet": "University of Hartford Athletics",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzFPMWhkWnNFaUZ6R2xHT0RoNmZSTW1OUmJqQmNfd2xWUHNrejVsZzRnVW1kU1RTSnZ5TUlqUjgwQ05qY1Ewc2EtU0Z1enBkNUs2TnduX05qRFpSNlo4bDgzLXdKSXdvMHhLVmVWR3Y1b1A1bUkwZVpmQ21handKRE9hRnR3b0tvdVFQSnJ2NWF4a0JoNW9hQnVJSFZ6RXg1QWZPRy1mdnB6WnNuOXFMR0d4cTNJQjVoUnZsUHdpME1MX1p2VXZBOXV0X1Y4dkVM?oc=5",
-     "date": "2026-11-24T17:02:56.000Z"
-    },
-    {
-     "title": "LIVE: Kansas City Current hold rally to celebrate NWSL championship",
-     "outlet": "KCTV",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFV2b2E3MFF3MDJtQlFvTUVpX1hEZzRsSE9idGttdjNKLWdkM1lGb3RrZld3T2QwTUlTNHVDZDNEVmk0bUVidjdqQkVJdWhsR054U003a3oyWEM1eVdWT25rcFA1b2p4SHVWbWpOMlpSZEd1UEphZngzRnVNNWVqM2JVVWJlTzFtOVF5Vzh5SVIzSGlwbjBfcFQtenUxQQ?oc=5",
-     "date": "2026-11-24T16:43:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "betting",
-   "count": 97,
-   "fresh": 44,
-   "outlets": 42,
-   "ruleMatches": 83,
-   "score": 314,
-   "sports": [
-    "football",
-    "basketball",
-    "olympic"
-   ],
-   "headlines": [
-    {
-     "title": "How to Use Prediction Markets for Thanksgiving NFL Games",
-     "outlet": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTdhcnBmbVhITnhzV2c5NkE3STBSUUJZYTcyZDNJTHNGRENldEhSNnRUcGpic09oeVBDSm11Y1NsMmlnU19IOV9qT3VMalhQblhqWmJTR2ZtQVAyZk9oQnFfcVNUZU1yQ1A5SXdjb3gyTXpKR3Bfbkt1QnB2UWQ1OExNYWtFSHl5YkRpZ3o0ZVQ1dXFFRTBVWXdOdG5MUkpIMHc?oc=5",
-     "date": "2026-11-24T19:54:00.000Z"
-    },
-    {
-     "title": "Utah Drops Criminal Charges Against Kalshi Co-Founders",
-     "outlet": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnR2WmppRHNrNV9tbkZsOFBENERYLVo0RHRsdkJtbFhqTXdhZGRiMUNmcTRQR3c1WnJXaGVuMHpfVGZYT1otYVZHWWxsOG92ZHE5SjRHRkdmeVZ5cUZ6SEx0MG9FWXJnMlFZUTMwM0VfSVlHME53Q0Y2SzFHalVZVGtCNnZIU01lNmZEWDZqZmNkWHprdzh0OFA1OGFNdmJBN3NNQzl3?oc=5",
-     "date": "2026-11-24T18:07:00.000Z"
-    },
-    {
-     "title": "Best Ohio Sportsbook Promos (November 2026): Claim $5,000+ in OH Sports Betting Promos",
-     "outlet": "RotoWire",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR29oNWFYSjVZTkdleENwUUR3al9CVXh6WXFQaVAyWS1kUlYteVl2ajl6dGVXYWJ1a1VzX1NkUWMtalJhQ3VnbVBtWHVNdmRjRUlPNXVQMERTRWVIMU9xZGJ5LXRHR1A5aVFndnBaVFJZcnVjUV9GZmlUMDNYVkExZVZOUE1UN1BXcl8xb2d2VERtOURZUEx5UFE2Vm4yTDhpaHF0VDRkSlFlXzNFbEE5TmdwZXZSeWdZ?oc=5",
-     "date": "2026-11-24T18:03:00.000Z"
-    },
-    {
-     "title": "Sports Betting Line",
-     "outlet": "Oskaloosa Herald",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVM1cG5NbzJKSHRxWWFsbThHX2pyX01xYV9JWkRLQjN1eWUxVHlQdGVHd1FwZmpnN3liX2hIR1ZDazl4Xy1RLTdoMWFKLXI2V3RPVVhQWExZdURaYmlCem9BNGJzODBRYXQxaDFQQ2RybS1wZVRnYVBVcjR4X1hKcU1NaUVmY21ITmphdEV6WXpucDIxLUV0SUM2QmRCWUV0a3ZPMDUyOXBxd2Ns?oc=5",
-     "date": "2026-11-24T16:41:18.000Z"
-    },
-    {
-     "title": "Mass. man pleads guilty to running illegal sports betting ring",
-     "outlet": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUpWZldienVscVFBS2RFeVNUUFpTQW9Mamphbjc2dG5zWEVOcHRheUxWUkV3cTVIR3l2bWFqTEFNWnU1SzZacEtwX0h1TW96UDhZY2RUX0ZWSEViVVg5MFE4amNuS3d4Q05GbUxDNU5zcDBQZFRRRFRqakpUSGF3QW8yZldZWnZsTExNMw?oc=5",
-     "date": "2026-11-24T15:20:08.000Z"
-    },
-    {
-     "title": "Kalshi Temporarily Restricts Sports Event Contracts in Utah",
-     "outlet": "Sports Betting Dime",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3lQQXFOdUVQeFMxNlhEUmhsUU5fbFU4MTByekhDS1NPV0tOOEJWeWdTbjhZaXNaS3QyNW1iMXhQcVFVOGJWMlg4VVd4bVRYU2JDY2JfNkM0OGJHY0VadHY2REtnY0ZiZ1JMcmgzV1QzeG1mOWhsbFE2TEdCUnRrMjNEVkdaQjhnRlZpZzBOQmNGUTNQYTFmaUtVWTdFdi1hY1g1UEUtS245RllJ?oc=5",
-     "date": "2026-11-24T15:16:00.000Z"
-    }
-   ]
-  },
-  {
-   "id": "roster",
-   "count": 114,
-   "fresh": 68,
-   "outlets": 50,
-   "ruleMatches": 69,
-   "score": 300,
-   "sports": [
-    "soccer",
-    "baseball",
-    "football"
-   ],
-   "headlines": [
-    {
-     "title": "NBA Trade Rumors: Brandon Ingram to Lakers, Celtics, or Timberwolves?",
-     "outlet": "Complex",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0NFcDJXQU1XY1pxd0dFMWN2WkFadkdEc29zZnhYZVlzQ3lBbWpHNFh4TUZOQ1o1eHFSbUdBY0djWFE2cjBGRVRSdDNTTjNkYlNXYWNIT1dicUV2SXJmdTNBa0pwUTh3YnBwYzBVUVMyYnYwb005cmtpRTNEMkVldGRfTDhOUDJhY01TTklMeXQyMGx0Z3lPYXRJUnVjU3JvS2gw?oc=5",
-     "date": "2026-11-24T20:00:58.000Z"
-    },
-    {
-     "title": "Insider Hints at Rams’ Puka Nacua Free Agency Decision",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0UzWWJoZlhCWlVVaUdyZHMyWmg3MElIdmVwMnk5elJzVW96S2JkUUdjZERPM0tyNkJlXzF3aHFLbWpncG1wWXBLLXFpTXVSU2FibExEOEdlTUoxeHVvaHBKR0NtU2ZPdGZ0QXVDWnBVbFEzZ3lfWVpwTkhyamJDUjNpVXo?oc=5",
-     "date": "2026-11-24T19:38:37.000Z"
-    },
-    {
-     "title": "A MOMVP, A CHAMP CELLY QUEEN, AND MORE KC CURRENT CHAMPIONSHIP STORYLINES",
-     "outlet": "NWSL",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQmw1XzFTYXNlcmhHaTRfdktoM2pVbkJSbHpxWmhiMm50VHlwcTEzSnFsRDlTTjdwRGxXdEI0b3VqMEF3MWZUa2Q4bFFmNVNoNDhobEtuNks5QlVGdzZkWFJuSmx0aWJnV0taZE5TWW1pQ2FodWdJTVQzb19FdERTcDcwSHliekVtQnZWTVkwWk9hMnM3dWdxTzA1S0VkaTdvczJkQnNR?oc=5",
-     "date": "2026-11-24T19:22:34.000Z"
-    },
-    {
-     "title": "ETSU QB Mims entering transfer portal",
-     "outlet": "WCYB",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWJpV2Z6bGd4RzVzVkV5bWk1eXdXU3VmVnlsZm5yWnlnaXMtVnAzanNYVzF2MW1hMXNWcnZlckpXN0o2OXN3VHVYZXgySUpHRElHbzJGaHpLTFRILXJlLW4tRlVJZjJzVWUwQmtJYlpmWFpsZ3ZRZG1Fcy1rX1UtQQ?oc=5",
-     "date": "2026-11-24T19:04:41.000Z"
-    },
-    {
-     "title": "Utah Drops Criminal Charges After Kalshi Exit",
-     "outlet": "Front Office Sports",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUW1oT2lCSHJJSml4N2V4U19oUFRqY0ZoQUJwTmM2bXJsX1F5UEtrT091UTV5cEduMWV4UW03UDl6OGxXMUt5bVp5ZV9SZWJ3ZUVTeHcyMWRsQ3gzZGxJR09Ca1hUbTBaTzE5TlM5V2NjcDBiTUl0elZjb29HTUVlbkV3enBXSEVBa0QzcQ?oc=5",
-     "date": "2026-11-24T18:54:46.000Z"
-    },
-    {
-     "title": "ETSU QB Mims planning to enter transfer portal",
-     "outlet": "Johnson City Press",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3lwckxyMWhEQnZpVDdBUVd2b0c5X0RMZ3lIM1laR0w5ZENJMWhYcDF6QUtYX3Y1ZE9UTmUxbERER3VRLUlvdUgzaGU3MUVHTmZHNE4zYkRkTjlKQzNlZU5fV3VKWHJhRnlMWks2LTZXcS1hVmYtbzFPX3IySndSbVRybkVqTFpNOTUzWm4zN21rdw?oc=5",
-     "date": "2026-11-24T18:40:20.000Z"
-    }
-   ]
-  },
-  {
-   "id": "college",
-   "count": 83,
-   "fresh": 50,
-   "outlets": 55,
-   "ruleMatches": 74,
-   "score": 300,
-   "sports": [
-    "football",
-    "tennis",
-    "soccer"
-   ],
-   "headlines": [
-    {
-     "title": "House Targets Vote on College Sports Bill for Week of Dec. 8",
-     "outlet": "Front Office Sports",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXVrdlprd1lodnptQXcycFRYdVRUbDY2and3WmF1RUdyNnVTM21FMWFXejNvbkFDVndyeGdRQXU4M1dRUDJEZnZJaXlEd3VlcmVSbG05NE5UZVc2MVV4OWxWUE9wSk5IeGhzQ1lwODFWOWVzY0dPT3E3cGtKMlpHZ0Y2cjQwWmItb0Y1ZFpKc2FGVmxfd1RCSlFrYzlFZnFQeUFfag?oc=5",
-     "date": "2026-11-24T20:21:17.000Z"
-    },
-    {
-     "title": "Six Tabbed Academic All-District® by College Sports Communicators (CSC)",
-     "outlet": "Duquesne University Athletics",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHZISXhFQWsxVEw5MXZkbTlvVTNKelpwWXpQZlVIQ054eWlnM01WTlpnWVRvZWlXZlV5RFFRY3dISmVkRWh0NTlsdEZtUzIxcV9yT3lWMkw4NkRFMktKaXlBdTNXd2FYd2VzMkk5RmRSa3g3cmVZUGplb3J0RHN2OEdDemhTdjU4RlJILVdpS3ltMDZ4bDFoeGtxQ3RmdGpvOTZ3SnFLYmowVlRJNVlkZUhvc1NMUQ?oc=5",
-     "date": "2026-11-24T19:36:15.000Z"
-    },
-    {
-     "title": "NCAA sanctions Liberty over tampering with two players before entering portal",
-     "outlet": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVFXeTdGaHJQWU96dkE3cFdwMXlpNkJuelFxN1NqRV9LNWJtQmxteFlITVRYY3REeS1BY0lyUE1HeWhfSlE3c1hHWFljaFFkaG9TTi1leEJMT0ZYaVo4OTRONnFuTHkwVUYxS1ZBX1Q3TkZELUJYSUFnMWY1cXNNTEp5cTVqbGFwd0o3V3BuZlFWelRWeXh5cG1hdFFnaEc3MkcxcjNhRXY2Zw?oc=5",
-     "date": "2026-11-24T19:34:00.000Z"
-    },
-    {
-     "title": "Protect College Sports Act: Timeline revealed for consideration on House floor",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmxUNDR0cEJDWHdZQ1FvWENtejFrdWpoZUM0NlVJZmQxek5HazRacGVuc2dGQ2ZfMnpMYlktUGRpazhLejJuakpUamVzdEttbkRKTmN5R1hybG52RVhzeVVEOUpJNHlycVplZ0ptVnBhaE9RU0FxLXhEdVp0aUJmaTh5ZWhaSldpU3ZaeQ?oc=5",
-     "date": "2026-11-24T19:30:21.000Z"
-    },
-    {
-     "title": "ETSU QB Mims entering transfer portal",
-     "outlet": "WCYB",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWJpV2Z6bGd4RzVzVkV5bWk1eXdXU3VmVnlsZm5yWnlnaXMtVnAzanNYVzF2MW1hMXNWcnZlckpXN0o2OXN3VHVYZXgySUpHRElHbzJGaHpLTFRILXJlLW4tRlVJZjJzVWUwQmtJYlpmWFpsZ3ZRZG1Fcy1rX1UtQQ?oc=5",
-     "date": "2026-11-24T19:04:41.000Z"
-    },
-    {
-     "title": "ETSU QB Mims planning to enter transfer portal",
-     "outlet": "Johnson City Press",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3lwckxyMWhEQnZpVDdBUVd2b0c5X0RMZ3lIM1laR0w5ZENJMWhYcDF6QUtYX3Y1ZE9UTmUxbERER3VRLUlvdUgzaGU3MUVHTmZHNE4zYkRkTjlKQzNlZU5fV3VKWHJhRnlMWks2LTZXcS1hVmYtbzFPX3IySndSbVRybkVqTFpNOTUzWm4zN21rdw?oc=5",
-     "date": "2026-11-24T18:40:20.000Z"
-    }
-   ]
-  },
-  {
-   "id": "youth",
-   "count": 102,
-   "fresh": 36,
-   "outlets": 85,
-   "ruleMatches": 73,
-   "score": 298,
-   "sports": [
-    "soccer",
-    "baseball",
-    "olympic"
-   ],
-   "headlines": [
-    {
-     "title": "World Cup Momentum: $10 Million For Youth Soccer Across New York",
-     "outlet": "101.5 WPDH",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTd0p4emU4MGpPNUpsMDQ0VXpRNW45YVhweVNGMEljd0pMVlFWaXNWZUc4Q0RLS1N4RGxYMzlyYmNVOHBjMFVuVDEzaTlhanZWZlZxNG5STm1Cc0RYWUtN?oc=5",
-     "date": "2026-11-24T19:33:51.000Z"
-    },
-    {
-     "title": "Floresville Little League gets contract extension",
-     "outlet": "Wilson County News",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFl1QmhKazU2aDVxWjduNTB3Z0tWdVotWkxNRGZnMVVXYWZQbjh6dTR0d0NnNEdoeTNuSzFvdTIwbGRzVG9NTmlyZ04tZVpkRktadXEybDdPcHZ1MXVHRnJGa2Vma3JiWDVUUXJWbmQxTnZyTkRnUWxKMVFoVi1iREFXVHJfUTdKbnRNcEt3TVc0MVFLWVFj?oc=5",
-     "date": "2026-11-24T18:06:38.000Z"
-    },
-    {
-     "title": "Bensonhurst soccer field to get $75K upgrade through state youth sports initiative",
-     "outlet": "Brooklyn Paper",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwUE9WU2NCNkVsTTVodkhrbWItaFEzQk1LUnFvR0pfMVNHY1kxYUU3SF9vOERoZmVmTWJZbkdZX3QtQXhtR2xLRnY4VERDcHQza0haTVExWnB5TlVEbTBOM1VFcG9zU0RnYk9BR0VSWGhCNXo5bHc?oc=5",
-     "date": "2026-11-24T16:56:40.000Z"
-    },
-    {
-     "title": "Eala named National Youth Sports Ambassador",
-     "outlet": "Philstar.com",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHJjR1BuSGZiNTRHOW8xcXUtWnF5NXczUkRRenpOVGlwcXRSZlcxSVhtYk9sNUViX3FFVmowVmo0ZDR1VFJTZ0N5ZmJMWktNYlJWSUQwd1ZVX3pTNWlaU1hKcmFLYWxvWHR0am56Z2lLV2h3X0FxS1Itd19WazFxTVZIZkg3dEo5MEJQaEczWkhrZFdoS0RBTTNB0gGgAUFVX3lxTFAtR0ktOEZWZXFJSjlsNl95WkZVZldaMEFjZ2dRYWRwVm9VbEd3bmRuYldyeXlqcGU1NEdGRllLQTNiX0VZUlFvcnNvMTVQZmVtc3NVczhVaTQ2MFVhNDRNTWZiVnJoSXdSVXZpdEJwWlNkTEJIRElEeURpTF9VbU4zY1ZZMWJuQ0lObFdlVks0RnUyQ0JoZjZRNUhvNTFGa3c?oc=5",
-     "date": "2026-11-24T16:00:00.000Z"
-    },
-    {
-     "title": "Perfect Game Middle East Expansion Names VICE Baseball Country Partner Across Four Gulf Nations",
-     "outlet": "Youth Sports Business Report",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnZqOHpYLTJqQnBmbTBhN2ZET0p5VHppZVFfRkxLbmZjX2VWZ0VCWm9nREdNUlM1RzBVOHJqWll5VG1neVVCbDlZZnM1ZTBySV9uZGlSN0ZZRzBYWTFvTkVDbmU3WE9hcUlwSVYtWEwyMDhfR1FMTGpyYjJORFVXeDJrNGU4Q1VFXzR2MzJCbHJjRmFqOUE?oc=5",
-     "date": "2026-11-24T14:59:40.000Z"
-    },
-    {
-     "title": "Perfect Game expands youth baseball platform into GCC",
-     "outlet": "Dubai Eye 103.8",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDJ5MV9TNXpYejJBRXlia1IyT251Z1NFNUh2ZEczY0pCa2VfdE9RYmk1Z3kwZUlFcC1maVdTSm04N25tMkF1SHdydkkwTnVCTElsdEJ1MmI3WGJMYWVfYVprMVA2bzJ3ZktjWGU5M1VDQlpzbVBReEtXdXk2T2JITU9HcGhSWUlXLTF0bTRQT3VXRVpNbHVWZ2wyUQ?oc=5",
-     "date": "2026-11-24T14:19:04.000Z"
-    }
-   ]
-  },
-  {
-   "id": "ownership",
-   "count": 73,
-   "fresh": 28,
-   "outlets": 56,
-   "ruleMatches": 60,
-   "score": 236,
-   "sports": [
-    "soccer",
-    "baseball",
-    "basketball"
-   ],
-   "headlines": [
-    {
-     "title": "Leaked FIFA documents show Infantino’s 96-year private equity plan for World Cup",
-     "outlet": "WTOP News",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObThrTXFMTFNhUFU0V2xkcFpEQ2dPZnF3dVQyeUN5YWhJcXdKQ1pEZklLRldybFlFWEVMazRzY2otS21UbXZyLTM5eEdmU1ZMWUlIQ2kyRm5PQ3pJeHpKWHJfZlhxNVpyakV2NkRSalhHdlJrc3NIcUFXZXJKbTdaaHZXRGtjb2lfNG9LWXhvbGhXdVBnY2F6Yk52RTlCRnVYSnNKSXBsYWduWldSNFVOeXB3?oc=5",
-     "date": "2026-11-24T20:27:31.000Z"
-    },
-    {
-     "title": "Yankees Re-Sign Tim Hill To One-Year Deal",
-     "outlet": "MLB Trade Rumors",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORksxcWlnQVdMbVpVbFNMRklhVDRRUTlfM0lvb3pRRWJDTm5tNjFLUFJiWUdoRkZxS1VTbnF6YkJpNHBUS3RjNXJDbk1VcGJ6OHhRd0UwUE1tQ1hueW9LV0Itc2pyNllYMjl0eE94VURHR2VjVkN1RzVZdUlYRzNyNllKNmJlTGVGRTBncVdn?oc=5",
-     "date": "2026-11-24T18:29:46.000Z"
-    },
-    {
-     "title": "Private equity deals in sports doubled in the past two years, Apollo’s Torsten Slok says",
-     "outlet": "Fortune",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWZvZFUyY1Y5VmZWSDZMakI1V29Fdm1zYTlSMG5HNXVFelFRTzZzcURwbmE3ZGtmUk1ZaGFpR2ItdmxXYl83QjZWZHNvUFQwRHFhVkpUSVk3RXpHQmxvdy1VVEhYUGJTNEctaVVaTW5oUjJwTm5hZzg1SHBFMlRseFBaVElMMko3Unh0SXE5TTBXTjNXSHdpdjRrT25JQQ?oc=5",
-     "date": "2026-11-24T18:19:00.000Z"
-    },
-    {
-     "title": "Local ice hockey facilities and associations face issues: high operating expenses and private equity groups buying rinks",
-     "outlet": "WKAR",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT0RSY1lHaFlaZUVKNXNSTHBkeHI2ZXZVRUFxN2kxSFFVUWpzTS1uZnNjU2hwX1hndnpoWGdiTU01Y1BPMWowM2VEaFc5UmhKQ1JGb0RnOGpPRHh6a1pyZm1xSjc2VDVSZS1xWGJyaWpVa1FFSmNiejk3bzhCTFdrVngwb3RNSHlwMWxENGMyWU9sTVBxRnFKaUNTYmR0T3BEdGxseEwtRWdEM2txWEtkSGJkbzI1VnlmYjlTWXdOa3lCdVJQbFJaaGQ3dXlxdnd4czNZXzlvT1lkYnZlajlsbzVueFo4bXlFdmllMkRHNXJMVG8?oc=5",
-     "date": "2026-11-24T16:04:00.000Z"
-    },
-    {
-     "title": "Perfect Game Middle East Expansion Names VICE Baseball Country Partner Across Four Gulf Nations",
-     "outlet": "Youth Sports Business Report",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnZqOHpYLTJqQnBmbTBhN2ZET0p5VHppZVFfRkxLbmZjX2VWZ0VCWm9nREdNUlM1RzBVOHJqWll5VG1neVVCbDlZZnM1ZTBySV9uZGlSN0ZZRzBYWTFvTkVDbmU3WE9hcUlwSVYtWEwyMDhfR1FMTGpyYjJORFVXeDJrNGU4Q1VFXzR2MzJCbHJjRmFqOUE?oc=5",
-     "date": "2026-11-24T14:59:40.000Z"
-    },
-    {
-     "title": "Meta’s AI glasses to power new 49ers sponsorship deal",
-     "outlet": "Sportcal",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTVWcm94VTQyLWN1QzNWdHdaWFhRbFFHcXhqejJVcVUzXzVVY0VkS3U3VlNJS1VRZk5lVVlNZExLQ1QwdktPRzdZQmt1X1Z0bm1BZHNBSFBISVZOUmRZVUVldDF6aUw0Zm1oQm9wY2sxeXFici0wLVh5UUtjNlZCckhuX3F4Q001QmE0?oc=5",
-     "date": "2026-11-24T14:44:39.000Z"
-    }
-   ]
-  },
-  {
-   "id": "media",
-   "count": 66,
-   "fresh": 22,
-   "outlets": 36,
-   "ruleMatches": 56,
-   "score": 208,
-   "sports": [
-    "soccer",
-    "football",
-    "basketball"
-   ],
-   "headlines": [
-    {
-     "title": "FIFA has reportedly narrowed down the U.S. media rights for 2030 World Cup to 2 final bids",
-     "outlet": "USA Today",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd0R5Z2VnVmZmblEtUW5MRzItRzlMcWRKdTVRSEY0UmJURXFLemotdTN4N3dkM1VjTnpWeFlaY281MDh1eGNlSHVsbThZQ1JBa091WTkweG5wNVYyRTl3ZU5RMzU3Sml3bzNIMGozdlpVUHVHd2xoV3V5bnpWVUVWTGJfWTBZRHpWd19UbnZWLUJtaXBHYVh0dUdtYWg3R0l4eDVKeTJDcFRrTFRTMnpwRFk5dVV4TWZsZmxvTU5FWmNpREFGS2w1M2pjaHpFd2FqR3pR?oc=5",
-     "date": "2026-11-24T17:45:00.000Z"
-    },
-    {
-     "title": "MC Alger ticket prices announced by Yanga for CAF Champions League clash",
-     "outlet": "Pan Africa Football",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtOVZnTjFKUTFVSjIwX1ZYbDJvVTdTaWRFMTR0VnE0Uk9ycjNjV3pxcC1EZGdWUEcxMEVUNVdyUENHZ3NIbm1ZRWxuLU1tbkhzdFZyTzRjYzQ0aUNMWHRNQXkxdzVBbUcxczBOcg?oc=5",
-     "date": "2026-11-24T15:15:21.000Z"
-    },
-    {
-     "title": "Jimmy Pitaro Details ESPN’s Approach to an Evolving Sports Media Landscape",
-     "outlet": "Barrett Media",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkOWdrSnVZaUhZbG9GRnpHQnhqTmFiSC02cmIzZTNXSmVmY0lMOHJYMUhzVHZwZWpPai1GSlUyYlRIR1k1WlpuT3pJaWt1OElfU2pKQWZsU1FId3ZQZjhwNWgzR1Q4NXJzeFN6Wks1M054bml3Mm54N0R5emV1QQ?oc=5",
-     "date": "2026-11-24T12:59:17.000Z"
-    },
-    {
-     "title": "FIFA advances 2030 U.S. World Cup media rights bidding, Netflix in driver’s seat",
+     "title": "Report: FIFA to use dynamic pricing for 2031 Women’s World Cup tickets",
      "outlet": "Sports Business Journal",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmxKU3d6TnE2cGlBZFlJbUJiUDdCUkN2Q0prMVFxWEJVQmVYUUFnLU1sSHlWbzdfV0RIRzJOcWp6bTk1bktlUEFmazZGZldLWlJRQndIYVRHRjllT215NlR5N2JTa3BKd19HTnlWTGxoX01OdGxSOFR1OV9YckZwcFk3cFFxMDlXWERoa0RYdGoxbkxydnBJWGRleWM4QkxUOEpFRk1ua0RveHBOcHZyZkxtOVVCTUlwMEw0M2FRV0R6RUlEcENRS2kta3RKc3lV?oc=5",
-     "date": "2026-11-24T12:42:36.000Z"
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazEtd25qUW9WckJCMGRMT2pvamtXUWNmeENyeVBfZTFqUG5tSDk1R3M3Vm81d2Y2MlpCNGVSdTFlUlYyd3ZQYnVrWWx1U2UyYnZlcl95S2s2MmY5MUN6cXY4QkxaOU1Idk5HRnE3MTc5WDVkUXBRenMwVjhaMlhoQURubjNVc1o1YW1BenRPMzdScm1Gb2tjUUQzcEVndEFxNHpzMEhoMEplUkplclFndldGVjNfR1RHUVdZT2VFZkNNbU4xeGc?oc=5",
+     "date": "2026-11-25T16:19:55.000Z"
     },
     {
-     "title": "Kayo SPORTS And Foxtel Confirmed As Preferred Bidders For Media Rights To Next Champions League Cycle",
-     "outlet": "Foxtel Group",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY0VDdmZ1VWp4MGxzSE10VU9HS0ZjUnNWUUZRalNCandmQ1dPb2M3Z3lLTHNiWFllRjZ1eHc3dGFxVmI5SXZDLVFTWUdrZWdVRWJBWGh0UVdpMDRKVkNZdlZpOGZ5azFZeWI2QkVJWGVmNFBES0tXNVhoanVWQXB5bFM5QUJ3VkFiWXQzMFpNMXpJWVRxREZiUS05MUtZME02SVNwdFJJbkNKbVUzUWNXcVpQYl9Qd2ZHM2RsNEFyT1AwTklBT1hKUGNGZXJvM1Z0Unh3?oc=5",
-     "date": "2026-11-24T06:21:24.000Z"
+     "title": "la28-discipline-album",
+     "outlet": "www.olympics.com",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80NUp2N2ZNU0duM2l5S2lfOFRrS1dPWF9oT3BZdDkwbWt1ZlU2OU1pOFBObjR2czg4Zk5uNGlBem1SUE9hd20yVENRMVN1VTFrdWtrMzFPMjRXaC11MDNxX0hjTDNtVWs?oc=5",
+     "date": "2026-11-25T15:45:26.000Z"
     },
     {
-     "title": "News: Golf Channel, Oklahoma City Thunder, The CW and more",
-     "outlet": "Sports Media Watch",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM0pNVTFaM1ozc0FxVkFrUUx4ZzNNYWFYRzZQUFdKV0VvdktGMmZ3dHY3RWVZWVk4djM1Zy1iSms4TG5xaFlFcDF2WUVDcEEyVmtTeERObHBmOU1XVERqaF85QWV6UEwyRDBSN2dvQ1EybWlfc1pNUWRuQVUyemlWdGlzWkZ1elJvV1BWa0tpLXlkUzlBRU40aWY4MzEybTYtRFdLSjF0eHBLRk9FeEhv?oc=5",
-     "date": "2026-11-24T04:08:34.000Z"
+     "title": "Canada’s Nikita Théodat on Youth Olympic Games audience: ‘I felt their appreciation right away, and it touched me’",
+     "outlet": "International Gymnast Magazine Online",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNWdDci16OTdnNXlsZU5Vamx2YUdlemhTa1JTSGJRZUFmWk1wRVJwU0ppWU0zOFBtV0h3SFhuejBXQUFIeXhyMVNwVnpOcDlmMWYyOUVnb1VobDVCMVlyR0F2eFpxRHJRR2ZPYkhENmFLYWtjNndFa0tfdzlYdUpZWHdacGhSaGU1ejVSZUR3T21lVmtwZjdWc2Z3UzlLQy1tbEtDeXM4U2FSMHBqQ0dIWDBhYVZzUVhpbWlhUTNRcGk3V1dMbEFTRk00Ui12c203Y1FqY2NpbzZERzQ?oc=5",
+     "date": "2026-11-25T13:24:16.000Z"
+    },
+    {
+     "title": "WNBA champion Laeticia Amihere hopes to see “a new generation of athletes” emerge thanks to the 2026 Dakar Youth Olympic Games",
+     "outlet": "www.olympics.com",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUXBGMHZ6ZzhDMzlweHpkazhROGRXaC1ibEx1a2FYMl9NRWZnSUo4VFlNcFNHeVNISmFzTm1QSlRWTldMRVBZbll4VEpoRjk1WmY5TjZnd2oxa2xUUElscGtqVHZvOGQwRWNZWlBmWEtjM2NlLVB5MlVzUXNzZElFcmlaYkdkU1hRYzRDc2tYM0RQem8xRFVibUpIVE4xaFh0LWZYV2VscmdhYnZxV1AwZ09zS1huN3NnM2FhVmY3WG9wUW1uZi1wS1VDbldGSWpLZTlXRGhUTW5BYVFzcG96UnAtY0xrRm5Yd2FjZ1dR?oc=5",
+     "date": "2026-11-25T12:24:00.000Z"
+    },
+    {
+     "title": "Azerbaijan hosts Fourth International Conference on sports science [PHOTOS]",
+     "outlet": "AzerNews",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15b3BYT1VSdklBNlo2YW56OFk1eW9CUDFGRFh5QmZKcVdsUXNyVDhONUZ0d0Y1ZHNVQWVydGN2cHlWaXhsdEhLeUliWHQ3OW1Wd21HMQ?oc=5",
+     "date": "2026-11-25T10:44:00.000Z"
+    },
+    {
+     "title": "Dubai double-header kicks off rugby sevens Olympics 2028 qualifying campaign",
+     "outlet": "HSBC SVNS Series",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNkpmUFNkWUpjdkY1SGx6Rnh1YUNtcXBKQ3psYVAtQXViRFZrcXNGalJYM0QzWXpyLWl5OVVoLU4xU29Sa0U2Sk5ybm9Oa2tWTTlqU0l3M1J5ZTV4MTlibXIzRUFyWGdWMHdEUzhQcFcwQnRZemRNb2FjWlZva1FrLTFnTXpQVF8wLTMtUlE3UUV6LUtCNm5fSW1JQjdmWGpFek9YWUxjbVFQN1JMSEQ2dVVRN0U2Z2k5THVuZ0dPTQ?oc=5",
+     "date": "2026-11-25T08:00:30.000Z"
     }
    ]
   },
   {
    "id": "fans",
-   "count": 30,
-   "fresh": 12,
-   "outlets": 24,
-   "ruleMatches": 30,
-   "score": 114,
-   "sports": [
-    "soccer",
-    "olympic",
-    "tennis"
-   ],
-   "headlines": [
-    {
-     "title": "Sport’s climate challenge extends beyond the stadium",
-     "outlet": "Australasian Leisure Management Magazine",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2JWaE9pSW1Sd1NoSXU5ck9uUEx2XzZDY2Z3UGYyOFk3TTRQOWY2Q05MQzlHZlZPcnJ6OFFoU0pFQlk2TUd1aVZYcUMwM240dmh1VFZQRFF2VFhHNEhpbUtqSEp1RFV6V2RVYy0xR3R4ZVozbTJ4U2duTzl5aVRVLWszNlYwQUR4WVBLOVFWWQ?oc=5",
-     "date": "2026-11-24T14:13:50.000Z"
-    },
-    {
-     "title": "“Your Job to Create That Environment”: Fans Blame Lane Kiffin as He Criticizes Players for Playing for Themselves Ahead of Bowl Games",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0g5SFBEbld5ZWhEd09NeGp6V2hQalM3cE9hWDlScUhxU1E4dkFGV2docE9QLVhYR3BFTmtSeEV1LWRMMEJBb1cxbWVpZTZUNHRSRFRJcW1XNlRxb0RiZ1A2Y0dYOFFRZkhWcjBXRU1veWluaW9CanJCN00yd3ItOUFCZkd2T1hSZGc?oc=5",
-     "date": "2026-11-24T11:48:21.000Z"
-    },
-    {
-     "title": "How Coach Jackie turned ‘professional fan’ into a full-time women’s sports job",
-     "outlet": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXpRZDZNRmFuWnVmV2VSYldPWWJaSFZOSFBwRnFTOEJOX3dlUmt6RldFMVliU3VlUVFaVGpteS0tdlBUdG00a3VmTWhiSE43VVlpaVVhbnBfUnBHUlJCbTRpVHpnZzdCOXVENmlpU2NPOUx3MklXNk0wd3VRWlhrbUZQQ3dwSkFrMzhyWXBIMXoxQ2JFQXNlUnAyek5qUQ?oc=5",
-     "date": "2026-11-24T11:00:54.000Z"
-    },
-    {
-     "title": "Kansas City Current fans to march with players in NWSL championship celebration",
-     "outlet": "KCTV",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNay04SGwtcjU4alVodmFpODhtRmlsRElqa1JuczhKTm5IcnRXLThxdGFIT0x3WnlaTEtYR255d3VVeDlTQVRWRVBnWjh1Q1Z5VzNOS3Q4MFMwZXFmeEZhUmtGR3Zhd0ZpLU44Q0FpckJ0dkZzT3hOWHF1OHdDSk55MTBrWjUtNDBTUDktR0hYZ1JUdjhfc05PZk1IRmphbW04UFp4dmVBYWppWnPSAb8BQVVfeXFMTXFkWlBiTmNRREVEUjQxbV9KZVRVM1hVZ094eUtZSDhxQkR6dW9JaEl1X0czTGZqNkxqdWtiaGhNeVhSdmxOZGYtZGRYS2ZvZFpZTkRDODRKUDRFcWZiRTBTSVlpM2pnZGM1RlNiVHgtM19xdEdwTTI3WkdYMklibVVmY0lKZnlZTV9IeE9rc2k5M2ZNNG1UOEVLNm80WEExaU52ck5uYW5hbHk4MnZwTlhQbVhXNEY2ZGZlRjJ4OGs?oc=5",
-     "date": "2026-11-24T04:20:00.000Z"
-    },
-    {
-     "title": "Fresh from LA: New and upcoming hotels, experiences and attractions to know before LA28",
-     "outlet": "Karryon",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbThlSHBhcVVBcFhLVHJMZ1hWVElaV0Y4eTl6U2U5MFBDYnp2RUVzenZCbmNUbURPME4yNlNMY1lZQjB1Y2J5SklaZkVsdS1vTWRQZC1QNFJDMThqRHQ0cHR5TkhVLUdkaGEycFZPaDl2eTR3N3lhT3pwYjdZU0dwdA?oc=5",
-     "date": "2026-11-23T23:39:42.000Z"
-    },
-    {
-     "title": "Byron Scott Calls Out LeBron James And Today's NBA Stars For Cheating Fans With Load Management",
-     "outlet": "Fadeaway World",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQUVyblk5a2VSbkt2UUV2My1Jb245NGUtaXBhSkx3alJNWVlxc2xlVW5sQzVObW45Rjk3cUJmbml0cHJ3OUlfb2tjZTkyeTlSOURkbUlOMzZHODlKcWVnWjRtYXozY2tKWWJTUWJEQUpqQm9aZGZ1cEd6djY0QU9vRVRjVWh5VERzVXRWUVdvTTYyc1ZBYXZNOWQxSmRqX2NseTRCY2lLSEJ2NGU5REc5eGFnN09lRFBGRDgzQ3dnVElMSjJnb2xrdUpDajFfX0ZTUEtxVlZ6alN6S3c?oc=5",
-     "date": "2026-11-23T18:37:56.000Z"
-    }
-   ]
-  },
-  {
-   "id": "sponsorship",
-   "count": 31,
-   "fresh": 11,
-   "outlets": 31,
-   "ruleMatches": 29,
-   "score": 114,
-   "sports": [
-    "soccer",
-    "olympic",
-    "basketball"
-   ],
-   "headlines": [
-    {
-     "title": "NBA Trade Rumors: Brandon Ingram to Lakers, Celtics, or Timberwolves?",
-     "outlet": "Complex",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0NFcDJXQU1XY1pxd0dFMWN2WkFadkdEc29zZnhYZVlzQ3lBbWpHNFh4TUZOQ1o1eHFSbUdBY0djWFE2cjBGRVRSdDNTTjNkYlNXYWNIT1dicUV2SXJmdTNBa0pwUTh3YnBwYzBVUVMyYnYwb005cmtpRTNEMkVldGRfTDhOUDJhY01TTklMeXQyMGx0Z3lPYXRJUnVjU3JvS2gw?oc=5",
-     "date": "2026-11-24T20:00:58.000Z"
-    },
-    {
-     "title": "Meta’s AI glasses to power new 49ers sponsorship deal",
-     "outlet": "Sportcal",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTVWcm94VTQyLWN1QzNWdHdaWFhRbFFHcXhqejJVcVUzXzVVY0VkS3U3VlNJS1VRZk5lVVlNZExLQ1QwdktPRzdZQmt1X1Z0bm1BZHNBSFBISVZOUmRZVUVldDF6aUw0Zm1oQm9wY2sxeXFici0wLVh5UUtjNlZCckhuX3F4Q001QmE0?oc=5",
-     "date": "2026-11-24T14:44:39.000Z"
-    },
-    {
-     "title": "Worcestershire County Cricket Club announce Britannia Dynamic Logistics as Official Terrace Naming Rights Partner",
-     "outlet": "Worcestershire CCC",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTlOcVhBME1WcXlzYnNqaDRNZ3MxYm1fX1NjUnZMM1hwOC1idGhXMGNlVDdoeUNRdXQ2cU1JQnk0dWJISDNwQkRHVEptRTN6ZGdETi1SZWhCcjlKZFdkM0ZnbVFWcVNfbDBZM0RVeHN0Y3ZoRWpJb3ZkQnoydl9JYmZsM3dNbzZaYjRTMFRrbS00bWJzSE8xR19OdkJNZW5fc2tHWHI1SGExU3VOYVlzUGtMaDF1V1NscF9kdzFwUFNuZEdObHR6cnlnMFBobWZzeUlBYQ?oc=5",
-     "date": "2026-11-23T21:34:32.000Z"
-    },
-    {
-     "title": "Best Social Sports Betting Brands: Download Social Sportsbooks",
-     "outlet": "RotoWire",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVBBWi1reUFjcmMzbzlsZ0VrbktUNklGT2x4TkR2cHVNRllOVEJVbVJ5c2xwT2hidzFjTC0yWi1WSUlfcmM2LTBxQ01vcWJJa1ZVdjcySmFPMHFrSzlOVTZyVWdRZ1A0cGpzWTctQ09MZ3NzWTJRNUQ4dU9nUUNXc1pJN2pncU5KalJOVEczRTk2YlF0ejNMZkhidFEzZ3pPYmx4NlFB?oc=5",
-     "date": "2026-11-23T20:33:00.000Z"
-    },
-    {
-     "title": "Drogheda United secures biggest sponsorship deal in club's history with three-year Paysafe agreement",
-     "outlet": "Irish Independent",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGFCcHEwcjE3NmhpbjBGQmgzanExRDdYTmZqUzZISkdSUjd4alRsTEJkaFZhV094c0tWYWVnVXZOVkZsWV9vUVhZWTZvbEI2R2p3aXBmbk42OWZyUnR6OWc1UlJITF9yamYwQkFUMUpfMlRJeXFRREk2STM3ZDE0dDl3eUhodTJ2T1V6dlFSUWpRWHNIbUxxWGdPekVqZDQ5dktSV0s5NExabHpVOWx2c2IzYnl1UjE5NUk5Qm43XzB1bzB4LV93b0d1MlFxZ0pEczZRVUt0MVVEWUE5aGtmMVFqMEREc2htU0xZUA?oc=5",
-     "date": "2026-11-23T15:41:59.000Z"
-    },
-    {
-     "title": "e.l.f. expands NWSL partnership with youth soccer contest",
-     "outlet": "Drug Store News",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWxfM0xwQXRqbVBocVdaMGZjM1pIMkxjU0h6MGR1TjBYZ2VINUVOcXFNTnp4VXlaN0szSGpDc0swSUZnQ1lzMHdZUWhsT0hTUEp4blpqanVNdGdpV3hCc1RaQzZhTVppeHlwWnVCTVVCeHZ5TFFsMzJ5MktKUkV6Wg?oc=5",
-     "date": "2026-11-23T14:55:57.000Z"
-    }
-   ]
-  },
-  {
-   "id": "health",
-   "count": 29,
-   "fresh": 13,
-   "outlets": 26,
-   "ruleMatches": 26,
-   "score": 104,
-   "sports": [
-    "basketball",
-    "olympic",
-    "soccer"
-   ],
-   "headlines": [
-    {
-     "title": "Sports nutrition ingredients aim to help athletes handle extreme heat",
-     "outlet": "NutraIngredients.com",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORDQ1WGs0V0NpNy1uYlZaQU1pX1BqamxpRmJ2ck5YZWZRam14VzRTRDZXc3BUR2VQb3JEV28yZmdHUHhLU0hXc3FhMkRodEc1Q2RIcW9maHpHeTZwRzdNTHdCeW1kZ3lOdnQ3dkl3a3NyZW5FV285eXZuWXVoOW8yS204M3VoSWtrM2xSTmRhbXZlOVFzUFRjZEc3czdoMDZ0WThFYjdrVnZvUzBJWUUzT1llWDh1SDh6WHRJY0VKUjBKeUt2anJkRXN3?oc=5",
-     "date": "2026-11-24T15:29:05.000Z"
-    },
-    {
-     "title": "Celtics load management gets trickier with Paul George and Mike Conley rolling",
-     "outlet": "Hardwood Houdini",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2Vob2J6MmFrVTNnV3dWWFd4aERfRXczT1cxWlFLdV9rV2FBdGF2czdiOHNHNmtRcktsd0w5VG90SFBhcjBvOV9vVTR0aFFnSUNXM0dpQzhPVTlaWlRpRm9fWmtjQ241cGphWmxocmFTWkIwM0ZvNEVkZWUtc182dWFueTBmUDZrb1FSTUpaOWo4eXFXVDBhb25FQmRDZw?oc=5",
-     "date": "2026-11-24T13:00:02.000Z"
-    },
-    {
-     "title": "Which Youth Soccer Groups Won Grants From CVS Health (NYSE:CVS) Now?",
-     "outlet": "Kalkine Media",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnpEZTdrRzRKRFBRUmR1aTd5ZDZJU1B2cHFYWHVIUm0wRlZ5OEJmYVhGZ0t3dzJROEswRVNMbnNWb3o2U1NKX3E2RWN3S09Jb1pGTVA0emZKTGhiTUpsN1hWelNkakJFQWRfMFNYWmxRX2pvOVFta3dIczM0azh5RW5LdFBRZHFTZTM1MWd1N3JibGRWWTduWkZIaTdXRW9zYTFoMExEb2NtalQyUEFNYlhYWE80VkNTeWc?oc=5",
-     "date": "2026-11-24T11:43:00.000Z"
-    },
-    {
-     "title": "Wangkay says training helps him to stay focused during Youth Olympic Games final",
-     "outlet": "FASTBREAK.com.ph",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGN0elR2aHBfRlZRdzRRTXZEOUhRRURHRi1CWV9IR2lFOTllU1M3eG1DVzR6andodDBERzZad1lpRmZwWU9WemZ2ZnBZMGVkSDY4ZU00TTc2cEpfR0t2ODROY3JoLURrZWhycEpVNktJUDVhZldEQ0NaV2dmTFJ1YWdXTG9YU3hrQTVxemYtakZpSTFVT1FtUldQbjNQcVN0MXJKZG5Ya1otNThiUDc3RHRlaW4wTThqeUlNUA?oc=5",
-     "date": "2026-11-24T01:13:23.000Z"
-    },
-    {
-     "title": "Dr. Haley Perlus on Training the Mental Side of Ski Racing",
-     "outlet": "Ski Racing Media",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTERUQ0JJTzNVbngyWlRoZjlxaFVTR0dqNXIwbFRKNHBIX1BqWnpsLWhabHZsSktEdkhxNjRTQUpueUpLV1lrdjNEVElPclU1ZmJydkxBdGgzMHVKMkxHeWpqU3l6eDNWVU1pRVJHYWVnQ3kzMm5JODJES1NYQWpOZGp3cUxkUE0?oc=5",
-     "date": "2026-11-24T00:43:52.000Z"
-    },
-    {
-     "title": "Zach Lowe says people are sleeping on ‘really good’ Bam Adebayo season",
-     "outlet": "Heat Nation",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHk4UGNtNk81T28yTUZXMDhIUEExMUdPNTFPUkM1VFpxcjZBTFRjWHh1MFpYUHJFaWtsTmE4MEYxOWYxVHJrb2wxcU1HblQ2djNLSjBCaXlGNGpFOXJ3NUxqdG1LVFRmX0NQTDBicXYzUXUxMWt6enZUejhYZ3pQRFREdmxhWHhLRFZkWlc0TFVwVDFTUFBuV3dqdVh3TExtOVpNeg?oc=5",
-     "date": "2026-11-23T22:06:32.000Z"
-    }
-   ]
-  },
-  {
-   "id": "tech",
-   "count": 28,
-   "fresh": 8,
-   "outlets": 28,
-   "ruleMatches": 27,
-   "score": 103,
+   "count": 106,
+   "fresh": 50,
+   "outlets": 82,
+   "ruleMatches": 106,
+   "score": 409,
    "sports": [
     "football",
-    "baseball",
+    "soccer",
+    "olympic"
+   ],
+   "headlines": [
+    {
+     "title": "Newcastle's Saudi owners PIF look to sell up to 25 per cent of club as Magpies chase £1.3bn new stadium dream",
+     "outlet": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdExjclNuQVRuNF9lUU41aWdTNlpKWGZNYVpjb2VsTHlwMzNUdnRsR0FFdHhhREp2VlJ6MmZIc3NHV001R2F6WkVFS24tOUtHT0Q4anU1RnNVUWdOTkw5WnJQSEVadHoyMmk4OVBSUURTVWxIRDNtVDd0NHdWLUFnRDkzMkZraW9GeXZJS1kycGNFbVpfbEVWS3AzWXZkU3lEXzEtN1VIT05XSmVITHlpaW5UOVNwbW0xaHpVN1BSQWVjTnJKLXJQdjVHb1B4d0tMM1B4aGpTN2JPbEE?oc=5",
+     "date": "2026-11-25T17:26:46.000Z"
+    },
+    {
+     "title": "Newcastle United potentially lean towards new £1.3 billion stadium",
+     "outlet": "The University of Sunderland",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmJQY1BYaEFYVjkta2xLTHAxTWRhZHNsZVVDVHN6YUxvWHhJNUtjRFNIcW5ycVlRUkJmTm1KY3NUeDBaM2RaMVRZbkRuWUdxSDZ0bGNHUThtOXp1aTIxLWZPalpPRmJ3ZUxfT3NpRFNsbHhlQTRlSmxoSUZ2X2FFZXZ6WjVQT01QLXhnVDJkeWhIVGNpVlRCZXpkbkZkUDhrZFliOUR4OW9aUVVYSEhzTXU3WQ?oc=5",
+     "date": "2026-11-25T16:10:07.000Z"
+    },
+    {
+     "title": "Newcastle owners to sell up to 25 per cent of club to fund new stadium",
+     "outlet": "The Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDZjZTI5NXBaaWFXbTNZSE1HWHpsUGJtRnRJYzI3OWlpTGptTEVrWUxIT1FmQWhmZEkwcC03Q2VaSVdoN1pCaEdTWGhGRWtzcERtMUZXZ2sxUno5X0R5U1ZlM0NfOExWNDR2NHo3bzhqUGRuQW5ETkhKTjAtRVA1N1V6dGtYTUtDU1VtYURvVnpFUTNtZW1DYQ?oc=5",
+     "date": "2026-11-25T14:38:00.000Z"
+    },
+    {
+     "title": "Italy: Como 1907 submits a new stadium project. The redevelopment moves closer",
+     "outlet": "StadiumDB.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzZwQWpHVTFOSVZrTjlHMW1UT0JBQWxndzc3R3hnMmdCYkRIQVZ1THZ1QVFxdEtMNmZfdTVIOG8zV3J3Qm5aV0NKVWZ6aVpqai1jZU45RlQ2N0lXdUp6SWphQUx2SXlERHJpVFVvVjBXdEJrTE5idENPQkhfVG52VGIyeVJlckpYdlI0dUVTaVVRNmZ2VGFmeHo0aGdyZUNWdV9QN05TRmNFUGhRUUtqbw?oc=5",
+     "date": "2026-11-25T13:02:21.000Z"
+    },
+    {
+     "title": "NCAAW gameday discussion: Who are the WNBA comps for Texas’ Madison Booker, Michigan’s Olivia Olson and other stars taking the court before Thanksgiving?",
+     "outlet": "Swish Appeal",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNQUxQQ1gtLTZFcFhfMDdCWUhqcER3MXQwYm5SeUx2MUdhelVwbndNbGFGX3FIdnFieG9GblBJelF6cVVrZ2xFLWN3aFdvUERoUVNlcXpQV2FsTmR3UUd3bFlFN0o2RHc1VUJPdVRJYzhBRTNNSlpONUdEb3FldGp3SlNDc1JtSVctUGkybWh0NGtqaEtzSF9SZkd6N2hvWjZtdm8tTC1CQWtCX1pYbUhtTlBoOGlXUUNYcktHRWJzMXB0NkE3RkwzVXVfSXFuUkFoMDAxbHRYejE3TXhsUVFqamRhOXZmdTBtdURsOVUtSGJwSWlnZllDOWNIRWRtRUJEbFpmclBXbXd4aGZYeUpmazQ3d0pFdkNnbTZ0eHpn?oc=5",
+     "date": "2026-11-25T13:00:00.000Z"
+    },
+    {
+     "title": "TDC Erhverv provides connectivity for Aarhus football club's new stadium",
+     "outlet": "Telecompaper",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPclFSZkpORzFJQ0xid0lzd2I1eGZnQ0haOU0yUEViaFE0aktCbTY5SE5uSzBxZzNZa21jT3o5UkVFVHJQNUVLdURDMTFuWVpmM2RRcFRhQWJPX3dFUTFXTXlmSHgyV0FDdHR2YnV3Mmx2UDh6M2MxRHE0aVlhVUVJSVRjYkNqbnRNOFpFejZXalhmeWlydHFuUGpOME40d1l6U3Foam5wQW1jRHUwZl9VNzVzTGU?oc=5",
+     "date": "2026-11-25T12:55:35.000Z"
+    }
+   ]
+  },
+  {
+   "id": "women",
+   "count": 109,
+   "fresh": 51,
+   "outlets": 47,
+   "ruleMatches": 104,
+   "score": 387,
+   "sports": [
+    "soccer",
+    "basketball",
     "hockey"
    ],
    "headlines": [
     {
-     "title": "Meta’s AI glasses to power new 49ers sponsorship deal",
-     "outlet": "Sportcal",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTVWcm94VTQyLWN1QzNWdHdaWFhRbFFHcXhqejJVcVUzXzVVY0VkS3U3VlNJS1VRZk5lVVlNZExLQ1QwdktPRzdZQmt1X1Z0bm1BZHNBSFBISVZOUmRZVUVldDF6aUw0Zm1oQm9wY2sxeXFici0wLVh5UUtjNlZCckhuX3F4Q001QmE0?oc=5",
-     "date": "2026-11-24T14:44:39.000Z"
+     "title": "SAN JOSE SEA LIONS SIGN DRAFT PICK REICHEN KIRCHMAIR",
+     "outlet": "Professional Women's Hockey League (PWHL)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzJrVXhVbVkwSHpCYVlrdi1qNERhQ25oVkFHZFdJQUZOMkx4MGZaanRXd2x4ZkY4TnNIVDVlSEpaR3MtX0tMS2otYUNKZVdmOFB3Q0std0t6LW5QQjBHM3JxMGp2YWRxd2ZObHU4RjNoRmk3dHQ5cXoxUThMV3Vjb3hqc01FNHBzLVU2alBJX1NnLW1LenJjdFBESVN3eFVSamZNMXdyTlFLREtCWGY1WGRXUDFiWDkwYVdVd1FPQVpRYW5y?oc=5",
+     "date": "2026-11-25T18:42:34.000Z"
     },
     {
-     "title": "Perfect Game expands youth baseball platform into GCC",
-     "outlet": "Dubai Eye 103.8",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDJ5MV9TNXpYejJBRXlia1IyT251Z1NFNUh2ZEczY0pCa2VfdE9RYmk1Z3kwZUlFcC1maVdTSm04N25tMkF1SHdydkkwTnVCTElsdEJ1MmI3WGJMYWVfYVprMVA2bzJ3ZktjWGU5M1VDQlpzbVBReEtXdXk2T2JITU9HcGhSWUlXLTF0bTRQT3VXRVpNbHVWZ2wyUQ?oc=5",
-     "date": "2026-11-24T14:19:04.000Z"
+     "title": "Five Things We Heard at NWSL Championship Week",
+     "outlet": "Front Office Sports",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGlpdUdRUXo0MkdnVnQ5QlMtcklCT2lrdjhxX2ltR3NVejJaaXJSTldJMGJhNndKVFcwRjNiTzk5dmJTU3lYVlIwcTBSQm5fR3ZoaFZFZ3V6TVFXSjZid24xcXVGQzFQOVpCMHFFZXBhQjJoWC01dnB4aGpiUHVRWmt1aVRYSUZp?oc=5",
+     "date": "2026-11-25T17:30:54.000Z"
     },
     {
-     "title": "Ballard Partners’ Q3 roster spans youth baseball, food banks and AI",
-     "outlet": "Florida Politics",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRE9qd2ZjdE04T2pSMkdVN0d6Sk9JVVJxNGZlLWN4UkNzMDJlS0d3MzRGUHo1NEVqMHlxTTM2NExXM0VGRkhJSG1UaGlUM2NJNndQTTI0TE9Rc2V4d2J1T3dHdEY4ekk5akNPdlNFdUxoVmdvNVRIV1N1QUJ4WXRBanBMRVIzc1dKOEpTTXJ3V2NuYTg4empSR2pxbUxmS21ySmpUQmFJOXJQWWRyWGhz?oc=5",
-     "date": "2026-11-24T09:48:10.000Z"
+     "title": "JuJu Watkins has no competition for WNBA No. 1 pick",
+     "outlet": "The IX Sports",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTUIxYXNKLWNfZ1I3SlF0cUN1emFacXNnVUpmNHBRZmQxM2t5M3JmVkxIb3Z2dVltSEh5Y1RnWE5rYWxiWFlXRlU3MGdHQm5TN1RBNFQtbldkZndXemVjbUtFTVlKYVV5SmlONlhPeUdlSTVYWTRPZVphWGlwV1FFZFl6N0pEQk9MbU9ZTE1rOGhyamxuQm9GRU1Da29zempBVU9YRVN6NlRzeWVBSGRLNnBCVTktX25uTk5zM2p0UEZmamlSdEZpcGJhdFZDVFVFcFBVN2lR?oc=5",
+     "date": "2026-11-25T17:00:00.000Z"
     },
     {
-     "title": "ICE Deportation Flights Hit 365 in October as Tracking Data Thins",
-     "outlet": "immigration-analytics.com",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWNoWmExYmw3cE9VTkNVMHhPUHczTXBFSUctMXdSWE5WM1NSaER2WENCVXo0OGI2dERvbnVhNlF3LS0ySG9MZ1p3TDNDMzFBZ0M2TXRpQjdqcXJPYnlCZ1dDTFdKSTljV0FEYUozbW9SaF82akE4NVh0SEY3aUE5WlQ1UHZ3Njl4SDFlQ2Vzcw?oc=5",
-     "date": "2026-11-23T22:34:39.000Z"
+     "title": "Anatomy of a Goal: Looking back on five memorable NWSL Championship goals",
+     "outlet": "Equalizer Soccer",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTl2X0doXy05VFNjTkVqQURfdlk1ODRlcW1kdTZaWi03eVhBSFVSM0RQUFpzNGo4T1hEZlhHN0VOMEc5cEhrYUc0NEMyQXZ0QlZfVTA0SEl0dklINnY0dkEtcVZUZ2h4Q0tELUY1THVuQlpjcVhyaUVqSEZ5cjd2ZG1wS050V0FrQk1tX0JCNjV4LUlPMURmZlNIalhWVkRSUl9uMC1faVdrSzh0dEtPU2VB?oc=5",
+     "date": "2026-11-25T16:41:00.000Z"
     },
     {
-     "title": "Can T's Extended U.S. Soccer Deal Boost Sports Technology Innovation?",
-     "outlet": "Yahoo Finance UK",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54TjJSVEItbkVYLXFtRDRQVXNFTk5zbUI1S0g5NmduUWJvUi1nelJnNzY2d2VRMW9hRExuWmJWWWlVcjUtb2ROQzhJU2NHaU05RGRkaXRQRTY4WGlwS000ZVR0YkkzRWlxckI2bF9vUVBaXzV5elhSNFJ4R1lhUkk?oc=5",
-     "date": "2026-11-23T16:04:00.000Z"
+     "title": "Report: FIFA to use dynamic pricing for 2031 Women’s World Cup tickets",
+     "outlet": "Sports Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazEtd25qUW9WckJCMGRMT2pvamtXUWNmeENyeVBfZTFqUG5tSDk1R3M3Vm81d2Y2MlpCNGVSdTFlUlYyd3ZQYnVrWWx1U2UyYnZlcl95S2s2MmY5MUN6cXY4QkxaOU1Idk5HRnE3MTc5WDVkUXBRenMwVjhaMlhoQURubjNVc1o1YW1BenRPMzdScm1Gb2tjUUQzcEVndEFxNHpzMEhoMEplUkplclFndldGVjNfR1RHUVdZT2VFZkNNbU4xeGc?oc=5",
+     "date": "2026-11-25T16:19:55.000Z"
     },
     {
-     "title": "Buy tickets for Georgia football game vs. Georgia Tech",
-     "outlet": "Online Athens",
-     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOemRDZ1lBejVDZ0IwMVRzOEV4Nk9ZRFlUN0tRTUU5cXpJNUNvekcwLWVIOXcxVVFBYW1WUDktZ0Y4amtlM0w5VUpGOU1vMlNKbmhNM05SNFFKZDd1dkpjdjJLUnBDVDVEajNSLTVzSkVQeGhhRkdYSnJIay1EM3A3Q0hDTzhPNElZTEZZVzBIMzRHdHdBYVV6WXlGZ3U0dTZwWU5hdkFJMTNXMUR3ZGRhWUZwU0lac3RKdWNtVmgyOGFCcWtUSW5aZ24xcWVzSUhtSTVsc3FtUF95ZjdaWmZrLWxwUmpJYzhiSGRacURWSTVRdw?oc=5",
-     "date": "2026-11-23T09:03:00.000Z"
+     "title": "NWSL Championship is league’s second-best audience yet, but down 6% from 2025",
+     "outlet": "Sports Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUc5Nlk3dmFEc01XVzlxVTdBd05xZDR6dmtyRVlDUEZ6ZnBXWlBpSkNBc2cwU3c1Z0hlWGp3WG43NlpvZkZSbW5OdEl5WldCeEJWZWRodmpsUFNjSC12MmZxRjE5Z2xoUzRtQ1phVGpJNW9DUnZBVXpreVlKUVRyS0RydFFnMVBTLXdjQ2M4cTBYaTl6UUxqcFY1RnZiWUswQWRzNjNNUGJBQmhfR01wdl9JR1ZnZllZTUdmQ3pGdzZsSGczMnZxUGxfelBsZw?oc=5",
+     "date": "2026-11-25T15:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": "media",
+   "count": 108,
+   "fresh": 46,
+   "outlets": 59,
+   "ruleMatches": 90,
+   "score": 346,
+   "sports": [
+    "soccer",
+    "basketball",
+    "football"
+   ],
+   "headlines": [
+    {
+     "title": "Home State Bank Naming Rights for Polk City Sports Park",
+     "outlet": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGpUU1NlX0VjQ2MxMWpMRUk4YTZPUENERXFBcU1sNW9vN0tXX05wQU9NSFc1UU14UFlTc3dpNFhPdnVGZC1QODlQRXNpRG00SGFBdUNWdUR1YTlRVkViMFJsOGtQODN1bGUxdG03OEVFR1NReE9ydnpsZ1ZpdFNyQjZyNGU3enZCajN0UmlsVlIzVGVFYjM4VWtuZ09rcGVmdmVoNjA5VU43Mi1kSFE?oc=5",
+     "date": "2026-11-25T19:07:29.000Z"
+    },
+    {
+     "title": "Clutch Scoops: Stephen Curry, Kawhi Leonard injury updaters, latest NBA trade intel entering December",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPangzNGR3eXYwWFBubXRZdXFYbTh1NDVrZzJ3azExRlZmX0dkV2xrUGpkNWhBTnRtVGQ4N29xdkFWamNINEdKaEF1ZU9FbUdWQndleU0xZ3lqSWJERjJ4cENFd1VkcnJwT3ZyUWNXVFdtdUVZQjVBWGExM3Rtd2R6U2dzU2tORnF3U0RzUmo5WQ?oc=5",
+     "date": "2026-11-25T17:55:39.000Z"
+    },
+    {
+     "title": "Clemson-Colorado State in Maui: TV info, Vegas odds, ESPN game projections",
+     "outlet": "TigerNet",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FMa2hEM29tSWJQRk9VRF9nYy1IUE5lRkRYUk8xQ2laODVpMldRcUhiOXJzeXNKcTE4dHgtOWlZZTlfUE5jUWs4am13MEdqaGdFVHVxcENDWWo3RERoZ0tIbFA2NkZmTDlRTGJUVGItRUI0cy1aZ3RaOVBkdVZROG9FWTYxSFB2Sm1nQUNwQWI0c0pCcGE5Z3RFVUxMclJfTUo0dnJ0ZXAyaWhtWU5tTk9iS3llSEplQk5CWWFDcmtrVEdo?oc=5",
+     "date": "2026-11-25T17:49:29.000Z"
+    },
+    {
+     "title": "LA Lakers announce deal with Kalshi, signaling sports leagues’ growing embrace of prediction markets",
+     "outlet": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3hLSUZtRDRRRkd1VFhBRkVaTjk0UVRNb2VUaTh5X2FacDlIdHpfaXMyRWp2aFkzZDRhblNDZmFkVndKU2FZMVIxS2hNTjhJZlY3a3NGYjlzODlPWmM1QjRKc1ZXOVJQTWpGUzlfcHRnTE5SdExsVlhZSC1vSjBDcExkM05XTVpRTGxXX0pZem9FMnZMTzN1UjlQVHh2d1JzS1lGUWNpSUVmS29kWUNYcEVhRGdvNTh3c0l0NmdoYVNGX0ZmYmpwYmhB?oc=5",
+     "date": "2026-11-25T17:41:00.000Z"
+    },
+    {
+     "title": "From Naming Rights to Brand Ownership: ENGIE Open 2026 Connecting Tennis, Local Culture, and Immersion in the Sport",
+     "outlet": "Roastbrief US",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbndsVVFRV0pXck5sNF9KY2hySzdTckwtQXlTQ0x5ZU5SdU9hNjNobGdyUkZoMDFvX0xWRFlELXNaR3FWazJZSWpfcmtmVmFuZmJGbVM5RWF3aGwyMFVDaHVDUzUtZ1RSXy1SNThHYkNWcXFIQU9yNzRmMWZWX2VHY3FiVWRpNHVPaDdYdHl3TFVFR3VwNmsyVUw1SE50MW1sWHhlVVZtUDdKak1XaGkyU014cktaN3BCOGZ6OTFuNGVLOXJCVFVKM3YyYkpHc19I?oc=5",
+     "date": "2026-11-25T16:42:02.000Z"
+    },
+    {
+     "title": "NWSL Championship is league’s second-best audience yet, but down 6% from 2025",
+     "outlet": "Sports Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUc5Nlk3dmFEc01XVzlxVTdBd05xZDR6dmtyRVlDUEZ6ZnBXWlBpSkNBc2cwU3c1Z0hlWGp3WG43NlpvZkZSbW5OdEl5WldCeEJWZWRodmpsUFNjSC12MmZxRjE5Z2xoUzRtQ1phVGpJNW9DUnZBVXpreVlKUVRyS0RydFFnMVBTLXdjQ2M4cTBYaTl6UUxqcFY1RnZiWUswQWRzNjNNUGJBQmhfR01wdl9JR1ZnZllZTUdmQ3pGdzZsSGczMnZxUGxfelBsZw?oc=5",
+     "date": "2026-11-25T15:59:40.000Z"
+    }
+   ]
+  },
+  {
+   "id": "college",
+   "count": 84,
+   "fresh": 53,
+   "outlets": 60,
+   "ruleMatches": 79,
+   "score": 320,
+   "sports": [
+    "football",
+    "soccer",
+    "baseball"
+   ],
+   "headlines": [
+    {
+     "title": "Augustana QB Gunnar Hensley, D2's Passing Leader, To Enter Transfer Portal",
+     "outlet": "FloFootball",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWY0TGFkbWRzVllrNUJNWjJMWFl2cm42WFdQdE9vbjJ0RkJ0WklHclQ2UXZUamFJQUFBR0piV3otQnJnRzBoem5Nb0JYQUsyVlRkRDlHV1M5NHJyOG5aQzFlS29zeWdXa0oyRmVjWVVoeXBSa2dmVWxGVHozREdwZHB2VHlxMmh5Q3hYdFUtalFxOGN1aU1PQjRvSWpYYVZLMDBWaE10X2NvUQ?oc=5",
+     "date": "2026-11-25T18:54:00.000Z"
+    },
+    {
+     "title": "AD’s first 100 days show Purdue needs progress in NIL spending. What does that look like?",
+     "outlet": "IndyStar",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNGtxaHd1aVhqcVZpUkllLXBMaWZiWlBqY0diUFNYcnJZTk1YVlpuVk52a0E4OFV0eWVMZTJuT2RoQmZiQmwzU0tBSFlFc2JpOWliRU50dDNFNXh3QTV1YU1ONDZCdXdiQUZpYU5BSk5iTDJBTVdCbDd5TUJkRk03bTVEcURVVm1ual91endPTUduR1kwNXJHV1BRWm04VDJWN09McWVLckN1cTh2TEgwc2RlR3NRUGc2b29abVBITnVrVnpiV0M5SGllYkExemo5ZDduV3dlYm5fUG9ENllRaU40bVNDR0x0YVJOYzlhandLeWRQSU1JcDUyZnhva3RCTzI3c3BXVGc?oc=5",
+     "date": "2026-11-25T18:42:00.000Z"
+    },
+    {
+     "title": "Five Oklahoma State Players the Staff Should Prioritize Keeping in NIL Race",
+     "outlet": "Sports Illustrated",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFh2cGZnMjZjcFVyYnEyQkpGUlpLa3V6RXVKZDNtdEM1M0VEZFdSeVh6bEFvNE0yVTN1S0pIQ0JTSVFLeExreUs4Vkl0VnlfNXo0QXF3dGlGS3ZBTHcxanFEcXVpVEFDNnZ6R25ScUNWWGZSQWxlSHFWMEdjSVUwUVNNa3VpOTRVTnEwX2plMkxUMTljYWxGVVZCWjRIZkRqTzJZR0dHRnFrR2hfeUx2S194LUVKb0QxOFZqdFZ3?oc=5",
+     "date": "2026-11-25T18:00:00.000Z"
+    },
+    {
+     "title": "As college sports world waits on SEC vs. LSU drama, Nate Oats and Jamie Dixon sound off on eligibility cases",
+     "outlet": "CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcW51YkoxYk5NOXNGbWt0N25mMkdUTUx2RDEzVXcxMk9qTi1rNVpObVdsVm0yQlRzcS1vQnZuYmwyWnFkVDJWRVcwR1NmeDN6X1p4MGpMNmI0LUNMNGhSdnhSMnB4akNjM01PUkh4d08xVk43Y0lPYllEZGVjWXZPRDIwNlhPbDEwX1JQTHF6TzAwUGUyM3pRcURYaTF0SjNORXgyU3lzRW9IZjM3VnMzNkE3eTBCYy1KZF9yaFU5enVfdjg?oc=5",
+     "date": "2026-11-25T17:46:00.000Z"
+    },
+    {
+     "title": "Commentary: Athletic Identity After College Sports: The Loss Nobody Plans For",
+     "outlet": "The Oracle",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSU9URWRrSFlkLU5RS3pkZGRzb2J6emVqbS0tQTJaZkJXUThlZlI0NXRTN2c5R0pidXd1ZVgzdVFXQkE0OGExS0NUbFJxcHUteDFJeDBHenNCR01xbW1vdVVGcGxxMy1jYzdvWXdONHhOY3hFUmtXVk9uVmpQbU9XT1c2REY3emhLeVRzVkRzd2thUkp5VU5uZnVxRi1BTUpwN1h2YlNxelduRDRsRllNbF9wUER3X2c?oc=5",
+     "date": "2026-11-25T17:17:35.000Z"
+    },
+    {
+     "title": "Arch Manning, Bryce Underwood and college football's 15 best transfer portal candidates for next year",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZHRpRk10MWZCSVk4TGpzNTh3QnJtZ1hNcW1ndGxXY1JUajBmYWZOZ3lod09oUFZkRzFDc1JBeC1rQWdtMF9SeElMUGp1d3hTWGh5S3BNSWttbWNQZ0NEVngxWUoyd3YtTC1JSmpTVXFBTXNwNDMzUUkyN2hOUEVxbHU5SmZmNE5xTFMxUlQtVmdGa2FMbVh4b09QY0NMVktMM2cxag?oc=5",
+     "date": "2026-11-25T13:30:01.000Z"
+    }
+   ]
+  },
+  {
+   "id": "betting",
+   "count": 92,
+   "fresh": 40,
+   "outlets": 59,
+   "ruleMatches": 79,
+   "score": 307,
+   "sports": [
+    "football",
+    "basketball",
+    "olympic"
+   ],
+   "headlines": [
+    {
+     "title": "DOJ Responds to Kiley on Little League, Youth Sports Betting",
+     "outlet": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzlsTGljbnRJU005UWRIWVJuSU1MdEVzUkdhSUN5TzJqUVVhQm9ObnNNeTQyQkVWN19uLURxZHh2NzNwd3NPa0xvWFZqbXllZXIzYjZuRlA1T1ZJMTlYM283MXZUaXdCbDVqVWVtNGItbkpvdWtHUEI1bzR2U2ZvTHhFYlA5SHdZQ1JWYzVjYUI3R2VDSDRLczNTbGs5djg?oc=5",
+     "date": "2026-11-25T19:36:10.000Z"
+    },
+    {
+     "title": "Federal judge orders Kalshi to block sports betting on tribal lands",
+     "outlet": "Santa Fe New Mexican",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeW1fVjdkNHBHYkNoNFpHUUp4LVdCTGNHWGQtSElITFFrNE9oY3VWclNLaXpOWmJmXzYzT3BxVklqM2RaU092YTA5TWVsWkZ1WEJTYzBXaVFkOXZlYl9rQjR4Z184bndqTXc0Q0NJY3lWZmN2MnYtbHZfM1dWMnd2N2Y2WGJSeWZ5S3Fod2hMVEJIaW93UVV6eU9RSEROc3loZ0d4WVhObEVMM1o5U2Q4aHhmcTY3YkNCbVBXc3QtXzBiZHRLQ0t5WHRxY0hsclpTV2lDLS14dmI4S1M0VGhRRm9tRG40SFlCM2RodnA4WEx3VUFPOFdyWXoyMA?oc=5",
+     "date": "2026-11-25T18:25:00.000Z"
+    },
+    {
+     "title": "Texas Sports Betting Door Is Ajar, But Challenges Linger",
+     "outlet": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXFjbE5WMDFtN3U5cnJIRl9JakpSSGtrNjB1bkx6d3pkOGpxb2VwdmNBVGtCa3p5RE96cEJPNHRORVhQSHZXWUZPSnpNbkN5N3dBUlliUXZINWtLeGFpOEtwcDZqVlR2SVgwOHBLVVZUalhCaGtfZzJiZURVSVNJc1FxZlVyR1NJdWxTNQ?oc=5",
+     "date": "2026-11-25T17:50:17.000Z"
+    },
+    {
+     "title": "Clemson-Colorado State in Maui: TV info, Vegas odds, ESPN game projections",
+     "outlet": "TigerNet",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FMa2hEM29tSWJQRk9VRF9nYy1IUE5lRkRYUk8xQ2laODVpMldRcUhiOXJzeXNKcTE4dHgtOWlZZTlfUE5jUWs4am13MEdqaGdFVHVxcENDWWo3RERoZ0tIbFA2NkZmTDlRTGJUVGItRUI0cy1aZ3RaOVBkdVZROG9FWTYxSFB2Sm1nQUNwQWI0c0pCcGE5Z3RFVUxMclJfTUo0dnJ0ZXAyaWhtWU5tTk9iS3llSEplQk5CWWFDcmtrVEdo?oc=5",
+     "date": "2026-11-25T17:49:29.000Z"
+    },
+    {
+     "title": "LA Lakers announce deal with Kalshi, signaling sports leagues’ growing embrace of prediction markets",
+     "outlet": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3hLSUZtRDRRRkd1VFhBRkVaTjk0UVRNb2VUaTh5X2FacDlIdHpfaXMyRWp2aFkzZDRhblNDZmFkVndKU2FZMVIxS2hNTjhJZlY3a3NGYjlzODlPWmM1QjRKc1ZXOVJQTWpGUzlfcHRnTE5SdExsVlhZSC1vSjBDcExkM05XTVpRTGxXX0pZem9FMnZMTzN1UjlQVHh2d1JzS1lGUWNpSUVmS29kWUNYcEVhRGdvNTh3c0l0NmdoYVNGX0ZmYmpwYmhB?oc=5",
+     "date": "2026-11-25T17:41:00.000Z"
+    },
+    {
+     "title": "DOJ Tells Congress It’s Tracking Illegal Betting on Youth Sports",
+     "outlet": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnE3YUE3cG8zVUE3Z3VZVVI4TG5SWnR4bnY2elpQWjE0S3lLY3MzdGljOTZzQk5IbDdvQVJmU0Z4YU9IaXpWdWt1clR6M1RSOWlZQ0FZdmJGb0ZNY2NlWlg3aVVvWkZXTW1LNFpWNDF2VkE5ZXJuTzlTVkFRak8zZ0FFRXF1ZkNtSWlkQzhjdG4ydUsybi1F?oc=5",
+     "date": "2026-11-25T15:30:15.000Z"
+    }
+   ]
+  },
+  {
+   "id": "youth",
+   "count": 94,
+   "fresh": 41,
+   "outlets": 78,
+   "ruleMatches": 69,
+   "score": 287,
+   "sports": [
+    "soccer",
+    "olympic",
+    "baseball"
+   ],
+   "headlines": [
+    {
+     "title": "Lewiston Partners With Little League to Upgrade Youth Baseball Fields",
+     "outlet": "Dailyfly News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlJwbTMzMWpFTzVhakJEWUxZekRib3BkX01Jei14TFZyTFVZSTduYWoySzVDSi1Ha2Z4YkZnSC1ZODU2ekhiU0MwR0N4UnUzdWgzcGhuTUJ5WWQ1RjZnQ0dkYkR2dk9iUlRvZVZyTktmTkFOeWczaUc1MUtUUGN2TlRIWGQwU05SMjFrME9NY0tDNkc5dDZGSkdOSnBKcHlxYlFYV1RrWTV2UQ?oc=5",
+     "date": "2026-11-25T19:40:36.000Z"
+    },
+    {
+     "title": "DOJ Responds to Kiley on Little League, Youth Sports Betting",
+     "outlet": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzlsTGljbnRJU005UWRIWVJuSU1MdEVzUkdhSUN5TzJqUVVhQm9ObnNNeTQyQkVWN19uLURxZHh2NzNwd3NPa0xvWFZqbXllZXIzYjZuRlA1T1ZJMTlYM283MXZUaXdCbDVqVWVtNGItbkpvdWtHUEI1bzR2U2ZvTHhFYlA5SHdZQ1JWYzVjYUI3R2VDSDRLczNTbGs5djg?oc=5",
+     "date": "2026-11-25T19:36:10.000Z"
+    },
+    {
+     "title": "Colorado's Zebulon Sports Complex Moves Forward as County Approves $101M Financing Plan",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3hwN3hOdmVUeWNTOW5TUVVMSXBIV0VkSFRzUVBZVFVnUFdOeHN2VmlpZUNXeHZyQjMwWXdDLVFXSDVrRDdRaTJqLTdxdlNMMGJiM1ZyNWxCS0ZTeHVrcVVPaXEtQzBEM0JMUFc5TXBrMm1XN1FoU3c3YUpNMTNzYlZ2YkFhVk1xTk9XbWc3LUd5UzdET2c?oc=5",
+     "date": "2026-11-25T16:52:28.000Z"
+    },
+    {
+     "title": "Mazda NICA Partnership Makes Automaker the Youth Cycling Group's First Non-Endemic Sponsor",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTJlc19aVlRtMUlUZ1F0VFpRSVppNEI4T1lqbUJlbG1yVUNneW03RzB4RjJMTG5OdzJQems3bk9FY1JsdFpaYzRpbUpBdWlUX3pvcWRwTENvUWdTOVd6WUxiaXp1NGhUSlNic2pscUtENWNLSjJWWEZjWXZ4OGtoS1o0QkVfb1NKWHV5bG0tZndPb3JyNWtjbXplcUNKNVNUZElZ?oc=5",
+     "date": "2026-11-25T16:49:48.000Z"
+    },
+    {
+     "title": "DOJ Tells Congress It’s Tracking Illegal Betting on Youth Sports",
+     "outlet": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnE3YUE3cG8zVUE3Z3VZVVI4TG5SWnR4bnY2elpQWjE0S3lLY3MzdGljOTZzQk5IbDdvQVJmU0Z4YU9IaXpWdWt1clR6M1RSOWlZQ0FZdmJGb0ZNY2NlWlg3aVVvWkZXTW1LNFpWNDF2VkE5ZXJuTzlTVkFRak8zZ0FFRXF1ZkNtSWlkQzhjdG4ydUsybi1F?oc=5",
+     "date": "2026-11-25T15:30:15.000Z"
+    },
+    {
+     "title": "How longtime ESPN reporter beat buzzer for youth sports on 'Jeopardy!'",
+     "outlet": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUFxRmNTdUNkeHlVdzR4UW5zMF9saDdhOWFTV1J4d0hkUXBSYUVhUWE3NURELS1BOGRtR3dHVVVWdVhwZFRBZE84ZUxZWGw2dFNwSUJXSE5qRVBZOFZIcWFSYUNOUS1nZ3FHbVItanNGR0ZuV2czQ3BrUGJ3TG9rNjFiUHZiWWg4dDRTVVYxZHFRTmRpVjBPNmpud1JTRGFBV3RPcVhRc3ZlQk9GRHh4bUNGUi0?oc=5",
+     "date": "2026-11-25T13:36:00.000Z"
+    }
+   ]
+  },
+  {
+   "id": "roster",
+   "count": 122,
+   "fresh": 55,
+   "outlets": 53,
+   "ruleMatches": 65,
+   "score": 277,
+   "sports": [
+    "soccer",
+    "baseball",
+    "basketball"
+   ],
+   "headlines": [
+    {
+     "title": "NBA Trade Rumor: ESPN Insider Pinpoints Anthony Black’s Contract Situation After Magic Meet With 26-Year-Old Free Agent",
+     "outlet": "BasketballNews.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZldVQ01jRmZEX0laOGRjeGplSERKODB5eUN0X0IxZk4wS1ozTEl1dzd3anRVSTA3QkN6SUt1R3ltOWszbE5PVVg0Rmd4cHVVWFpZamREdXR4THlkZzhLUFRHNnhEcFpVa2d3eVFmY1ZyUFhLQ2xpUk5DSjRxWmlGYjJZNnh4dDZQZC1lMmtyUVVqM3Fvd3dqUVVwM3pSR1FFa1FtVUlsRmpwV281b21TUFU5eVhBRnhmR083QW80RkQyT1MyNHFMYmdZMlBLX192YWJCMjRST25NZHp3OGtNX3MyNzRNMDE1b3p0LTdWVnlNRW41YzFlcDgyZVh4aUF2QzhGOVQ3QzNoeGZ1YXYwNUh2QnhfMVRIeElKZFdzdGF0Q09uODVPWQ?oc=5",
+     "date": "2026-11-25T19:21:06.000Z"
+    },
+    {
+     "title": "Augustana QB Gunnar Hensley, D2's Passing Leader, To Enter Transfer Portal",
+     "outlet": "FloFootball",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWY0TGFkbWRzVllrNUJNWjJMWFl2cm42WFdQdE9vbjJ0RkJ0WklHclQ2UXZUamFJQUFBR0piV3otQnJnRzBoem5Nb0JYQUsyVlRkRDlHV1M5NHJyOG5aQzFlS29zeWdXa0oyRmVjWVVoeXBSa2dmVWxGVHozREdwZHB2VHlxMmh5Q3hYdFUtalFxOGN1aU1PQjRvSWpYYVZLMDBWaE10X2NvUQ?oc=5",
+     "date": "2026-11-25T18:54:00.000Z"
+    },
+    {
+     "title": "SAN JOSE SEA LIONS SIGN DRAFT PICK REICHEN KIRCHMAIR",
+     "outlet": "Professional Women's Hockey League (PWHL)",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzJrVXhVbVkwSHpCYVlrdi1qNERhQ25oVkFHZFdJQUZOMkx4MGZaanRXd2x4ZkY4TnNIVDVlSEpaR3MtX0tMS2otYUNKZVdmOFB3Q0std0t6LW5QQjBHM3JxMGp2YWRxd2ZObHU4RjNoRmk3dHQ5cXoxUThMV3Vjb3hqc01FNHBzLVU2alBJX1NnLW1LenJjdFBESVN3eFVSamZNMXdyTlFLREtCWGY1WGRXUDFiWDkwYVdVd1FPQVpRYW5y?oc=5",
+     "date": "2026-11-25T18:42:34.000Z"
+    },
+    {
+     "title": "MLB Sues Players to Counter ‘Nuclear Option’ As Lockout Looms",
+     "outlet": "Front Office Sports",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTXFNM0lQdGRrNmVjRUtISGgwbVdJNGE1MlZ2TXhGYkFkaDMzU0lYQkhpYkJLejE1N0hjRk5Pb19MYmMzZG1SS04zNFdBcmZfYm9Fc19VbVlVS0JxMU5ka25HYk95bWEwRnp0c3Q5WlZBeFpCX2o0bkRmS1BJeTdMR1NxQXdRaVlnQmFPQ0dqWWt0Wk9tQ0dudi12TTBEZkdkVUVJcTl3dw?oc=5",
+     "date": "2026-11-25T18:39:54.000Z"
+    },
+    {
+     "title": "Kirk Herbstreit Expected to Stay at ESPN Long-Term",
+     "outlet": "Front Office Sports",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XRm53czBFeU42emZ4UWtwS0ZTTjRNNnRZV2VKRlFXSnV4X1ZiNjdrLU1KTllpRG5aUVpqVWNieUJvQklfaGV3MnJabXYyVTVZeFgxblpnOUJCRTB2bjZvYzBKSS16Qy1HNVNTR28zdlNwcnFXOGpn?oc=5",
+     "date": "2026-11-25T18:35:57.000Z"
+    },
+    {
+     "title": "Clutch Scoops: Stephen Curry, Kawhi Leonard injury updaters, latest NBA trade intel entering December",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPangzNGR3eXYwWFBubXRZdXFYbTh1NDVrZzJ3azExRlZmX0dkV2xrUGpkNWhBTnRtVGQ4N29xdkFWamNINEdKaEF1ZU9FbUdWQndleU0xZ3lqSWJERjJ4cENFd1VkcnJwT3ZyUWNXVFdtdUVZQjVBWGExM3Rtd2R6U2dzU2tORnF3U0RzUmo5WQ?oc=5",
+     "date": "2026-11-25T17:55:39.000Z"
+    }
+   ]
+  },
+  {
+   "id": "ownership",
+   "count": 75,
+   "fresh": 35,
+   "outlets": 55,
+   "ruleMatches": 71,
+   "score": 276,
+   "sports": [
+    "soccer",
+    "olympic",
+    "baseball"
+   ],
+   "headlines": [
+    {
+     "title": "With Lockout On Deck, Owners Sue Players’ Union",
+     "outlet": "Metsmerized",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSU9wR2tyWDVQemd6aHNfVTU2aTJtMFpHc29pMzVZVm80X0YtNEtERVF4a05qdlBHTmxrWThsMzlXNTlmcTdRVnMxbDJ2c0tKTW5IUGJpeWlocWtteDFxRDA2NkNTTEs5U3NRdjVITWdsMkV5WGF1aWpLU3ZtYXNaREdn?oc=5",
+     "date": "2026-11-25T19:03:20.000Z"
+    },
+    {
+     "title": "MLB Owners Sue Players' Union Amid Lockout Threat",
+     "outlet": "The Patriot KEIB AM 1150",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSlNWV3RmRTU5bnRKMmNTSzdFaGpYdko4WlBDbGtOVjhyMk9SdjdXTGhjRXhMTEJRaFFUVE91b3hyY3lQdTVCaHhmUV9oSlUxRTlueUVqaloyVjBDZVhMNUJaNGVpT1Y0MGxaMjBwQk0yMG1QQXh2UFV1R180N2ZmdVNrX2FTajZEeFc1X3poRlNfY0FwcmdyaG9qWFoxQQ?oc=5",
+     "date": "2026-11-25T18:50:00.000Z"
+    },
+    {
+     "title": "LA Lakers announce deal with Kalshi, signaling sports leagues’ growing embrace of prediction markets",
+     "outlet": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3hLSUZtRDRRRkd1VFhBRkVaTjk0UVRNb2VUaTh5X2FacDlIdHpfaXMyRWp2aFkzZDRhblNDZmFkVndKU2FZMVIxS2hNTjhJZlY3a3NGYjlzODlPWmM1QjRKc1ZXOVJQTWpGUzlfcHRnTE5SdExsVlhZSC1vSjBDcExkM05XTVpRTGxXX0pZem9FMnZMTzN1UjlQVHh2d1JzS1lGUWNpSUVmS29kWUNYcEVhRGdvNTh3c0l0NmdoYVNGX0ZmYmpwYmhB?oc=5",
+     "date": "2026-11-25T17:41:00.000Z"
+    },
+    {
+     "title": "Newcastle's Saudi owners PIF look to sell up to 25 per cent of club as Magpies chase £1.3bn new stadium dream",
+     "outlet": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdExjclNuQVRuNF9lUU41aWdTNlpKWGZNYVpjb2VsTHlwMzNUdnRsR0FFdHhhREp2VlJ6MmZIc3NHV001R2F6WkVFS24tOUtHT0Q4anU1RnNVUWdOTkw5WnJQSEVadHoyMmk4OVBSUURTVWxIRDNtVDd0NHdWLUFnRDkzMkZraW9GeXZJS1kycGNFbVpfbEVWS3AzWXZkU3lEXzEtN1VIT05XSmVITHlpaW5UOVNwbW0xaHpVN1BSQWVjTnJKLXJQdjVHb1B4d0tMM1B4aGpTN2JPbEE?oc=5",
+     "date": "2026-11-25T17:26:46.000Z"
+    },
+    {
+     "title": "Colorado's Zebulon Sports Complex Moves Forward as County Approves $101M Financing Plan",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX3hwN3hOdmVUeWNTOW5TUVVMSXBIV0VkSFRzUVBZVFVnUFdOeHN2VmlpZUNXeHZyQjMwWXdDLVFXSDVrRDdRaTJqLTdxdlNMMGJiM1ZyNWxCS0ZTeHVrcVVPaXEtQzBEM0JMUFc5TXBrMm1XN1FoU3c3YUpNMTNzYlZ2YkFhVk1xTk9XbWc3LUd5UzdET2c?oc=5",
+     "date": "2026-11-25T16:52:28.000Z"
+    },
+    {
+     "title": "From Naming Rights to Brand Ownership: ENGIE Open 2026 Connecting Tennis, Local Culture, and Immersion in the Sport",
+     "outlet": "Roastbrief US",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbndsVVFRV0pXck5sNF9KY2hySzdTckwtQXlTQ0x5ZU5SdU9hNjNobGdyUkZoMDFvX0xWRFlELXNaR3FWazJZSWpfcmtmVmFuZmJGbVM5RWF3aGwyMFVDaHVDUzUtZ1RSXy1SNThHYkNWcXFIQU9yNzRmMWZWX2VHY3FiVWRpNHVPaDdYdHl3TFVFR3VwNmsyVUw1SE50MW1sWHhlVVZtUDdKak1XaGkyU014cktaN3BCOGZ6OTFuNGVLOXJCVFVKM3YyYkpHc19I?oc=5",
+     "date": "2026-11-25T16:42:02.000Z"
     }
    ]
   },
   {
    "id": "athletes",
-   "count": 25,
-   "fresh": 17,
-   "outlets": 16,
-   "ruleMatches": 25,
-   "score": 100,
+   "count": 72,
+   "fresh": 35,
+   "outlets": 52,
+   "ruleMatches": 69,
+   "score": 268,
    "sports": [
     "baseball",
-    "soccer",
-    "football"
+    "basketball",
+    "soccer"
    ],
    "headlines": [
     {
-     "title": "Insider Hints at Rams’ Puka Nacua Free Agency Decision",
+     "title": "MLB Sues Players Union Over Planned Lockout",
+     "outlet": "RG.org",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HdVZrTENhMTNnSnNsTzBaSHdBXzJiN2tZUENFRVkxN3Rjd2x0UHd2eG9vNDI5OFB5d1dtT09hcWNENll0ODVNekRvMUtNM2tqQTlWVXhLV19Kd0QzY0V0Y25WamMzVDJmRmJWN1Q4QWZtWU1TS2RQZWdXVkc?oc=5",
+     "date": "2026-11-25T19:36:10.000Z"
+    },
+    {
+     "title": "NBA Trade Rumor: ESPN Insider Pinpoints Anthony Black’s Contract Situation After Magic Meet With 26-Year-Old Free Agent",
+     "outlet": "BasketballNews.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZldVQ01jRmZEX0laOGRjeGplSERKODB5eUN0X0IxZk4wS1ozTEl1dzd3anRVSTA3QkN6SUt1R3ltOWszbE5PVVg0Rmd4cHVVWFpZamREdXR4THlkZzhLUFRHNnhEcFpVa2d3eVFmY1ZyUFhLQ2xpUk5DSjRxWmlGYjJZNnh4dDZQZC1lMmtyUVVqM3Fvd3dqUVVwM3pSR1FFa1FtVUlsRmpwV281b21TUFU5eVhBRnhmR083QW80RkQyT1MyNHFMYmdZMlBLX192YWJCMjRST25NZHp3OGtNX3MyNzRNMDE1b3p0LTdWVnlNRW41YzFlcDgyZVh4aUF2QzhGOVQ3QzNoeGZ1YXYwNUh2QnhfMVRIeElKZFdzdGF0Q09uODVPWQ?oc=5",
+     "date": "2026-11-25T19:21:06.000Z"
+    },
+    {
+     "title": "MLB sues players’ union in bid to preempt antitrust litigation during lockout",
+     "outlet": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUF3ZmdsSUJQQ1F0MlZWZ2xoNmhEUzRselhpdTU1b252aHFMVGc5YTY2Z2hNRV9OUWRsc29YRkE5bVJwc1ZUMEwwaVo4SWNwTmJkcWhXcEgtc3VvTTlySWNYQXZaaURWSFdWa0NuWjFPZ1dsMk40ZERxQ3dmbFlVZkFiZ1dnakt6TmJ2SURyYlVwQUp5dDJ5d21rc3lLYzFQ?oc=5",
+     "date": "2026-11-25T19:17:50.000Z"
+    },
+    {
+     "title": "With Lockout On Deck, Owners Sue Players’ Union",
+     "outlet": "Metsmerized",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSU9wR2tyWDVQemd6aHNfVTU2aTJtMFpHc29pMzVZVm80X0YtNEtERVF4a05qdlBHTmxrWThsMzlXNTlmcTdRVnMxbDJ2c0tKTW5IUGJpeWlocWtteDFxRDA2NkNTTEs5U3NRdjVITWdsMkV5WGF1aWpLU3ZtYXNaREdn?oc=5",
+     "date": "2026-11-25T19:03:20.000Z"
+    },
+    {
+     "title": "MLB Owners Sue Players' Union Amid Lockout Threat",
+     "outlet": "The Patriot KEIB AM 1150",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSlNWV3RmRTU5bnRKMmNTSzdFaGpYdko4WlBDbGtOVjhyMk9SdjdXTGhjRXhMTEJRaFFUVE91b3hyY3lQdTVCaHhmUV9oSlUxRTlueUVqaloyVjBDZVhMNUJaNGVpT1Y0MGxaMjBwQk0yMG1QQXh2UFV1R180N2ZmdVNrX2FTajZEeFc1X3poRlNfY0FwcmdyaG9qWFoxQQ?oc=5",
+     "date": "2026-11-25T18:50:00.000Z"
+    },
+    {
+     "title": "MLB Sues Players Union to Counter ‘Nuclear Option’ As Lockout Looms",
      "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0UzWWJoZlhCWlVVaUdyZHMyWmg3MElIdmVwMnk5elJzVW96S2JkUUdjZERPM0tyNkJlXzF3aHFLbWpncG1wWXBLLXFpTXVSU2FibExEOEdlTUoxeHVvaHBKR0NtU2ZPdGZ0QXVDWnBVbFEzZ3lfWVpwTkhyamJDUjNpVXo?oc=5",
-     "date": "2026-11-24T19:38:37.000Z"
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNUxQQ0t1ZzBieTdQb1NPbEY2N0gxdVdVam9mOGhqVXlvTUhPQURqelROSEZ1dTZ2N2gwdGZ1LWdIdmVqQ0xYSjBjSmdVT2tZc0h2ZU9hV2ZoQV9QcG5lOEJodXhMV0RPeTU5N2xxVkJGbEFoX19jRmtGQzl6cFQ4MXo3NnY2WGQzWUNj?oc=5",
+     "date": "2026-11-25T18:35:38.000Z"
+    }
+   ]
+  },
+  {
+   "id": "sponsorship",
+   "count": 35,
+   "fresh": 12,
+   "outlets": 33,
+   "ruleMatches": 35,
+   "score": 134,
+   "sports": [
+    "soccer",
+    "basketball",
+    "olympic"
+   ],
+   "headlines": [
+    {
+     "title": "Home State Bank Naming Rights for Polk City Sports Park",
+     "outlet": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGpUU1NlX0VjQ2MxMWpMRUk4YTZPUENERXFBcU1sNW9vN0tXX05wQU9NSFc1UU14UFlTc3dpNFhPdnVGZC1QODlQRXNpRG00SGFBdUNWdUR1YTlRVkViMFJsOGtQODN1bGUxdG03OEVFR1NReE9ydnpsZ1ZpdFNyQjZyNGU3enZCajN0UmlsVlIzVGVFYjM4VWtuZ09rcGVmdmVoNjA5VU43Mi1kSFE?oc=5",
+     "date": "2026-11-25T19:07:29.000Z"
     },
     {
-     "title": "Floresville Little League gets contract extension",
-     "outlet": "Wilson County News",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFl1QmhKazU2aDVxWjduNTB3Z0tWdVotWkxNRGZnMVVXYWZQbjh6dTR0d0NnNEdoeTNuSzFvdTIwbGRzVG9NTmlyZ04tZVpkRktadXEybDdPcHZ1MXVHRnJGa2Vma3JiWDVUUXJWbmQxTnZyTkRnUWxKMVFoVi1iREFXVHJfUTdKbnRNcEt3TVc0MVFLWVFj?oc=5",
-     "date": "2026-11-24T18:06:38.000Z"
+     "title": "Mazda NICA Partnership Makes Automaker the Youth Cycling Group's First Non-Endemic Sponsor",
+     "outlet": "Youth Sports Business Report",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTJlc19aVlRtMUlUZ1F0VFpRSVppNEI4T1lqbUJlbG1yVUNneW03RzB4RjJMTG5OdzJQems3bk9FY1JsdFpaYzRpbUpBdWlUX3pvcWRwTENvUWdTOVd6WUxiaXp1NGhUSlNic2pscUtENWNLSjJWWEZjWXZ4OGtoS1o0QkVfb1NKWHV5bG0tZndPb3JyNWtjbXplcUNKNVNUZElZ?oc=5",
+     "date": "2026-11-25T16:49:48.000Z"
     },
     {
-     "title": "2026-27 MLB free agency, trade grades: Offseason analysis",
-     "outlet": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHhuVzd3cG5xdEF6VFktWVduRnlwNG1BV0VtLUVfOEdNcUVsQlpKMnRocHlqcGhkZVljWGlrcG1PSWZzZkI2TmRhNVFWcVdyUlRXUGdSUnFSNm5HR05UaXVya1MwTnp3dDRnUzJxT1dtNUZ6MmpJZTc4VG5IXzQ2MUMwRExuVndna1JuUWEtYWg?oc=5",
-     "date": "2026-11-24T17:40:00.000Z"
+     "title": "From Naming Rights to Brand Ownership: ENGIE Open 2026 Connecting Tennis, Local Culture, and Immersion in the Sport",
+     "outlet": "Roastbrief US",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbndsVVFRV0pXck5sNF9KY2hySzdTckwtQXlTQ0x5ZU5SdU9hNjNobGdyUkZoMDFvX0xWRFlELXNaR3FWazJZSWpfcmtmVmFuZmJGbVM5RWF3aGwyMFVDaHVDUzUtZ1RSXy1SNThHYkNWcXFIQU9yNzRmMWZWX2VHY3FiVWRpNHVPaDdYdHl3TFVFR3VwNmsyVUw1SE50MW1sWHhlVVZtUDdKak1XaGkyU014cktaN3BCOGZ6OTFuNGVLOXJCVFVKM3YyYkpHc19I?oc=5",
+     "date": "2026-11-25T16:42:02.000Z"
     },
     {
-     "title": "Jon Morosi shares the latest MLB free agency buzz",
-     "outlet": "MLB.com",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzNuNG96VUJvQUl4aE5Zc2JpSklPTFV3dVpZdlg4akhMTWhKaWpmSkR5M1lIUmFxQVQ1WTN6ZUFtX3ZpUlZJb2EwQW9iRHZ3VERzTEVxZzhOalVWR25tb3VrNDJCd05BclBqUTVHMzBTalVKekw5WEtTWGluMy1hVnhNOUFtdWlqT2dRdw?oc=5",
-     "date": "2026-11-24T16:24:04.000Z"
+     "title": "Marketing Prof Talks Sports Betting Ads with Walrus",
+     "outlet": "U of G News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FjT2V3NVJPZkxPMHIxN2xWdUttNDhVb2loOHVDTWJYdl9MemFvN0szXzJQcS1wbUZwcGJJRW96Ykc5aFVNUXZvaDczWnhISW5PZmtseDRScnpEWFBOdDBmQV9XMVpvemRqVHRCVXFLZkxmeXhEa0YyVVlfWkF6b1hxck1DeDltY1JLdjN3?oc=5",
+     "date": "2026-11-25T14:21:03.000Z"
     },
     {
-     "title": "MLB Free Agency Thread",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iblp3eEw0d3c3aHA0WGVJSWYzd3NVb1J1WjJ0S1VNVzY4U1JUN0J3ZUhBeUVGczZPQV9BRW1tUzFFSS1KakJGVEFCOHZUcU5aYzI0UzllZ2U3bFRjd3VUWWx4QlFMX0ZHTDN5YWh2YTFpU3hHMDNWbTRQQQ?oc=5",
-     "date": "2026-11-24T16:16:31.000Z"
+     "title": "Home State Bank awarded naming rights to Polk City’s new regional sports park",
+     "outlet": "Business Record",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODJWWXpZLWZRZ3NZeG83MmFLWUFaNXdGV0hXZ3l6ZlpfaGNacHJqQXpnQ0dqcDlsb2xQYU1tMEZTaDVYVTkxX0Vib1dfYl9Za1ZIdTVGYnNCNndTcWp5bWRJWGJTWFpZZC0ySmM2MU5KZDRyVDBJMWVKVW00TFJpMkg5RXk5OHg5NVg2Y0JLOWJQWHJWaF9JTUNIX3oyVjV4YkZoczUwVHpVa0py?oc=5",
+     "date": "2026-11-25T12:03:23.000Z"
     },
     {
-     "title": "MLB free agency Top 50: Ranking the best players available this winter, starting with Tarik Skubal and Freddy Peralta",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZlNTZlV0V3pXYjNuM1QyeGFnOTA1YXRIdXBxdDdKLW5PeE1nUHdyaUxaN0NDb3NXc1FWTGFjM2xjaGdvYmNBMWlZdHdCRUczSGo1Q2N2NHdHaEdSMk8wd3QxdjctVG81WjA5Q3pQbGZqaTE4d0I4ZWpiNkhwYldzVGwxbHRxeUQ5RV93b3BYZ213MGFVejRyY1c1d2Npa2dIS3IycW9pWFFHUlp6c2ZwOUhEbm04VHE0UHRnYzI0UWl1eVpIVjBJRlBZbXRfQXFSUk5lU3NEcTBRVGZoVGVzaVZhWEtKZk5RbzhUeUQ5X1JfVFRtZ2VRUU80bw?oc=5",
-     "date": "2026-11-24T15:58:23.000Z"
+     "title": "LA28 oil sponsor",
+     "outlet": "LAist",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1JMRjJFaTF2MzRHb3ZYSTlTQ2tGaGdlQ0tUNDdIRkQybW9NcFA4TFZlVUw5Y3l3RmNrMm1ROGRFSE05WENwSVhrQmVjMTJ3S2V4Y3ZOQXFGRGRDbWxQNUh3YnNLYUhXU2p3dk02eFd3OUZHZDEwZXVUWmFLd0ZLZW1vOW04ankwa1cwRmpUaExvcGk3bTkwVVBQNF9KTUZ3b01DNS1XYVZxdGxpSU1WNVdvYlZMTUs4b0FQYVl2RUNXYkZQQW9j?oc=5",
+     "date": "2026-11-24T22:19:00.000Z"
     }
    ]
   },
   {
    "id": "leagues",
-   "count": 26,
-   "fresh": 10,
-   "outlets": 25,
-   "ruleMatches": 25,
-   "score": 98,
+   "count": 30,
+   "fresh": 11,
+   "outlets": 28,
+   "ruleMatches": 30,
+   "score": 115,
    "sports": [
-    "soccer",
     "football",
-    "olympic"
+    "soccer",
+    "basketball"
    ],
    "headlines": [
     {
-     "title": "WHL Commissioner Not Concerned About League's Talent Pool Despite Players Leaving For NCAA",
+     "title": "LA Lakers announce deal with Kalshi, signaling sports leagues’ growing embrace of prediction markets",
+     "outlet": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3hLSUZtRDRRRkd1VFhBRkVaTjk0UVRNb2VUaTh5X2FacDlIdHpfaXMyRWp2aFkzZDRhblNDZmFkVndKU2FZMVIxS2hNTjhJZlY3a3NGYjlzODlPWmM1QjRKc1ZXOVJQTWpGUzlfcHRnTE5SdExsVlhZSC1vSjBDcExkM05XTVpRTGxXX0pZem9FMnZMTzN1UjlQVHh2d1JzS1lGUWNpSUVmS29kWUNYcEVhRGdvNTh3c0l0NmdoYVNGX0ZmYmpwYmhB?oc=5",
+     "date": "2026-11-25T17:41:00.000Z"
+    },
+    {
+     "title": "Mahomes changed history in 13 seconds and beat Bills so badly NFL altered rules",
+     "outlet": "talkSPORT",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWtqQldVaEdPSTFwQ0FlbVA3ZkJ3ckIyajgwWHozd2RUQkVCTzZ0cUYzTjI0djM5UW9obUxqeVZ1QVZqM1RIbmZFcDZrcTJpVFVNQ1BPZkVZNEFPWFNRYzRoR3BhSDhxSU52a01wd21mWi1lUV85YjEtcDBId1ltM0thbDJnUlVSa3JwWlM2NWlka3A3cU5oOGJB?oc=5",
+     "date": "2026-11-25T14:37:45.000Z"
+    },
+    {
+     "title": "Transfer news: Major Saudi Pro League rule change could shake up the market",
+     "outlet": "Sports Mole",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLWF3cS1UbEVqMTNtUlA2aTVYOWhDZ3VIdDA5UHVRTWY4bldXYVVON1BrN1FtUndnMEdyZ0lYejhGeE5aVndRNVNQYmluaVVid0kyQlJaWHVUdndEMThxbjhzUTVJT0M4cElVNlpNMG1sQVQ2QVdiQ0RjZWFXTHlXUVdtbnczRzBpRVo2WEZHRkVrcFgwNGh1bHJXV3RoNVRtdzk3UHFpUUdpeW05cWFkcVdxQ1V5NERCLVlrWTh3SXpscTNNWnc0ZDNTbnhRT1VKaVpNQw?oc=5",
+     "date": "2026-11-25T07:26:18.000Z"
+    },
+    {
+     "title": "Nathan Cayless faces fresh Hull KR dilemma as major Super League rule change approaches",
+     "outlet": "Hull Live",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVk2OVl5UVpQZGpjVmZBSTVhdGVBV2xjODZhNHJHbUtSZUMycFdJVkozUFNOeldhaGk4S2hseXZGTko0UzM1cm85YThpNUV3cXMtMjcxbHZ4eXBpRHBFMjFsdE1lVzFkczlzb2NkOWNtcF94cG13c3JGejYtel9IVFJsVU1pMmlLd25kYlczX2xRbE40?oc=5",
+     "date": "2026-11-25T05:00:00.000Z"
+    },
+    {
+     "title": "‘You Are Cheating the Fans’ – Lakers’ 3-Time Champion Cites Kobe Bryant’s Story To Blast NBA Players for Load Management",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGdzSHNFV1ZzX1pVMHpmdUpZQy1YRTJZeEEyblM1UFpITjdld2tYYkVnNUQ4RUpISi1fZ3RuNGNsUE9YN1M4TVNEcmVicHBHWkZuXzI0MnFya3NRNE1hVWpEU2tUeDZXRTNQeldUZEpGTEhMVjNqNjBEbFlnOHJXZ1F3S1haTkE?oc=5",
+     "date": "2026-11-24T23:40:52.000Z"
+    },
+    {
+     "title": "PWHL's New High-Sticking Rule Comes Into Play Immediately Earning Early Praise",
      "outlet": "The Hockey News",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS190Q2xXMlE2d1h0OGNoYS1KamhMdnZHNXFkWWhwN0gwUnE3NGtDSmtmbXBuNTJMc2VLSVpRS3dDR1E2d3U0Wlk4QzZDZTQtNGJiQnJ0MzZMS3VPNDBoLXpPNk5xaE9GOEhNNW1OeWRucU5aNjZnWU9QMFd3cUtaTVNiOEFaMDYydkVyR01uZmZ5R1otbjIwM3JQa3Etc3JBLXpGcUQ3V01RV2syV3JzZFRUeGt6LXFHUjdkQnF3OWl5Qm9ZZWJtcnZNLWs?oc=5",
-     "date": "2026-11-24T15:32:47.000Z"
-    },
-    {
-     "title": "Rule change could spark Premier League exodus with players leaving in droves",
-     "outlet": "Daily Express",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVo0SUw4MmtMWFBpeFpVVUxxOXdwSVRXUXhuLTExVzcxYkZ4MzNDcks5bmRQd2FNbnFzNmFiTW9YYnJKSkFqN0V3NEpwS0FYRWQyMm5fbEd5RTZtckp1c1RjUnVmS3dzUWZBd2hudEsweENpWjg0WDVVZmc2b3hoTkdMR05JZ0pjNThz0gGQAUFVX3lxTE5jVEJuWWV2b2tTSkEzX0pCMG5JbHk2ekxJTkl1UElTLWdLdF8ycTRDa0xXR0pueFF1dk8wU3VMeTBmUGFSZ1lzWmwzRERtVkdyZ3E1Wm1RRVR0TTFRdEVpYjJzcVRTWUFtWFlXbElrZjNxTkM1azU1Mk1panZnTGFjcHBjRngzanczLUt3Mm1WSQ?oc=5",
-     "date": "2026-11-24T13:55:00.000Z"
-    },
-    {
-     "title": "Premier League clubs on red alert as Saudi rule change could spark January exodus",
-     "outlet": "The Mirror",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjFaM1BLckdwTVQzTjN1RElvd3VvVWhsc05xUW1iSHhQaWxTRTN6dS05TGNIdm42X05XaUczRlZkTFZ4YlllSm8wenVSRXhkVUR2bTk1Y1dEZS1zR0JBdEx1VDZTNm9tTHQyTnphTXNUWFdDLWszXzhCYmUzUUFsN0V0dDFrZ2FBS0Q4eWhB0gGTAUFVX3lxTE5yS193RUM4c21FSmtwaGdEc2d6eDNDZnU0UzA1SVktUllTTVMyRWF5clNoM3pmRDVvSkJ6MmdPdi1DcDlmZGh0V1lIUXRiMHowZUpZNzl5WlNUODZ5bnNIRUlVOXhpdGlaQlZIam8xMWY3eXRNZWV1VUZBc0hSZkRyWVZmZ2VsbjVEVFRnbzg1Rl9STQ?oc=5",
-     "date": "2026-11-24T13:50:00.000Z"
-    },
-    {
-     "title": "Washington Sports Betting: Legal WA Sportsbooks, Apps and Betting Rules for 2026",
-     "outlet": "FOX Sports",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jclRnZjBmT1d4cmhFaTdpb3hmNkpXVmpPbEw5aHJIZDRmSkZBTlFZMHdPV2xaQU5yYmM0Y1NTZEpQT2NlSmk5MmRQV09XbUhLby1kTlQyUWdnZ3E0VU5wUm5XT01TU1p1dEZJM1RNTk5mT1dsOGc?oc=5",
-     "date": "2026-11-24T00:33:37.000Z"
-    },
-    {
-     "title": "Byron Scott Calls Out LeBron James And Today's NBA Stars For Cheating Fans With Load Management",
-     "outlet": "Fadeaway World",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQUVyblk5a2VSbkt2UUV2My1Jb245NGUtaXBhSkx3alJNWVlxc2xlVW5sQzVObW45Rjk3cUJmbml0cHJ3OUlfb2tjZTkyeTlSOURkbUlOMzZHODlKcWVnWjRtYXozY2tKWWJTUWJEQUpqQm9aZGZ1cEd6djY0QU9vRVRjVWh5VERzVXRWUVdvTTYyc1ZBYXZNOWQxSmRqX2NseTRCY2lLSEJ2NGU5REc5eGFnN09lRFBGRDgzQ3dnVElMSjJnb2xrdUpDajFfX0ZTUEtxVlZ6alN6S3c?oc=5",
-     "date": "2026-11-23T18:37:56.000Z"
-    },
-    {
-     "title": "Cristiano Ronaldo’s Saudi Pro League could look completely different next season as radical rule change eme...",
-     "outlet": "World Soccer Talk",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTWc0eDRHVkc4ZGFXRWVhejFFX3FxTkI2Q1JDQmNMYWZILUh1bGZZX3BLVzJOaTFzSEgxaGw4UWI2aHlfV0ZBa2U5SGhPUUxHSC0tUFFYVjF0QnVoWlN6WjlfTFFqTDJBa1BUMVpJMThSZWF5SDBfMjRSVnhXZ2V6eFlIeGhsRXhyaDdhaDB0SmctVkhiQ3pnVFVvSlAxbTR3U3YyVUFTNHA1bXRsN2tUS25vVjVmZElGTm9nM2l2TkRCcFFxakZ6X3NxSXItNFdlQUFuRDMzN2ttdVBN0gHgAUFVX3lxTE4xSHA2M1ZYMjV2VGt3NzBoUUxIbDFKTnZjSjZWM0pEQ1A3MHZ5X3g1RGFEQUxpLUJHb1RpMXl2NjhFcG5BVkY3aFprc1dDVlhkNDRya0JPLTFrZFIydTZzM0lpZVQzMkw1LTJVYnYtMUgwNlVEQU1BbTZRdTFsZ052THJxYno3X1JUb1pwS0JVeDcxVHM2NGNlellIdnUySVMtaUV0UjAzWTZlS2RpLUZ4eTJIb2ZmREQxT3FMZUI5eWlrRVBsRUFHTFZIcjZ5NlZyN1pudlJ1T0xtbmI3MWhY?oc=5",
-     "date": "2026-11-23T18:08:21.000Z"
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXdVNjEwZFBnUy1HZ2hWUFVFc1R4QlNRQ050eUkybnhmLWFuQ2F1T3h6NzJjeFVpLWZnaG5JVmZPQl9ZVTZ0eXBZbXpuLUNLQjRfaFIzbzhhc0lKNjNVV2Y0TFQ0M3VlazBjMHVjSHp0RUZuMWtwNGRzWFV0aW85Y0Z1Q3BUUS04MGs4Q3dzNk05S24tRHJRX3ZZaEtrYTJQSlgwRGp2SHdlc2liRG05SmlIUm12dw?oc=5",
+     "date": "2026-11-24T19:54:18.000Z"
     }
    ]
   },
   {
-   "id": "impact",
-   "count": 34,
-   "fresh": 13,
-   "outlets": 32,
-   "ruleMatches": 21,
-   "score": 92,
+   "id": "tech",
+   "count": 29,
+   "fresh": 10,
+   "outlets": 29,
+   "ruleMatches": 27,
+   "score": 106,
    "sports": [
-    "olympic",
-    "soccer",
-    "combat"
+    "football",
+    "basketball",
+    "baseball"
    ],
    "headlines": [
     {
-     "title": "Exclusive: Anuj Shrivatri calls for chess' inclusion in Olympic Games",
-     "outlet": "Khel Now",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wazBsWFF0eGRBay1OSnFXNHplbG8yLXp1OWdhMzcxdWpaYkwxaGZmRjQ1YWhmRExidzk1Rk43LTVxRUlsY2VnazB5TndRNUJHT0JhQlQ0RTdNd3A4dFh6WG9yWlNNV2plQnVlNlg0R2p4OFFp?oc=5",
-     "date": "2026-11-24T13:28:00.000Z"
+     "title": "DOJ Tells Congress It’s Tracking Illegal Betting on Youth Sports",
+     "outlet": "Casino.org",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnE3YUE3cG8zVUE3Z3VZVVI4TG5SWnR4bnY2elpQWjE0S3lLY3MzdGljOTZzQk5IbDdvQVJmU0Z4YU9IaXpWdWt1clR6M1RSOWlZQ0FZdmJGb0ZNY2NlWlg3aVVvWkZXTW1LNFpWNDF2VkE5ZXJuTzlTVkFRak8zZ0FFRXF1ZkNtSWlkQzhjdG4ydUsybi1F?oc=5",
+     "date": "2026-11-25T15:30:15.000Z"
     },
     {
-     "title": "Verge Meets: JAMES DORNOR, FROM FORMULA 1 ENGINEER TO CHAMPIONING DIVERSITY IN MOTORSPORT",
-     "outlet": "Verge Magazine",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcVhFaDFTUTV5YkVKRHZlNDM0elJqbW5GR1gtUGRKd1NrYV92UUtKWEYwRWhic1lnZF9zWUFzRFlkVDQ0X0k5VXdOUjVvNXN0RUNqRlExc1QyWndndVllRHJ4VGtlcHIxSUFkbDFVNnNkcjQzU2NrVElvbDVnMjc2RnVNVTJZUDBMVVNpOEhtVThwa28xZ21EcWM2ZjlKcjBEY0IyU3NLMmNJOUNORkEzeG5FSXFSQWc?oc=5",
-     "date": "2026-11-24T11:27:21.000Z"
+     "title": "San Francisco 49ers and Meta Partner to Enhance Fan Experience with AI Technology",
+     "outlet": "Sportscape Magazine",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFdVdFFtQlpJTmkyTXF2SE42a3dISmRISHV6T3dLRXhMam44UUVMQlRZYy1TMk93MTlBalliVUNWbnA3TXlxU2o2aUJVWWZqU0toVzNIYm4tdWtNaGl2TjR5RUpUUmxCNnlCaUxBYm8xZ1Ezd3V1LXJWbjExeHRSTWhkaE4?oc=5",
+     "date": "2026-11-25T10:57:14.000Z"
     },
     {
-     "title": "Brad Rothenberg on what it takes to make American youth soccer truly inclusive — and successful",
-     "outlet": "Soccer America",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbFpHV3Z2M21OZDJRWkFvb3NaekVMSGxTODJtZG0tbGh0VEwyOWxoaGNBZVN0MHhkcERXRm1rTTkwLVpmbEc2OUxlRTB6RlZSQXRjWmlxckZkclF6Y0RUdWswdTNsdm41QkxJQzlwem9VaVpaaTRYX21fX295SEJ6cHk5azJibDllVGNDY001Y2ZLM1pYZWFVYjV6bm9RZ1U5V1FxQzFYNzNmNV9nNmF4c2U5ZnJYUGNVVlpXSTRIdXYzQQ?oc=5",
-     "date": "2026-11-24T09:41:47.000Z"
+     "title": "Indian sport must be institution-led, not person-led: KPMG's Shanthakumaran",
+     "outlet": "Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDlydGVQd2JWbzJoVDNfWFBPU1poNm82NmZxLVowb2R1VUgyZUtrdDZpSmRqdmhaM0ZyczF5azhKd3FaN0ZKMUlQZS1HOFZMNzY2VWNjTU1Fdzg2TkgzbWVkQUFvME4zVEd6bTBQeVdjUXNmNV94eFdIRHZ4bWM0Z2lmMUh4V1dVZlVVd0dIbW5tcDBaYnRDLXpPWWlhMTdWbGtyWjM4b3VWa25PVlVlOTJ2X2JlNzI0WTdOVFlFQkR1YzFDRzZoV0Z4WXdGZ9IB0wFBVV95cUxQTnE1aDQzalR6bkVrRlhlOHo1T3F2bmU3NWZ4dWFpTFU0X0pDM1dvSHZJeXZZS2ljWWE0WmcyaWpyUjBGSEpkX3U4ZmN4aTduay14cnFGaWhpQmpsc3p1bUtYMmNfSXdkTjljZ1k2OGYxMURuM1NPN3BKU0pNdDRxMzJnREx0YlNkenlwMXVrUzNab0tsZGxHMlJXZUxMZW1NdnFzaGlKYmgyckpSNUZsV3pMN015aF9xUGtEem1EZVBLdTJNdTVhS251T181NE5zOVdR?oc=5",
+     "date": "2026-11-25T07:01:50.000Z"
     },
     {
-     "title": "Australian Sports Commission and Getty Images partner to change the face of Australian sport",
-     "outlet": "Getty Images Newsroom",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTzk5UUVLOWs1YkhWYkdVMTZFQnN3ZEVFNDVteHNiUjQ2d05lNFYyYXA3Nnhfb1ZHQTFHMkZmNjBtVmtVLXBHMkk1MjVEc3owX2Z6Z3BDUm12aWUweUstdG5zLW15Zk9UcFE1LTlDbldfRy15enNPeEczRjdPc25FYl91WDdGQXBrcXBUUFM5dFpPWUM1X3ctUnYxYmRWcnEzNFFrT1lpZ1dna2dwLS1xb0tvcDVBTW9nR1ZPVS1TaEJtbktQa3NJVmhHSnhIeUlBU2ZnNWZXSnM?oc=5",
-     "date": "2026-11-24T04:24:21.000Z"
+     "title": "KBO Partners with Google to Enhance Fan Experience with AI",
+     "outlet": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGYtT2libFlnT3BWdXlSUG9iYm51ZFRtcmpMemV0WUNfSzZUdk42VjB0aHVuYWFveFdUdUxDSkI3WGdIaUYtLWo1WUJxbnpxb050NFBlbTRyQXdsSWl3bDFXZURXWENyTklDbW5Oc2hPU201Tl9sdVlEUzF5NkNpaUc0X2F3dw?oc=5",
+     "date": "2026-11-25T05:26:28.000Z"
     },
     {
-     "title": "Sport and inclusion are the main focus of the weekend in Reus with the National Unified Women's Sports Championship",
-     "outlet": "Ajuntament de Reus",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU21iRDhrVnZPa0Y1ZldWb251MjNxQllKWTRZYTd5dTRZeFBjQkJmbmNGZ3MxcjdvV2Z3LS1mMUpBYTVMTDVUbHNsaGgzNTlCa2E2WlJ0NlpmSFR6OTlfQ3c2WWo4MUd2QnVqd01Gb1FGaThTa3dUaVZYdmJLclc2WEdhN0hTdzhTM1NLZlNnRnhQYVR6N3M0V2ZmRHRJZEhuTzRCOXVkTjRGeTNjU2xtTlpxY0ZQRTNnQmRRMmdySQ?oc=5",
-     "date": "2026-11-24T01:16:15.000Z"
+     "title": "Julia Scott, ClemsonWomen's BasketballForward",
+     "outlet": "TigerNet",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJcW16cVlDdkJ2VmxrUW5hMElMSkVlQUJTTVM3R3ZrQWpYazZkc3FuMlNiMUt3MWRxYmM2LV9lQU1VdC02VThjTnJvNGpwSXJ4T1NrWExndWg1VkNPLWFmVFJTVV9ETWxBdGJ5SGN2UmhhaDgwa0dxV1FfNA?oc=5",
+     "date": "2026-11-24T21:44:46.000Z"
     },
     {
-     "title": "KC Current's LGBTQ Brazilians help seal NWSL Championship crown",
-     "outlet": "OutSports",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDdlUHNQcEFpOXpKdkpkamczOVVLRzNRNFp0d2V0WkZmbDJGajJtTVN0NHZCTzZ4eGxhZTgzM2NZczdOdHFSTmhDVFRBLUhPLTItQktaVXJKa204RDlNV2pkang5Vl9BM2FTXy05eURJNlI1WmdpODZ3dFlNRnpnbEx1MXR1MFVwMm1IZWoydHFGcHMxR05rTDRjaFpRNEl5dDFoUWMtd3dEbGtLNUxHRWJaN3ozbUE?oc=5",
-     "date": "2026-11-23T20:10:00.000Z"
+     "title": "Amtrak Reverses $900 Million Bridgeport Rail Yard Plan, Clouding White Sox New Stadium Vision",
+     "outlet": "Construction Review",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXhHZEI0eFN6OUo0T1FIWGl5WmNsRGZVV0NkcHpib1ZrTVlaa2JHR08xd19vakZVWG1DTnIxUFhDaHUzRTFuMDhhQnFqWGVYNXdQM1BXcVpxbXVXZFV3RXBfemlsMFpmRGREZkNkUnpEYlRlb2VkTjVCaFA3NVRXYkVQaTJsVzdFdDNfTGlKNWJ5X1ZXUTdyTndDQkItVlNmSWNIWjQ1SFRkbVh2bVVrTjRsN0Q1M1ZDTFZ1OHBNNVRtVHdDbjN4bw?oc=5",
+     "date": "2026-11-24T17:53:41.000Z"
     }
    ]
   },
   {
    "id": "ticketing",
-   "count": 24,
+   "count": 28,
    "fresh": 8,
-   "outlets": 22,
-   "ruleMatches": 24,
-   "score": 91,
+   "outlets": 24,
+   "ruleMatches": 28,
+   "score": 104,
    "sports": [
-    "soccer",
     "football",
+    "soccer",
     "combat"
    ],
    "headlines": [
+    {
+     "title": "Report: FIFA to use dynamic pricing for 2031 Women’s World Cup tickets",
+     "outlet": "Sports Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazEtd25qUW9WckJCMGRMT2pvamtXUWNmeENyeVBfZTFqUG5tSDk1R3M3Vm81d2Y2MlpCNGVSdTFlUlYyd3ZQYnVrWWx1U2UyYnZlcl95S2s2MmY5MUN6cXY4QkxaOU1Idk5HRnE3MTc5WDVkUXBRenMwVjhaMlhoQURubjNVc1o1YW1BenRPMzdScm1Gb2tjUUQzcEVndEFxNHpzMEhoMEplUkplclFndldGVjNfR1RHUVdZT2VFZkNNbU4xeGc?oc=5",
+     "date": "2026-11-25T16:19:55.000Z"
+    },
+    {
+     "title": "How to buy UEFA Women's European World Cup Qualifiers tickets: Dates, ticket prices & more",
+     "outlet": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlF1MVNoenRyS1lKUi1sNndIcTBzSEdaS2dsbUJvTVBJN19xX2toeUdwaHNDSS1jTndjT0lIRWg5VEhuR3NQSm83NUFPZDI4SUVjaGdNMWNyb3kxRGZKanpKc2RWY1hxdEFrRDBNSzBGRU9wdnd4ay04dVA4LVJLTkFta01TLVA5dzhKSkRkQ19oMUFYaFhmNjV6MW9wWWprTU5iOWZNM1FSVWh2WmVmVURR?oc=5",
+     "date": "2026-11-25T07:59:12.000Z"
+    },
+    {
+     "title": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
+     "outlet": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTZEa25HaV82ZmZFbjdsTndjcGUtc3VfT1JSUmFvNktIYm5fdlZLdHZqMXowNE5aVjFELU9fdU9CbHEwRjBZeW1sTXRnd2dTZGVIQ1Y5TlN5U1BHWkxxaTlXcWE1aFJLNHlaaFFTdjljbDdFME1YdlBkX3VyQ2JxRWw3cEtRLVlTTUprVTdGZnNOU1lkc2tSUnZB?oc=5",
+     "date": "2026-11-24T21:09:00.000Z"
+    },
+    {
+     "title": "Vivid Seats Becomes Official Fan Experience Partner of Los Angeles Rams",
+     "outlet": "TicketNews",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWl9RRWNoZnpETmdlNzZaMUhWYlhwUGQxYUlXVDdfRDYxSmhxYmR5WEtTdU0weWtRa096Z1JpcndyeHZkaUpkU2poRDZ5Nng5TGdrUHhSRzVWV1pYQmxDcXg4UDY4STU1OENFbmVQbWxwRHRfRmlxdDNpOWh2RFFRNkl6dXM2Yi0zd3FuOU9rVzI4OHBKclNZTVVuSmhnd2Vic1BCQ1lORC1oS2s?oc=5",
+     "date": "2026-11-24T15:25:02.000Z"
+    },
     {
      "title": "MC Alger ticket prices announced by Yanga for CAF Champions League clash",
      "outlet": "Pan Africa Football",
@@ -792,106 +714,190 @@ window.SSAC_TRENDS = {
      "date": "2026-11-24T15:15:21.000Z"
     },
     {
-     "title": "Dynamic pricing to be used for games in US during 2031 Women’s World Cup",
-     "outlet": "The Guardian",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTZEa25HaV82ZmZFbjdsTndjcGUtc3VfT1JSUmFvNktIYm5fdlZLdHZqMXowNE5aVjFELU9fdU9CbHEwRjBZeW1sTXRnd2dTZGVIQ1Y5TlN5U1BHWkxxaTlXcWE1aFJLNHlaaFFTdjljbDdFME1YdlBkX3VyQ2JxRWw3cEtRLVlTTUprVTdGZnNOU1lkc2tSUnZB?oc=5",
-     "date": "2026-11-24T13:53:00.000Z"
-    },
-    {
      "title": "FIFA advances 2030 U.S. World Cup media rights bidding, Netflix in driver’s seat",
      "outlet": "Sports Business Journal",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmxKU3d6TnE2cGlBZFlJbUJiUDdCUkN2Q0prMVFxWEJVQmVYUUFnLU1sSHlWbzdfV0RIRzJOcWp6bTk1bktlUEFmazZGZldLWlJRQndIYVRHRjllT215NlR5N2JTa3BKd19HTnlWTGxoX01OdGxSOFR1OV9YckZwcFk3cFFxMDlXWERoa0RYdGoxbkxydnBJWGRleWM4QkxUOEpFRk1ua0RveHBOcHZyZkxtOVVCTUlwMEw0M2FRV0R6RUlEcENRS2kta3RKc3lV?oc=5",
      "date": "2026-11-24T12:42:36.000Z"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "count": 26,
+   "fresh": 13,
+   "outlets": 20,
+   "ruleMatches": 24,
+   "score": 95,
+   "sports": [
+    "basketball",
+    "olympic",
+    "soccer"
+   ],
+   "headlines": [
+    {
+     "title": "Clutch Scoops: Stephen Curry, Kawhi Leonard injury updaters, latest NBA trade intel entering December",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPangzNGR3eXYwWFBubXRZdXFYbTh1NDVrZzJ3azExRlZmX0dkV2xrUGpkNWhBTnRtVGQ4N29xdkFWamNINEdKaEF1ZU9FbUdWQndleU0xZ3lqSWJERjJ4cENFd1VkcnJwT3ZyUWNXVFdtdUVZQjVBWGExM3Rtd2R6U2dzU2tORnF3U0RzUmo5WQ?oc=5",
+     "date": "2026-11-25T17:55:39.000Z"
     },
     {
-     "title": "India International Trade Fair 2026: Check Ticket Prices, How To Book, Gate Entries",
-     "outlet": "The Daily Jagran",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd2RqOFZaWGh5S2hWNXkyNnNrenZiblZnRmpVTm1rZmZjMFdocVJUU1dPQVlGSU9KQkJYTjBzcE5xNWdVb21GZGVheEhNaGFVbk4yazMyVmhqNFpzNy14bWdoblY3UnJlNXZmeWhNWjFaS0p5YjZRM0YtR3hseFpMU3NlT2p5aVVxSi1PNlRPQXRzQS1XaEx6YUNpWkdoc3JwNTNuWEtvbnlpVEVHWm5kelNLUDBUcjFxWV95elRUNnhvRm1mR0pWdEg5c9IB0gFBVV95cUxQTEFFTmZWbVJGemN0RlRpb2hYUm9zLVFfZmZUREZ0UjdkUTVIVjlRWW54d1JpQ0FVV0ktRVYyTi1HYjJwYmtYa2JyVGtRLXI0SElsczQ5RnRKWGs4TElVcF9GLVlIai1kOW82VzFaNXJZOVZiZnFZMzlFUTdKdVU2UEVKU3k3REdwNkV2LU9rNjJ1TnBCNjlrTjV2WERiR2l1Y0cxaW5VcXFidUZINEtCdjhlNjh4TkRMeHQyZDdfLWU2bHFLNjVYQTgxMnZxQmhvY1E?oc=5",
-     "date": "2026-11-24T08:34:00.000Z"
+     "title": "\"There is absolutely no correlation\" - Gary Vitti reveals what the NBA found about load management",
+     "outlet": "Basketball Network",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQemJRSzlQVm05Ym9ITkhnNGd4UkhleUI5VF9KLTZ6LUd4cFZjSWVZWkZsVnhRNUxzZ0lzTFFVcU9OcEVsWEhXazhoWnd2NDN5YTQzTW1MOE1BY2dLMzZRV1Z1ODBCQURUYVMtdHEwdC1qVlZQRU1hc0k5Nm1zVFNKNWt1bEFFMHhFaXBIY0JtUmhYLWNMRWw0UjY4aTVSVVdJaW9ZaGVSQXM?oc=5",
+     "date": "2026-11-25T13:23:00.000Z"
     },
     {
-     "title": "Silverfield demands 'six days' of focus before Arkansas football offseason",
-     "outlet": "Southwest Times Record",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2RZRi1JYm9yQ1BTZDN3Y2JwbjBzX3Nmek1FOG1JSW1RM1lNWGhOb3ZNcUZtY2luVnlydE45Q2NoT3VkY2tlVlhSejVIQTFlMXFvVi1sa0RMTGJjYmM3eFFLUjNHd2FZYkhBbkxmRlN6elZNdWdLLXZXTDJ5Tm5LN3BubXllRkZmYzZLWWl6N0x2a1NhVjdyMnk4NElzZnNRZUZ0NTJqelBhTUJWTWZSbGVBcDRvSnhOMDhVQkhsWV9sQVZQ?oc=5",
-     "date": "2026-11-23T20:00:00.000Z"
+     "title": "Why are training facilities so important for women's sports teams?",
+     "outlet": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTM3RGxzd2ZXRDNjNmZSMk90ZWloOVhjVTlOM2syUWhhMEJpenZXMXVUTTFTTjNVSlVvc1FQbUF2aVc0TGxmZHBJTVdjSHlNS2JubmE4YmJNdml1VW1hbGg0TXZEZHlNc2cxWjdXRHprY0VwRThubjBuNHh1VHdEYTltT3hac1lteTZkc25KTEZqTUMwV3B6azZmRUxHbzJNYUdFU0dLczNQNWtRd3REY1B4dDl2ZDJieWhrSW5YMExTNjB2?oc=5",
+     "date": "2026-11-25T12:37:00.000Z"
     },
     {
-     "title": "Clemson football vs South Carolina tickets, see best prices for Palmetto Bowl",
-     "outlet": "Greenville Online",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaDZEWU1Pdkd6UDlzNFM0QXlTYjdzLU5hdC1HdFVaanZNT0xIX2o0WjlDS29IVll4YVFSQmNyaF9DdjR2TnpDbFRRdThRUFR2cEhIUnNLWXBYWm9acUlzbVQ0VVh5cUdUZ0o5cmJvSHNDVDZpM3JLZU56aWdCWTRlbm5rdDMwSzZrWmtDUVBLYTVEOVRMbWZsd3VHOVNzTGtuMnFzWGdxRzZTckJoX0kxQThuWnNNOGdfakl0Vzc1STlqYmFTZkpfTTcxWkNOTVJxQlV5d01wdmljaFJBX2FHUg?oc=5",
-     "date": "2026-11-23T16:45:00.000Z"
+     "title": "Azerbaijan hosts Fourth International Conference on sports science [PHOTOS]",
+     "outlet": "AzerNews",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15b3BYT1VSdklBNlo2YW56OFk1eW9CUDFGRFh5QmZKcVdsUXNyVDhONUZ0d0Y1ZHNVQWVydGN2cHlWaXhsdEhLeUliWHQ3OW1Wd21HMQ?oc=5",
+     "date": "2026-11-25T10:44:00.000Z"
+    },
+    {
+     "title": "‘You Are Cheating the Fans’ – Lakers’ 3-Time Champion Cites Kobe Bryant’s Story To Blast NBA Players for Load Management",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGdzSHNFV1ZzX1pVMHpmdUpZQy1YRTJZeEEyblM1UFpITjdld2tYYkVnNUQ4RUpISi1fZ3RuNGNsUE9YN1M4TVNEcmVicHBHWkZuXzI0MnFya3NRNE1hVWpEU2tUeDZXRTNQeldUZEpGTEhMVjNqNjBEbFlnOHJXZ1F3S1haTkE?oc=5",
+     "date": "2026-11-24T23:40:52.000Z"
+    },
+    {
+     "title": "Amtrak Reverses $900 Million Bridgeport Rail Yard Plan, Clouding White Sox New Stadium Vision",
+     "outlet": "Construction Review",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXhHZEI0eFN6OUo0T1FIWGl5WmNsRGZVV0NkcHpib1ZrTVlaa2JHR08xd19vakZVWG1DTnIxUFhDaHUzRTFuMDhhQnFqWGVYNXdQM1BXcVpxbXVXZFV3RXBfemlsMFpmRGREZkNkUnpEYlRlb2VkTjVCaFA3NVRXYkVQaTJsVzdFdDNfTGlKNWJ5X1ZXUTdyTndDQkItVlNmSWNIWjQ1SFRkbVh2bVVrTjRsN0Q1M1ZDTFZ1OHBNNVRtVHdDbjN4bw?oc=5",
+     "date": "2026-11-24T17:53:41.000Z"
+    }
+   ]
+  },
+  {
+   "id": "impact",
+   "count": 32,
+   "fresh": 10,
+   "outlets": 31,
+   "ruleMatches": 18,
+   "score": 80,
+   "sports": [
+    "olympic",
+    "soccer",
+    "motorsports"
+   ],
+   "headlines": [
+    {
+     "title": "New Ephrata policy requires athletes to compete by sex assigned at birth, sparking debate",
+     "outlet": "WGAL",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEFuaVgyejN3RDFWR25Pa2w3ZDdpLTNINWsxc042VzBBRllBaUdDQVNVazdPLUU1WG9zd29ONjQwZEMtLXdYODRCUGJ5OVJxVUJtblR5UjhMZjl2TWNZYVZQanZfbEE3Mmc0YTJLdXZvMUlHRzhFdHktQk1aN3hqcUZFX00tcjF2T2o3Y1FhRGZvWUtXVUJteF9LaTBVQy1yYzduRks3SHZvSnBrT2tWeWRTckU?oc=5",
+     "date": "2026-11-25T10:25:00.000Z"
+    },
+    {
+     "title": "Iran's Sports Minister targets medal diversity at LA28",
+     "outlet": "OCA Asia",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQk5waVBtYm1KTGI3aU1ZY1Azek9yZDMyR2hCckZCaGlaQUlrdkQxMU1vMFhSNWI1aVZMOE1QOU83ZzhuY1JqSE93bWhBQm8zbG9BdFVLQ0Q5S3ZpUVdxX3k3OVZVRXNiSllySWlKWWdCM2djejlSaF92S3NtQVgyN3BCbnVJdUJVU3REWmV3?oc=5",
+     "date": "2026-11-25T06:48:33.000Z"
+    },
+    {
+     "title": "Australian Sports Commission and Getty Images Launch Inclusive Community Sport Visual Library",
+     "outlet": "Ministry of Sport",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS2k1dE1iaGphbmRwMXZZTkJzWmhpSUJTNEpkUkNYeFowSjhXODJJOEFMTmptUGVOb3ZPeTZfTmdwd25GYXR5STk2VkFnZnR5MFdJNWh2OWNsN3BaX0d1T1c0VEhKMTFlay1DYmFOZEpUd1BkTjRCbEpHR1FpRF9Wd2NocGNHYjJzU3lVUHdHajMzOVB4LWNwQXlSZlRqNDdEbTYtLWl0d2hqVHEtSFc1cnppOWZNZ1BzVmNXb3kzUQ?oc=5",
+     "date": "2026-11-25T03:38:56.000Z"
+    },
+    {
+     "title": "Beyond Football: Why Liberia Must Embrace Basketball And Other Sports As Pathways To Education, Opportunity, And National Development",
+     "outlet": "Front Page Africa",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0tDdTlmd2FsXzdSZ2hCU2VPOTVueTF3SzIzWFN1OS1qamlFWmJaeXdiaXVGMlhVbTFlUlZnYUFCTGxqNXV1VGx3eHBPa0U3Vnhzd0VMeWhUeDBfZU1QQ25sSWx3WnNmb1ZSaVlXLXB3WkpqLXFwQWhOZHUwT3lINV8yZUJPSG1Cb1ZScDhvZUFtQno0Q2NmcGVsdnBWWnloTzg4ZGtBM3NTZVZNdkg1SzZWRzJ3Z2JTZUVMMFU0TklUa1VfTW9KNVRVMlNmZUxwUmRXb3N0ZU5kd0Y5SGhjdGFYYXpveWRIV1JUMkc5VFpEbTNaWnpTYw?oc=5",
+     "date": "2026-11-24T20:13:45.000Z"
+    },
+    {
+     "title": "Unified Sports hosts their fourth annual Turkey Bowl",
+     "outlet": "WTRF",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXQyamZGdWJFU2lGWWxKdGFLVlNqNjdjUmxrY0VGSmk1eE9FbXFsc1kxZVpQTVJFS2xRRDFXN2M0NlJVdW1PdDltUmhsaWd6eEdtd296ekJrOXZ4aEh6ZWtVUTZCWHFULVhFZHhwQTR3QlFyYmN6a21Cd2V6WTlKWHhKbVFRYXlpeDdnUDZB0gGOAUFVX3lxTE45dDJqZkZ1YkVTaUZZbEp0YUtWU2o2N2NSbGtjRUZKaTV4T0VtcWxzWTFlWlBNUkVLbFFEMVc3YzQ2UlV1bU90OW1SaGxpZ3p4R213b3p6Qms5dnhoSHpla1VRNkJYcVQtWEVkeHBBNHdCUXJiY3prbUJ3ZXpZOUpYeEptUVFheWl4N2dQNkE?oc=5",
+     "date": "2026-11-24T16:27:13.000Z"
+    },
+    {
+     "title": "UEFA to boycott FIFA tournaments amid possible private equity inclusion",
+     "outlet": "Sports Media Watch",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yZDVBSER1SHI4Q1N1VGFkbmxGRHFQU2Z4TjhxeVV3Q29rd3lvZ3FudjNVd0taSnY2bk9hdWM4VFA4MklHYjl1T0pWd0VxbU1KVTZrT3NQMkpwajl1Qy01MFBLbWlJMWo0NFZ3d3lUMnZYYVpTaWRoT1hpN1hPQjQ?oc=5",
+     "date": "2026-11-24T15:27:56.000Z"
     }
    ]
   },
   {
    "id": "strategy",
-   "count": 15,
-   "fresh": 5,
-   "outlets": 12,
-   "ruleMatches": 11,
-   "score": 44,
+   "count": 30,
+   "fresh": 7,
+   "outlets": 17,
+   "ruleMatches": 15,
+   "score": 61,
    "sports": [
-    "soccer",
     "football",
-    "hockey"
+    "soccer",
+    "basketball"
    ],
    "headlines": [
+    {
+     "title": "Clemson-Colorado State in Maui: TV info, Vegas odds, ESPN game projections",
+     "outlet": "TigerNet",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FMa2hEM29tSWJQRk9VRF9nYy1IUE5lRkRYUk8xQ2laODVpMldRcUhiOXJzeXNKcTE4dHgtOWlZZTlfUE5jUWs4am13MEdqaGdFVHVxcENDWWo3RERoZ0tIbFA2NkZmTDlRTGJUVGItRUI0cy1aZ3RaOVBkdVZROG9FWTYxSFB2Sm1nQUNwQWI0c0pCcGE5Z3RFVUxMclJfTUo0dnJ0ZXAyaWhtWU5tTk9iS3llSEplQk5CWWFDcmtrVEdo?oc=5",
+     "date": "2026-11-25T17:49:29.000Z"
+    },
+    {
+     "title": "How longtime ESPN reporter beat buzzer for youth sports on 'Jeopardy!'",
+     "outlet": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUFxRmNTdUNkeHlVdzR4UW5zMF9saDdhOWFTV1J4d0hkUXBSYUVhUWE3NURELS1BOGRtR3dHVVVWdVhwZFRBZE84ZUxZWGw2dFNwSUJXSE5qRVBZOFZIcWFSYUNOUS1nZ3FHbVItanNGR0ZuV2czQ3BrUGJ3TG9rNjFiUHZiWWg4dDRTVVYxZHFRTmRpVjBPNmpud1JTRGFBV3RPcVhRc3ZlQk9GRHh4bUNGUi0?oc=5",
+     "date": "2026-11-25T13:36:00.000Z"
+    },
+    {
+     "title": "Man fatally shot at youth sports facility in Chicago’s Brighton Park",
+     "outlet": "FOX 32 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0WTZPaUdoYXlmd0ZVX2NYQTBXeTA3bklINnNCWWROcDJDYUVpMWVrUnVkM2M0ZWp2X2hEVFVZUl9HQnlNSkx3SU5MeFhaMjg5MUprSHRtRVh3cFJvOV9RUElSSjF4QdIBa0FVX3lxTE5ZTEtEMWYwSTg3ems1eVgtNDBCVG9Pc3RUQmxkdmgwRERVVnlaQlRXa3NadTZTcjBBSU96SnJRQ1JrRWlPVm9zVi1xTDBMVTU5V25ZVjJwaFJMbUpiQUg4eTk1MHRqR3h5dllv?oc=5",
+     "date": "2026-11-25T03:14:12.000Z"
+    },
+    {
+     "title": "Man fatally shot after argument at Chicago youth sports facility, police say",
+     "outlet": "FOX 32 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVZsTkViSnFQZmlBVFpOajZtT0Z5cG9nbTk4em9BUDBGQ0U1Yk10a1hhR016aFFCZnJZTjQzU3d1WlNJVFlsVm9nYkhEX3VQRmNUM0t6NUd1bng5VEJGR1I4YUxQZ2x0TGRMZ0piQWxGT2lwTk16QVZVWGF2Y09LSm9jMnZKYm1wUzM4RlFjclIzOXBBUUdLX0JMWVh2UHM?oc=5",
+     "date": "2026-11-25T00:01:56.000Z"
+    },
+    {
+     "title": "Julia Scott, ClemsonWomen's BasketballForward",
+     "outlet": "TigerNet",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJcW16cVlDdkJ2VmxrUW5hMElMSkVlQUJTTVM3R3ZrQWpYazZkc3FuMlNiMUt3MWRxYmM2LV9lQU1VdC02VThjTnJvNGpwSXJ4T1NrWExndWg1VkNPLWFmVFJTVV9ETWxBdGJ5SGN2UmhhaDgwa0dxV1FfNA?oc=5",
+     "date": "2026-11-24T21:44:46.000Z"
+    },
     {
      "title": "Explaining hockey’s key advanced stats: Expected goals, Net Rating and more",
      "outlet": "The New York Times",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnpvUXJKa3VtS0RudkRTcGhKeVFGMFhVdjlfeGxsaDBnQWlyUWhxRFJ1dm9kZFFFam8xS25QZmlvbVZTdFRYclB4dlViRTdHS2RnVkN5NEZCcHI1R0VRV2VqZEI5Vl9OVmFaYng2RUtvTFlOTGd1UW5mT1J5RUxDOGl6WmFkSUFYTXhpb3NicWZ3a3RZbEloVmRMWWw1VER5XzVjVGFpNA?oc=5",
      "date": "2026-11-24T11:37:34.000Z"
-    },
-    {
-     "title": "Zach Lowe says people are sleeping on ‘really good’ Bam Adebayo season",
-     "outlet": "Heat Nation",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHk4UGNtNk81T28yTUZXMDhIUEExMUdPNTFPUkM1VFpxcjZBTFRjWHh1MFpYUHJFaWtsTmE4MEYxOWYxVHJrb2wxcU1HblQ2djNLSjBCaXlGNGpFOXJ3NUxqdG1LVFRmX0NQTDBicXYzUXUxMWt6enZUejhYZ3pQRFREdmxhWHhLRFZkWlc0TFVwVDFTUFBuV3dqdVh3TExtOVpNeg?oc=5",
-     "date": "2026-11-23T22:06:32.000Z"
-    },
-    {
-     "title": "Pitching Coach Josh Miller Will Not Return To Astros In 2027",
-     "outlet": "MLB Trade Rumors",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkRoMGE0SUk0OEVLYjBnS3pnTllPemFPSE0ySjUxcEJYcV9sMXNySTdibklGOVlLRU9mbmVlZlpMMklfb3ZzQ1RsOXJEdjFlaHp1RVFnaW9BS3B0N3d4VEw5UjBrbzZiMHJYX2lrVEVlSUlsWk1OZ0NQVElSRHdmTWU1LWpFN2NkQWhWT2ZVRW5ZM3FLM2g4Zm5R?oc=5",
-     "date": "2026-11-23T18:50:37.000Z"
-    },
-    {
-     "title": "Russia's sports comeback hits a European wall",
-     "outlet": "The Star",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1VWVWx5bW94T3dMQktyNnVkUkxBWVRLYjFoN2x2NVVxbTc4cVJwaEhhNC1uNnY1OThtLVZTM0dDY0xqR045d2xrUHBtTFcxWURxdWR1RTE1VDNGRndOTExNNFgtWUVKYTBabjEyRXNjQ1d0SXlDcUtnam9ER0dvSDBTa3VFSWE3dFF6TnlacGI2VTVBMl9SNUpuUTY?oc=5",
-     "date": "2026-11-23T12:51:00.000Z"
-    },
-    {
-     "title": "PFF review: Snap counts, player grades and advanced stats from Oklahoma's 28-7 win against Texas A&M",
-     "outlet": "247Sports",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLTNJdWVyT296QUpVa2hCRXAwREEtQkw5TmZYSzRrdVlQNUtxQk5DZ2tnNGhkSUxRNGwxeF94bVBSZGlSWkVJVlNMVFlCZ1BKOWpUZEQ5Ui1ZNlNwWV9zWlFPTzc0Unh3VGxvRzdSS205YUxJSlk0YkpWMUQ2WHhwbk1qMmptRGktbW1JMmxoZXhuTmFzWXV3V3dTQi1IajJoblEzNFk1eFpKZw?oc=5",
-     "date": "2026-11-22T21:00:00.000Z"
-    },
-    {
-     "title": "Breaking down Auburn football's blowout of Samford: Advanced stats",
-     "outlet": "Montgomery Advertiser",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkpWVkwtaGFZU0ZucEJ1am5ZczBMWlA5NkdXNzF1cl9XZm1sY08ydzZDTmhFNjNRTEJHNmc4a1ZmQmI4WFhlcEZYXzkzLTNNZU1RdGRxd3JyX2c1aExvTE1WNkUxdnJHLUhPd3BrRVphTzhZSVNkSnpBd21jVE1La3dYM3hkTkYyLXFUZ21LTkxrTDJFMm9HMTNLNnM1M093UG15d2p6M2NRU2VwV3JlRWtva1VmS1JBVW81VjVZYVNTd3VlNFJUX3dxYVlPbExDcUhLRlJ3?oc=5",
-     "date": "2026-11-22T19:20:00.000Z"
     }
    ]
   },
   {
    "id": "mind",
-   "count": 16,
+   "count": 15,
    "fresh": 5,
-   "outlets": 16,
-   "ruleMatches": 10,
-   "score": 43,
+   "outlets": 15,
+   "ruleMatches": 12,
+   "score": 49,
    "sports": [
-    "soccer",
+    "basketball",
     "olympic",
-    "motorsports"
+    "football"
    ],
    "headlines": [
     {
-     "title": "NWSL 2026: A look back at a season of both joy and heartache",
-     "outlet": "The IX Sports",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWtHUW0wZ1FLSlRMdTY0b3ZIekNldDhRZWtGZmxfU0pRYlhKRUNZMHdzYnBXQmF6d2tmRFVyRzNEeTdoZFlDSk50UERCSEJydVdCVE9yQ2ZFZ1ZKVXk3cTFQSzZaX2Y1ZnoyaGtuTXdQQUZJWDlQMmtlRFc4U0xlQ093aXB1MEhobHgyZg?oc=5",
-     "date": "2026-11-24T01:19:46.000Z"
+     "title": "Clutch Scoops: Stephen Curry, Kawhi Leonard injury updaters, latest NBA trade intel entering December",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPangzNGR3eXYwWFBubXRZdXFYbTh1NDVrZzJ3azExRlZmX0dkV2xrUGpkNWhBTnRtVGQ4N29xdkFWamNINEdKaEF1ZU9FbUdWQndleU0xZ3lqSWJERjJ4cENFd1VkcnJwT3ZyUWNXVFdtdUVZQjVBWGExM3Rtd2R6U2dzU2tORnF3U0RzUmo5WQ?oc=5",
+     "date": "2026-11-25T17:55:39.000Z"
+    },
+    {
+     "title": "El Paso Times podcast: How Kayla Thornton's mindset led to 2 WNBA titles",
+     "outlet": "El Paso Times",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnpsTjhsOEc5eEhiV1BkTUNibkdTMUNFZHpoMEZiUlRxclBvX2ViZG5wRTgwS0U1aG45dUItY3RXbHFwQTRNYV9TeHRnZFFDeXpQcmczdEZFVV84UXluQXVQQzF4UDlhQzllSVhHRkVvSW1IS1JkX01fTFo3VnV3ejRxaUthZkczbXN0TzNoMUNkVWNpVEN3ZVk1ZkxCeHdoOFJiSGVFQS05Y1gyc1dsOHJWZnFMSW56WUFB?oc=5",
+     "date": "2026-11-24T20:31:00.000Z"
     },
     {
      "title": "Sport and inclusion are the main focus of the weekend in Reus with the National Unified Women's Sports Championship",
@@ -912,29 +918,74 @@ window.SSAC_TRENDS = {
      "date": "2026-11-23T20:00:00.000Z"
     },
     {
-     "title": "Somatic Anxiety Predicts Match Outcomes in Elite Female Karate Athletes",
-     "outlet": "Bioengineer.org",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaU9WVWNFOFFRcXVqUUtpLTJMTkhIMmFKYzJqYktLQ3V5TUR3WHVWUThBT0x1MmxPLVhmSkJYYV9CaElzX2VtY2xaTV83VXFTUVREWTVIalVndVY4dGt6YTY3YWxuQ3h2ZDVTdnJGZFhlSER1a2h0RXBDT0VGVGpBTzFPTDE2ZE9OVUJiNHhxcm1VMHJ4aThkNFhfMGU?oc=5",
-     "date": "2026-11-23T07:59:21.000Z"
+     "title": "College Sports Betting Puts Athlete Welfare in Focus",
+     "outlet": "Main Street Media of Tennessee",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUZiaW8wUlFEZV9BUXNad1RCRkpNOEFCTDZLNzdfaGM2dVBuT0VVaEc5THBld2JnalJUSm9iTEZPVFUtYWJkNWlBTksyaFZIekFMYUFodFJRWHk5MThhTHlndEo1dWZmejY5ZElwSkt2RkVzRV9ZZFM5MFJ1RHJ2UmR5blh5dmxhVXZKbXFyS0tfU2djencwTGxxeUFHMXd2OGs3TVVtZw?oc=5",
+     "date": "2026-11-21T09:37:05.000Z"
+    }
+   ]
+  },
+  {
+   "id": "careers",
+   "count": 12,
+   "fresh": 7,
+   "outlets": 12,
+   "ruleMatches": 9,
+   "score": 40,
+   "sports": [
+    "olympic",
+    "basketball",
+    "tennis"
+   ],
+   "headlines": [
+    {
+     "title": "From Naming Rights to Brand Ownership: ENGIE Open 2026 Connecting Tennis, Local Culture, and Immersion in the Sport",
+     "outlet": "Roastbrief US",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbndsVVFRV0pXck5sNF9KY2hySzdTckwtQXlTQ0x5ZU5SdU9hNjNobGdyUkZoMDFvX0xWRFlELXNaR3FWazJZSWpfcmtmVmFuZmJGbVM5RWF3aGwyMFVDaHVDUzUtZ1RSXy1SNThHYkNWcXFIQU9yNzRmMWZWX2VHY3FiVWRpNHVPaDdYdHl3TFVFR3VwNmsyVUw1SE50MW1sWHhlVVZtUDdKak1XaGkyU014cktaN3BCOGZ6OTFuNGVLOXJCVFVKM3YyYkpHc19I?oc=5",
+     "date": "2026-11-25T16:42:02.000Z"
     },
     {
-     "title": "2026 holiday gift guide: Books for cyclists of all ages",
-     "outlet": "Canadian Cycling Magazine",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGNEcWY3ZE1fLWtXZDl2SUhNSFFLNmZFNl96ZEJkVUtxa2QxNWNJM1BIbU1LSFVST3Y0cXFySWIzOFJmN3BfNTUwM19laDlLeUt4eURGenpkMXc1U2t4bTFkcS14VlJOWWlhLUdieEFsRG9DTm9YNkx1YTVCNFE5dEF3aTJFVzc2MkNoSmxwZ2lxaDAxQVdkV1NuanVfc3FERWRSNG5vN3lnTjQwWXBtQTRHNVg?oc=5",
-     "date": "2026-11-20T18:26:35.000Z"
+     "title": "Valkyries guard Veronica Burton named to WNBA Players Association leadership role",
+     "outlet": "The Mercury News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQndDMUVZcnpCeVBVRjBQeHNuYWdUVTJIWmVmUzl5WUhJc2F1N1RsSWNvWG9IU0R3c2wxRGk4b0hOYVU3SVRpd2NWQU9LZXVsWGs5Sm9LMkhpUGluYWhEWm1iTldac3pqaEE4d2ktdTlSQlNVeGdvd3ZsbHhETXBfY3lUQktFVFh0VktDaWhWNlZIelZ3bXJpMmpjeGhhUDQzVzRLZFJpNA?oc=5",
+     "date": "2026-11-24T23:13:02.000Z"
+    },
+    {
+     "title": "LA28 Cultural Olympiad shakeup: Director out amid concerns over funding and leadership",
+     "outlet": "Los Angeles Times",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYmVWMVVlWkpuRWNXbjFNX29rNHlIRmFWS09IMkFzNG9zZTlzODdKRFB6UFR1eVlpd3UtdEk5cmJfbHJEek00ekNpdDJVaDZfUVlhc2J0LXhJOS1mWEhOTWR2aUNlaHBZX1d5R3o3NW1CRmR2MEFRcHoxQ1AzdzVhbWdKWHJUbkpyczRSMTB3RXV4NmNVdU9IazV1cXBTQlMycE96N21panU?oc=5",
+     "date": "2026-11-24T23:04:30.000Z"
+    },
+    {
+     "title": "Beyond Football: Why Liberia Must Embrace Basketball And Other Sports As Pathways To Education, Opportunity, And National Development",
+     "outlet": "Front Page Africa",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT0tDdTlmd2FsXzdSZ2hCU2VPOTVueTF3SzIzWFN1OS1qamlFWmJaeXdiaXVGMlhVbTFlUlZnYUFCTGxqNXV1VGx3eHBPa0U3Vnhzd0VMeWhUeDBfZU1QQ25sSWx3WnNmb1ZSaVlXLXB3WkpqLXFwQWhOZHUwT3lINV8yZUJPSG1Cb1ZScDhvZUFtQno0Q2NmcGVsdnBWWnloTzg4ZGtBM3NTZVZNdkg1SzZWRzJ3Z2JTZUVMMFU0TklUa1VfTW9KNVRVMlNmZUxwUmRXb3N0ZU5kd0Y5SGhjdGFYYXpveWRIV1JUMkc5VFpEbTNaWnpTYw?oc=5",
+     "date": "2026-11-24T20:13:45.000Z"
+    },
+    {
+     "title": "College sports notebook: Keller has career night; Stephenson wins two events",
+     "outlet": "The Republic News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFU1Z29lZ3B6QVJKZEN4ZzZFVHZtTEl0eHM0cFZTb3NfNUFDX3NUenhkNXpad0s1T1d2UkpETUU0cXl6SnRsM3M3dDUxM2dWNGJjRDdIZlRLYWNsZnpwMHRNWjVOS2ZrX0hMU3lUWXR3T2tSTTNjT1BOZXR0bC1FTWdaVUZyeGsybkNiblFuYTNMOUt2bklha0RQTnU2SUduT0NzSG5XdVBETkZBTWxXeFZQX2o?oc=5",
+     "date": "2026-11-24T03:38:39.000Z"
+    },
+    {
+     "title": "Georgia DC Glenn Schumann hired as Florida State’s 14th head coach",
+     "outlet": "Tomahawk Nation",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN1V2SnFVRWJBMEY2cjFOV09YNmxTSGROdFVKMjZWOGNKRnQxZF84V1o1WUdHNzc2YjZNSld6eG9CcXRCMW5LNGhQUW41MExiYlU1VkNEc2V0amhrS0ZHTHd4RURYM3JZc0I5bHducDFJOVBKXy1sOWNueWRvM1JJcmk0Y1JSNHA5b3ZwSl9EekxfZ01JQ01tY1NFMWRhSVlCUlBHWldTbzBpMUJpWWx4N0JwTzlpcW5pcFZ6TEZpZmhiTUJQa2ROWTg1X1g1ZmdyRmliTWxqX09GTjR4WWp5YkpEeUxuOGlvajJPNGF5NW0tVENHOVJPOWw3WQ?oc=5",
+     "date": "2026-11-23T23:25:21.000Z"
     }
    ]
   },
   {
    "id": "climate",
    "count": 8,
-   "fresh": 5,
+   "fresh": 4,
    "outlets": 8,
-   "ruleMatches": 6,
-   "score": 27,
+   "ruleMatches": 4,
+   "score": 20,
    "sports": [
-    "olympic",
-    "football"
+    "football",
+    "olympic"
    ],
    "headlines": [
     {
@@ -944,16 +995,22 @@ window.SSAC_TRENDS = {
      "date": "2026-11-24T15:29:05.000Z"
     },
     {
+     "title": "Biggest Offensive Question For Iowa Football vs. Nebraska: Sustainability",
+     "outlet": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNW1HV3REc01vUkswUWZVU2RlT1YwZm9iZXkwUU1Sc1c1LWE3a3hZNFhRX1ZELVg2MkZWMFQxb1JKVGhSN3l4R2FfdUpjbmtmQVJRVlJ0WERqV3lYSXZIbzh3UUdiTnlvUFNSelF2M0g4aDlUNkFHNGZBeGZ5dUZNRllHdjBNSjgyOE5F?oc=5",
+     "date": "2026-11-24T15:00:03.000Z"
+    },
+    {
      "title": "Sport’s climate challenge extends beyond the stadium",
      "outlet": "Australasian Leisure Management Magazine",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2JWaE9pSW1Sd1NoSXU5ck9uUEx2XzZDY2Z3UGYyOFk3TTRQOWY2Q05MQzlHZlZPcnJ6OFFoU0pFQlk2TUd1aVZYcUMwM240dmh1VFZQRFF2VFhHNEhpbUtqSEp1RFV6V2RVYy0xR3R4ZVozbTJ4U2duTzl5aVRVLWszNlYwQUR4WVBLOVFWWQ?oc=5",
      "date": "2026-11-24T14:13:50.000Z"
     },
     {
-     "title": "“Your Job to Create That Environment”: Fans Blame Lane Kiffin as He Criticizes Players for Playing for Themselves Ahead of Bowl Games",
-     "outlet": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0g5SFBEbld5ZWhEd09NeGp6V2hQalM3cE9hWDlScUhxU1E4dkFGV2docE9QLVhYR3BFTmtSeEV1LWRMMEJBb1cxbWVpZTZUNHRSRFRJcW1XNlRxb0RiZ1A2Y0dYOFFRZkhWcjBXRU1veWluaW9CanJCN00yd3ItOUFCZkd2T1hSZGc?oc=5",
-     "date": "2026-11-24T11:48:21.000Z"
+     "title": "KCKPS to adjust immediate outdoor sports schedule due to extreme heat",
+     "outlet": "KSHB 41 Kansas City",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0cxR0xXVVBzUGFQWjlnZF9qSGNiRG8tcFBXWk5jel9hcHFUUWp5S0hUUHh6OFBQdjI3S2htb0VnVXFGaG9keTR5QjhUOE5PRGo5N09PQUU4cjFoWUhPY0R0SU5Cek5PcFBqbndUaXhJZnlIc2RTT0UzdnI2VmJRY1Y0aTNnb3llSWM2SGg0NjdoYlYxOTlwMGxEMTctR1d2NUNpWTlHeDNPdw?oc=5",
+     "date": "2026-11-24T03:41:38.000Z"
     },
     {
      "title": "Environmental Advocates Urge LA28 to Reduce Single-Use Plastics",
@@ -966,25 +1023,19 @@ window.SSAC_TRENDS = {
      "outlet": "DD News",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV25pSENZeVJOenJWekZEVmRsMjU5WnBpTDEzcFh2Qm85d0E2WjV6aGZPdnRqWGdhZi1ySnA4eFJZeWwwcG54QS10RGthZTR3MDhoQWZ3N3pJdnlvdDZHVnJmM0E4M2dFRkhCa0tEaERmSHVRNm1JTml1ZFBYWUFld0xlSl9QN3Q1V3FUUXVOcG9GeUdLN055cnZIZ1g?oc=5",
      "date": "2026-11-23T09:00:41.000Z"
-    },
-    {
-     "title": "PACNEWS SPORTS, 19 NOVEMBER 2026",
-     "outlet": "Islands Business",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpN3BycUJ2VklrZlRNWDdObTJKMkdIQ1BwdmhUZjBWdXRnaEdDSTNmUTdpaDJjdG1uT3V3bHZpbkR2bG1uNDlGUHNiaUktS3Q5cV93cTZrVldjOV9yVUdPdm1QaUV4VVVVZFh5Mks0bTJqZ1NRVFlJ?oc=5",
-     "date": "2026-11-19T08:34:08.000Z"
     }
    ]
   },
   {
    "id": "startups",
-   "count": 10,
-   "fresh": 6,
-   "outlets": 10,
-   "ruleMatches": 5,
-   "score": 26,
+   "count": 6,
+   "fresh": 3,
+   "outlets": 6,
+   "ruleMatches": 3,
+   "score": 15,
    "sports": [
-    "soccer",
-    "hockey"
+    "hockey",
+    "soccer"
    ],
    "headlines": [
     {
@@ -994,12 +1045,6 @@ window.SSAC_TRENDS = {
      "date": "2026-11-24T18:07:00.000Z"
     },
     {
-     "title": "Australia Sports Innovation Week heads to Coffs Harbour",
-     "outlet": "Destination NSW",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEJYbjlJelhtVnZ3VkY3YTQwZUgxZFp2d2lrT21TREUtbUNoYjVnSDNsVy01NExkajg1Rk1HYVo1NGdROE5ncllJRlJBcUxzM3AzQ2ttUG9aZFhtZU16eFY2YnJlRm5VcUFISzY5am5nUXEzRlJwWDZtN1JKdjNEYUhtVHRyX2MzTFFyajhFZDJfaFlILWp5dGoyVnc5bFE?oc=5",
-     "date": "2026-11-24T08:34:17.000Z"
-    },
-    {
      "title": "Australia Sports Innovation Week Secures Coffs Harbour Host Deal for September 2027",
      "outlet": "Ministry of Sport",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZm94SjdMSm9rOFFCc1Rvd0N0WnAxa3FUaXY4cTFGQS04SzVfZjFkUzVsZFJMdDhOb2RqMmg1WlA0c21zU3Q0aVdGTDQyLWw5UWcwaEVrWnc1WXlaSXVRMVNVM1YzRjNqNmVZVTE4b0ZyR2Z3ZU11aDhlOHZPMjctN3l3ZDBxYlRMSHdkYUFmamZxbExOVnc3ZFotakxQXzFNUFlycEZZNWJGeWhIYm52RnNB?oc=5",
@@ -1007,14 +1052,14 @@ window.SSAC_TRENDS = {
     },
     {
      "title": "From the ice to the cockpit, Kinmetrix helps assess and strengthen neck muscles",
-     "outlet": "Sudbury News",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGRRVzFYWWg4ZEZDNXdfWkk2bkJrUXdUOVpndG8xMFo4RkoxNVNMZDYta3kwUDBkZ3FpZlNKMGd6MmhaZEhvd25HdUh6S2hacXAwb2FFcHN1b2NkdHdval95OTJaOUR1ODJUMDVhUkJmVDhYVEx5UGNkSWFYRzh3bkl2WEk3em81VXcyWEFoa0ZzR283UTV1NWlXZWFqM0gtUkY5aFdJVkUzdzE0MF9LbkVDVV9PUDJxTFgzYlBLdw?oc=5",
-     "date": "2026-11-24T02:02:11.000Z"
+     "outlet": "SooToday.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNMS1o4NVk3UjhvMUtGSFQ1U3k2SF81MXJ4Zk5pV2cwcFktTTJnTy1xU1JDbXRWdnRoSk4xM3NLcjRtZVMxMFBod2s2YmtiT1IwYW1nRzRqQWxaVnhKT2lvcGlpNFpaWG0yUElQQUVnSnFlb1BoZmhlMTJuVjRnWlo1eTRNVTNaR0x4d2VPb0hZX2tjaEIzajJJNDBHLUhOUjlEYjZjbU9falljc0ZTdmwyTTRNSUJGMDJKUUJndTE?oc=5",
+     "date": "2026-11-24T00:20:13.000Z"
     },
     {
      "title": "Can T's Extended U.S. Soccer Deal Boost Sports Technology Innovation?",
-     "outlet": "Yahoo Finance UK",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54TjJSVEItbkVYLXFtRDRQVXNFTk5zbUI1S0g5NmduUWJvUi1nelJnNzY2d2VRMW9hRExuWmJWWWlVcjUtb2ROQzhJU2NHaU05RGRkaXRQRTY4WGlwS000ZVR0YkkzRWlxckI2bF9vUVBaXzV5elhSNFJ4R1lhUkk?oc=5",
+     "outlet": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWJmazJQNGlIMF94SmlXZkc3UkdMVm9uOHV3bUtYbW9jWmhZTW5pYlIzZ1VJeHdXVGVqVlNJMU5sb1NZSVJIakt6Zlh5c0xld0QxQ1FpTDVuX094d1ZXTVZDaGdpTll6YlNzd0phR3NXV1I1Y1cxTmprMF9KZjh2bTVlQWo4NlQ2YWFRUi1hYw?oc=5",
      "date": "2026-11-23T16:04:00.000Z"
     },
     {
@@ -1022,43 +1067,12 @@ window.SSAC_TRENDS = {
      "outlet": "Dealroom",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlFfeTdpYVRCN2l2Y3A0Rms1LUdGYTFZa2hUX2hhVU9IbjVmTjMxT2VseXF1bDRCS3NKWEdrSHQ5S1Q3dmZJdFgwcXNKRzgwdEMtQnlQaU9zMzhlY21tUTg5Q0FxUFBPYkcwRC11VkxTVmpoVTlINVFLOEY0M3FpVW9WOUdRMmVuNkpuRVgxNzItNWFYV1FoSVRmWXRleUNmOC1lT3dVQ21hdWs?oc=5",
      "date": "2026-11-23T08:31:25.000Z"
-    }
-   ]
-  },
-  {
-   "id": "careers",
-   "count": 4,
-   "fresh": 2,
-   "outlets": 4,
-   "ruleMatches": 4,
-   "score": 16,
-   "sports": [
-    "olympic"
-   ],
-   "headlines": [
-    {
-     "title": "College sports notebook: Keller has career night; Stephenson wins two events",
-     "outlet": "The Republic News",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFU1Z29lZ3B6QVJKZEN4ZzZFVHZtTEl0eHM0cFZTb3NfNUFDX3NUenhkNXpad0s1T1d2UkpETUU0cXl6SnRsM3M3dDUxM2dWNGJjRDdIZlRLYWNsZnpwMHRNWjVOS2ZrX0hMU3lUWXR3T2tSTTNjT1BOZXR0bC1FTWdaVUZyeGsybkNiblFuYTNMOUt2bklha0RQTnU2SUduT0NzSG5XdVBETkZBTWxXeFZQX2o?oc=5",
-     "date": "2026-11-24T03:38:39.000Z"
     },
     {
-     "title": "AIDA CFCI-2 D&C organises sports tourney to promote inclusion and leadership",
-     "outlet": "Nagaland Post",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcGl1NG8wejc2LXlqU1NtODR5ZG42a29aUWh5VEFYODc5SzVRYlVvdHdWeE8wUk85bUNpem85cTV1ZHN2b2NrajFyS1FGY1BYcmlzTEx3XzNYQm5RZFlPdVRCbTdnWDVvSUY2NWRsbHRzVE9UYUxabnFmRWYwYnBHTUdvQUdYYWwtQ1U1VUFHS0VldjFMejBGdjF1MFppeldLQ0Y4?oc=5",
-     "date": "2026-11-23T05:41:02.000Z"
-    },
-    {
-     "title": "L.A. arts and culture groups seek funding as LA28 offers limited support",
-     "outlet": "Sports Business Journal",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTjZ4dHJsNTNaV3lyQnFIdkJ0aUxYWnNWd2c0TFM5SHdnRGp2LUFuajZQV1JBblhsZDZWUkQ2bVc5Tl8tUEc2NWUxUno4TG9VTDcwQUJFV2dpaGdmZXl5bHFoQVBNVTI2OERoT2NKaWtLZEQ0ekQ0TE9ZMXZabXlmYlAzMTBJelp1TTRodTVoZkhwYktoLTluUmRnODVMaWd6ZjBxZl92NzBrRldQTS1rVWJCYnc3RXZqWW8yd1BQVTY2NnpObDFILQ?oc=5",
-     "date": "2026-11-19T17:41:50.000Z"
-    },
-    {
-     "title": "Special Olympics UAE honours 280 schools for advancing educational inclusion",
-     "outlet": "www.wam.ae",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN05XOHEteE9uUTY5dFU2YXZEbkY4YW8wbzNvQk1jaG5QUkhDSFBnMlpQa3VOekJWUlllbGRaT3JUeGh1T2NZMm14bXJ1ZV9sUTBqM0lBUVpfZjZxLUFEMTFtal81Z2tlNFZJZ3Y4NFpEaTJjSTZDY1Y2eE1UOXh6Y1Z6MHhVbE9EYnc?oc=5",
-     "date": "2026-11-18T13:44:22.000Z"
+     "title": "Sports ministry sets up panel to map league reforms",
+     "outlet": "sports.economictimes.indiatimes.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOclZ2S3ozMWVjaXVrT2tfNkdqMWNaWkl1Z3R2ZFNLNFZ2N215WmFkaGtKY0laRmpzVzJ3LXJTd2dKVEJtbWtYR2JUVXY4TFpnZlF0UklydUJiREdtenhmNUY1bWtNbzkyNXgxSkp5YzBta2FKNndNa0M0RFpwN1FvRjl2a2JFN1BRbWc5WEp4aFAxSGxDMUU3Wkt1TDlRMmdOWEx5amdLSHM2S09pUUhpTnVPTVVHX0gzYjN0RjVKa2J2M2QxOGRZ0gHLAUFVX3lxTFA2M29JREIzQ1FEQllGNGl2WW5SaC12eENxWmRUaUVyVWtMNWdzQkhPY3B5Y3FKbHdTWi00dE55YVdxUVp1T0FXNXhYeXh1YkdJQ29zYjVpR1FLeDRTQ3pnRFRKRGhMTFVLN0Q3M2tDazNnZExTTWt1dXJCNGJVbmNjY2dYdHpKLUNlakVGS0xnNlBhcU9WZVA0T3VQSDJUc3gtLWh1TkpnZTFaaE4wUTVNN0VwY3Rxang2ZEhERGdKcE9lbDJuRGRnOW5B?oc=5",
+     "date": "2026-11-18T19:51:34.000Z"
     }
    ]
   }
@@ -2180,6 +2194,32 @@ window.SSAC_TRENDS = {
     "climate": 27,
     "startups": 26,
     "careers": 16
+   }
+  },
+  {
+   "date": "2026-11-25",
+   "scores": {
+    "global": 485,
+    "fans": 409,
+    "women": 387,
+    "media": 346,
+    "college": 320,
+    "betting": 307,
+    "youth": 287,
+    "roster": 277,
+    "ownership": 276,
+    "athletes": 268,
+    "sponsorship": 134,
+    "leagues": 115,
+    "tech": 106,
+    "ticketing": 104,
+    "health": 95,
+    "impact": 80,
+    "strategy": 61,
+    "mind": 49,
+    "careers": 40,
+    "climate": 20,
+    "startups": 15
    }
   }
  ]
